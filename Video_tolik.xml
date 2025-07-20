@@ -7,79 +7,93 @@
    <title>Сериалы</title>
     <playlist_url><![CDATA[http://fxmlparsers.in.net/http://seasonvar.ru/]]></playlist_url>
 <description><![CDATA[<center><a href="http://whos.amung.us/stats/t9x66nqslj7l"><img src="http://whos.amung.us/widget/t9x66nqslj7l.png" alt="web stats" width="81" height="25" border="0"/><center><h3><font color=""> </font></center><center><center><font color="#00ccff"> Видеотека в  </font> <font color="red"> HD </font></center><img src="" height='179' width='350'></center>]]></description>
-	<logo_30x30>http://tocha11.strana.de/templates/logo/Icon_HD.png</logo_30x30>
+	<logo_30x30>https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/Icon_HD.png</logo_30x30>
 </channel>
 
 <channel>
    <title>ВилкаДБ</title>
     <playlist_url><![CDATA[http://fxmlparsers.in.net/VilkaDB/]]></playlist_url>
 <description><![CDATA[<center><a href="http://whos.amung.us/stats/t9x66nqslj7l"><img src="http://whos.amung.us/widget/t9x66nqslj7l.png" alt="web stats" width="81" height="25" border="0"/><center><h3><font color=""> </font></center><center><center><font color="#00ccff"> Видеотека в  </font> <font color="red"> HD </font></center><img src="" height='179' width='350'></center>]]></description>
-	<logo_30x30>http://tocha11.strana.de/templates/logo/Icon_HD.png</logo_30x30>
+	<logo_30x30>https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/Icon_HD.png</logo_30x30>
 </channel>
 
 <channel>
    <title>Киноточка</title>
     <playlist_url><![CDATA[http://fxmlparsers.in.net/https://kinotochka.co/]]></playlist_url>
 <description><![CDATA[<center><a href="http://whos.amung.us/stats/t9x66nqslj7l"><img src="http://whos.amung.us/widget/t9x66nqslj7l.png" alt="web stats" width="81" height="25" border="0"/><center><h3><font color=""> </font></center><center><center><font color="#00ccff"> Видеотека в  </font> <font color="red"> HD </font></center><img src="" height='179' width='350'></center>]]></description>
-	<logo_30x30>http://tocha11.strana.de/templates/logo/Icon_HD.png</logo_30x30>
+	<logo_30x30>https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/Icon_HD.png</logo_30x30>
 </channel>
 
 <channel>
-   <title>Кинобаза</title>
-    <playlist_url><![CDATA[http://fxmlparsers.ru/https://kinobase.org/]]></playlist_url>
+   <title>Serials</title>
+    <playlist_url><![CDATA[http://tocha11.strana.de/Tolik/Video/ssv.xml]]></playlist_url>
 <description><![CDATA[<center><a href="http://whos.amung.us/stats/t9x66nqslj7l"><img src="http://whos.amung.us/widget/t9x66nqslj7l.png" alt="web stats" width="81" height="25" border="0"/><center><h3><font color=""> </font></center><center><center><font color="#00ccff"> Видеотека в  </font> <font color="red"> HD </font></center><img src="" height='179' width='350'></center>]]></description>
-	<logo_30x30>http://tocha11.strana.de/templates/logo/Icon_HD.png</logo_30x30>
+	<logo_30x30>https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/Icon_HD.png</logo_30x30>
 </channel>
 <channel>
    <title>VideoCDN</title>
     <playlist_url><![CDATA[http://fxmlparsers.in.net/http://videocdn.tv/]]></playlist_url>
 <description><![CDATA[<center><a href="http://whos.amung.us/stats/t9x66nqslj7l"><img src="http://whos.amung.us/widget/t9x66nqslj7l.png" alt="web stats" width="81" height="25" border="0"/><center><h3><font color=""> </font></center><center><center><font color="#00ccff"> Видеотека в  </font> <font color="red"> HD </font></center><img src="" height='179' width='350'></center>]]></description>
-	<logo_30x30>http://tocha11.strana.de/templates/logo/Icon_HD.png</logo_30x30>
+	<logo_30x30>https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/Icon_HD.png</logo_30x30>
 </channel>
 <channel>
    <title>Кинобейс</title>
     <playlist_url><![CDATA[http://fxmlparsers.in.net/https://cdn.kinobase.org/]]></playlist_url>
 <description><![CDATA[<center><a href="http://whos.amung.us/stats/t9x66nqslj7l"><img src="http://whos.amung.us/widget/t9x66nqslj7l.png" alt="web stats" width="81" height="25" border="0"/><center><h3><font color=""> </font></center><center><center><font color="#00ccff"> Видеотека в  </font> <font color="red"> HD </font></center><img src="" height='179' width='350'></center>]]></description>
-	<logo_30x30>http://tocha11.strana.de/templates/logo/Icon_HD.png</logo_30x30>
+	<logo_30x30>https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/Icon_HD.png</logo_30x30>
 </channel>
 <channel>
-   <title>HD Rezka</title>
-    <playlist_url><![CDATA[http://fxmlparsers.in.net/http://rezka.ag/]]></playlist_url>
+   <title>Filmi</title>
+    <playlist_url><![CDATA[http://tocha11.strana.de/Tolik/Video/sw.xml]]></playlist_url>
 <description><![CDATA[<center><a href="http://whos.amung.us/stats/t9x66nqslj7l"><img src="http://whos.amung.us/widget/t9x66nqslj7l.png" alt="web stats" width="81" height="25" border="0"/><center><h3><font color=""> </font></center><center><center><font color="#00ccff"> Видеотека в  </font> <font color="red"> HD </font></center><img src="" height='179' width='350'></center>]]></description>
-	<logo_30x30>http://tocha11.strana.de/templates/logo/Icon_HD.png</logo_30x30>
+	<logo_30x30>https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/Icon_HD.png</logo_30x30>
 </channel>
+
 <channel>
    <title>Kinokrad</title>
     <playlist_url><![CDATA[http://fxmlparsers.in.net/http://kinokrad.co/]]></playlist_url>
 <description><![CDATA[<center><a href="http://whos.amung.us/stats/t9x66nqslj7l"><img src="http://whos.amung.us/widget/t9x66nqslj7l.png" alt="web stats" width="81" height="25" border="0"/><center><h3><font color=""> </font></center><center><center><font color="#00ccff"> Видеотека в  </font> <font color="red"> HD </font></center><img src="" height='179' width='350'></center>]]></description>
-	<logo_30x30>http://tocha11.strana.de/templates/logo/Icon_HD.png</logo_30x30>
+	<logo_30x30>https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/Icon_HD.png</logo_30x30>
 </channel>
 
 <channel>
 <title>Советские Фильмы</title>
 <playlist_url><![CDATA[http://151.80.59.206//iptv.root-host.pro/Home/RussVideo/sov.php]]></playlist_url>
 <description><![CDATA[<center><a href="http://whos.amung.us/stats/t9x66nqslj7l"><img src="http://whos.amung.us/widget/t9x66nqslj7l.png" alt="web stats" width="81" height="25" border="0"/><center><h3><font color=""> </font></center><center><center><font color="#00ccff"> Видеотека в  </font> <font color="red"> HD </font></center><img src="" height='179' width='350'></center>]]></description>      
-<logo_30x30>http://tocha11.strana.de/templates/logo/Icon_HD.png</logo_30x30>
+<logo_30x30>https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/Icon_HD.png</logo_30x30>
 </channel>
 
 <channel>
     <title>SINEMA</title>
     <playlist_url><![CDATA[http://spiderxml.com/top?web=#submenu29]]></playlist_url>
 <description><![CDATA[<center><a href="http://whos.amung.us/stats/t9x66nqslj7l"><img src="http://whos.amung.us/widget/t9x66nqslj7l.png" alt="web stats" width="81" height="25" border="0"/><center><h3><font color=""> </font></center><center><center><font color="#00ccff"> Видеотека в  </font> <font color="red"> HD </font></center><img src="" height='179' width='350'></center>]]></description>
-	<logo_30x30>http://tocha11.strana.de/templates/logo/Icon_HD.png</logo_30x30>
-</channel>
-<channel>
-    <title>HDKinoteatr</title>
-    <playlist_url><![CDATA[https://dl.dropbox.com/s/c3if4cnohx524ar/Film.m3u]]></playlist_url>
-	<description><![CDATA[<center><a href="http://whos.amung.us/stats/t9x66nqslj7l"><img src="http://whos.amung.us/widget/t9x66nqslj7l.png" alt="web stats" width="81" height="25" border="0"/><center><h3><font color=""> </font></center><center><center><font color="#00ccff"> Видеотека в  </font> <font color="red"> HD </font></center><img src="" height='179' width='350'></center>]]></description>
-	<logo_30x30>http://tocha11.strana.de/templates/logo/Icon_HD.png</logo_30x30>
+	<logo_30x30>https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/Icon_HD.png</logo_30x30>
 </channel>
 <channel>
     <title>IVI</title>
     <playlist_url><![CDATA[http://bezbe.my1.ru/xml/kinzal/ivi.xml]]></playlist_url>
 	<description><![CDATA[<center><a href="http://whos.amung.us/stats/t9x66nqslj7l"><img src="http://whos.amung.us/widget/t9x66nqslj7l.png" alt="web stats" width="81" height="25" border="0"/><center><h3><font color=""> </font></center><center><center><font color="#00ccff"> Видеотека в  </font> <font color="red"> HD </font></center><img src="" height='179' width='350'></center>]]></description>
-	<logo_30x30>http://tocha11.strana.de/templates/logo/Icon_HD.png</logo_30x30>
+	<logo_30x30>https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/Icon_HD.png</logo_30x30>
+</channel>
+
+<channel>
+    <title>Интимчик!!!</title>
+    <playlist_url><![CDATA[https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/irkutsk.m3u]]></playlist_url>
+<description><![CDATA[<center><a href="http://whos.amung.us/stats/t9x66nqslj7l"><img src="http://whos.amung.us/widget/t9x66nqslj7l.png" alt="web stats" width="81" height="25" border="0"/><center><h3><font color=""> </font></center><center><center><font color="#00ccff"> Видеотека в  </font> <font color="red"> HD </font></center><img src="" height='179' width='350'></center>]]></description>
+	<logo_30x30>https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/erotika.png</logo_30x30>
+</channel>
+<channel>
+    <title>Интимчик2!!!</title>
+    <playlist_url><![CDATA[http://porno-smart.ru/parser/hqporn/index]]></playlist_url>
+<description><![CDATA[<center><a href="http://whos.amung.us/stats/t9x66nqslj7l"><img src="http://whos.amung.us/widget/t9x66nqslj7l.png" alt="web stats" width="81" height="25" border="0"/><center><h3><font color=""> </font></center><center><center><font color="#00ccff"> Видеотека в  </font> <font color="red"> HD </font></center><img src="" height='179' width='350'></center>]]></description>
+	<logo_30x30>https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/erotika.png</logo_30x30>
 </channel>
 
 
+<channel>
+<title>Экстрасенсы</title>
+<playlist_url>https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/Vod2.xml</playlist_url>
+<description><![CDATA[<center><a href=""><img src="http://filmix.net/uploads/posters/poster_58623_212.jpg" alt="web stats" width="81" height="25" border="0"/><center><h3><font color=""> </font></center><center><center><font color="#00ccff"> Видеотека в  </font> <font color="red"> HD </font></center><img src="" height='179' width='350'></center>]]></description> 
+<logo_30x30>https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/Icon_HD.png</logo_30x30>
+</channel>
 </items>
