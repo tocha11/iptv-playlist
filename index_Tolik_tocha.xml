@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+<playlist_name>Tolik</playlist_name> 
+<channel>
+	<title><![CDATA[<font color="#24ff00">"IPTV-ТВ"</font>]]></title>
+	<playlist_url><![CDATA[https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/index_IPTV.xml]]></playlist_url>
+	<description><![CDATA[<table><td style="vertical-align: top"><img src="http://tocha11.strana.de/templates/logo/iptvopuxq.png" height="140" width="140" /></td><td>IP-TV Это цифровое телевидение <br> нового поколения!<br><h2><br></h2></td></table>==============================================]]></description>
+	<logo_30x30>http://tocha11.strana.de/templates/logo/iptvopuxq.png</logo_30x30>
+</channel>
+<channel>
+	<title><![CDATA[<font color="#00ccff">"МОЯ-ВИДЕОТЕКА"</font>]]></title>
+    <playlist_url><![CDATA[https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/Video_tolik.xml]]></playlist_url>
+	<description><![CDATA[<table><td style="vertical-align: top"><img src="http://tocha11.strana.de/templates/logo/netplayer.png" height="140" width="140" /></td><td>Медиакаталог с множеством<br> видеопродукции на любой<br>вкус!<br><h2><br></h2></td></table>=============================================]]></description>
+	<logo_30x30>http://tocha11.strana.de/templates/logo/netplayer.png</logo_30x30>
+</channel>
+
+</items>
