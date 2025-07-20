@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+<options><playlist_limits>nosavefav,no_save_fav,no_save_playlist</playlist_limits></options>
+
+<channel>
+<title><![CDATA[<font color="FF7F24">A<font color="#00ccff">BC</font>]]></title>
+<playlist_url><![CDATA[http://bezbe.my1.ru/xml/ssp.xml]]></playlist_url>
+<description><![CDATA[<center></br><img src="http://sp-social.ru/pic/next.png" height="280" width="200"</br></br></br>Далее <description></center>]]></description>
+<logo_30x30><![CDATA[http://sp-social.ru/pic/next.png]]></logo_30x30>
+</channel>
+<channel>
+<title><![CDATA[<font color="FF7F24">A<font color="#00ccff">BC</font>]]></title>
+<playlist_url><![CDATA[http://bezbe.my1.ru/xml/ssd.xml]]></playlist_url>
+<description><![CDATA[<center></br><img src="http://sp-social.ru/pic/next.png" height="280" width="200"</br></br></br>Далее <description></center>]]></description>
+<logo_30x30><![CDATA[http://sp-social.ru/pic/next.png]]></logo_30x30>
+</channel>
+<channel>
+<title><![CDATA[<font color="FF7F24">Р<font color="#00ccff">оссия</font>]]></title>
+<playlist_url><![CDATA[http://bezbe.my1.ru/xml/svr.js]]></playlist_url>
+<playlist_url><![CDATA[http://sp-social.ru/12/sa.xml]]></playlist_url>
+<description><![CDATA[<center></br><img src="http://sp-social.ru/pic/next.png" height="280" width="200"</br></br></br>Далее <description></center>]]></description>
+<logo_30x30><![CDATA[http://sp-social.ru/pic/next.png]]></logo_30x30>
+</channel>
+<channel>
+<title><![CDATA[<font color="FF7F24">Ж<font color="#00ccff">анры</font>]]></title>
+<playlist_url><![CDATA[http://bezbe.my1.ru/test/poisk.xml]]></playlist_url>
+<description><![CDATA[<center></br><img src="http://sp-social.ru/pic/next.png" height="280" width="200"</br></br></br>Далее <description></center>]]></description>
+<logo_30x30><![CDATA[http://sp-social.ru/pic/next.png]]></logo_30x30>
+</channel>
+
+<channel>
+<title><![CDATA[<font color="#00ccff">1 стр</font>]]></title>
+<playlist_url><![CDATA[http://smartportaltv.ru/2/mov.php?name=/genreserial/russkiy/]]></playlist_url>
+<description><![CDATA[<center></br><img src="http://sp-social.ru/pic/next.png" height="280" width="200"</br></br></br>Далее <description></center>]]></description>
+<logo_30x30><![CDATA[http://sp-social.ru/pic/next.png]]></logo_30x30>
+</channel>
+<channel>
+<title><![CDATA[<font color="#00ccff">10 стр</font>]]></title>
+<playlist_url><![CDATA[http://smartportaltv.ru/2/mov2.php?name=/genreserial/russkiy/page/10/]]></playlist_url>
+<description><![CDATA[<center></br><img src="http://sp-social.ru/pic/next.png" height="280" width="200"</br></br></br>Далее <description></center>]]></description>
+<logo_30x30><![CDATA[http://sp-social.ru/pic/next.png]]></logo_30x30>
+</channel>
+<channel>
+<title><![CDATA[<font color="#00ccff">20 стр</font>]]></title>
+<playlist_url><![CDATA[http://smartportaltv.ru/2/mov2.php?name=/genreserial/russkiy/page/20/]]></playlist_url>
+<description><![CDATA[<center></br><img src="http://sp-social.ru/pic/next.png" height="280" width="200"</br></br></br>Далее <description></center>]]></description>
+<logo_30x30><![CDATA[http://sp-social.ru/pic/next.png]]></logo_30x30>
+</channel>
+
+<channel>
+<title><![CDATA[<font color="#00ccff">30 стр</font>]]></title>
+<playlist_url><![CDATA[http://smartportaltv.ru/2/mov2.php?name=/genreserial/russkiy/page/30/]]></playlist_url>
+<description><![CDATA[<center></br><img src="http://sp-social.ru/pic/next.png" height="280" width="200"</br></br></br>Далее <description></center>]]></description>
+<logo_30x30><![CDATA[http://sp-social.ru/pic/next.png]]></logo_30x30>
+</channel>
+<channel>
+<title><![CDATA[<font color="#00ccff">40 стр</font>]]></title>
+<playlist_url><![CDATA[http://smartportaltv.ru/2/mov2.php?name=/genreserial/russkiy/page/40/]]></playlist_url>
+<description><![CDATA[<center></br><img src="http://sp-social.ru/pic/next.png" height="280" width="200"</br></br></br>Далее <description></center>]]></description>
+<logo_30x30><![CDATA[http://sp-social.ru/pic/next.png]]></logo_30x30>
+</channel>
+<channel>
+<title><![CDATA[<font color="#00ccff">50 стр</font>]]></title>
+<playlist_url><![CDATA[http://smartportaltv.ru/2/mov2.php?name=/genreserial/russkiy/page/50/]]></playlist_url>
+<description><![CDATA[<center></br><img src="http://sp-social.ru/pic/next.png" height="280" width="200"</br></br></br>Далее <description></center>]]></description>
+<logo_30x30><![CDATA[http://sp-social.ru/pic/next.png]]></logo_30x30>
+</channel>
+<channel>
+<title><![CDATA[<font color="#00ccff">60 стр</font>]]></title>
+<playlist_url><![CDATA[http://smartportaltv.ru/2/mov2.php?name=/genreserial/russkiy/page/60/]]></playlist_url>
+<description><![CDATA[<center></br><img src="http://sp-social.ru/pic/next.png" height="280" width="200"</br></br></br>Далее <description></center>]]></description>
+<logo_30x30><![CDATA[http://sp-social.ru/pic/next.png]]></logo_30x30>
+</channel>
+<channel>
+<title><![CDATA[<font color="#00ccff">70 стр</font>]]></title>
+<playlist_url><![CDATA[http://smartportaltv.ru/2/mov2.php?name=/genreserial/russkiy/page/70/]]></playlist_url>
+<description><![CDATA[<center></br><img src="http://sp-social.ru/pic/next.png" height="280" width="200"</br></br></br>Далее <description></center>]]></description>
+<logo_30x30><![CDATA[http://sp-social.ru/pic/next.png]]></logo_30x30>
+</channel>
+
+<channel>
+<title><![CDATA[<font color="#00ccff">80 стр</font>]]></title>
+<playlist_url><![CDATA[http://smartportaltv.ru/2/mov2.php?name=/genreserial/russkiy/page/80/]]></playlist_url>
+<description><![CDATA[<center></br><img src="http://sp-social.ru/pic/next.png" height="280" width="200"</br></br></br>Далее <description></center>]]></description>
+<logo_30x30><![CDATA[http://sp-social.ru/pic/next.png]]></logo_30x30>
+</channel>
+<channel>
+<title><![CDATA[<font color="#00ccff">90 стр</font>]]></title>
+<playlist_url><![CDATA[http://smartportaltv.ru/2/mov2.php?name=/genreserial/russkiy/page/90/]]></playlist_url>
+<description><![CDATA[<center></br><img src="http://sp-social.ru/pic/next.png" height="280" width="200"</br></br></br>Далее <description></center>]]></description>
+<logo_30x30><![CDATA[http://sp-social.ru/pic/next.png]]></logo_30x30>
+</channel>
+<channel>
+<title><![CDATA[<font color="#00ccff">100 стр</font>]]></title>
+<playlist_url><![CDATA[http://smartportaltv.ru/2/mov2.php?name=/genreserial/russkiy/page/100/]]></playlist_url>
+<description><![CDATA[<center></br><img src="http://sp-social.ru/pic/next.png" height="280" width="200"</br></br></br>Далее <description></center>]]></description>
+<logo_30x30><![CDATA[http://sp-social.ru/pic/next.png]]></logo_30x30>
+</channel>
+
+</items>
