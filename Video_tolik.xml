@@ -26,7 +26,7 @@
 
 <channel>
    <title>Serials</title>
-    <playlist_url><![CDATA[http://tocha11.strana.de/Tolik/Video/ssv.xml]]></playlist_url>
+    <playlist_url><![CDATA[https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/ssv.xml]]></playlist_url>
 <description><![CDATA[<center><a href="http://whos.amung.us/stats/t9x66nqslj7l"><img src="http://whos.amung.us/widget/t9x66nqslj7l.png" alt="web stats" width="81" height="25" border="0"/><center><h3><font color=""> </font></center><center><center><font color="#00ccff"> Видеотека в  </font> <font color="red"> HD </font></center><img src="" height='179' width='350'></center>]]></description>
 	<logo_30x30>https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/Icon_HD.png</logo_30x30>
 </channel>
@@ -44,7 +44,7 @@
 </channel>
 <channel>
    <title>Filmi</title>
-    <playlist_url><![CDATA[http://tocha11.strana.de/Tolik/Video/sw.xml]]></playlist_url>
+    <playlist_url><![CDATA[https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/sw.xml]]></playlist_url>
 <description><![CDATA[<center><a href="http://whos.amung.us/stats/t9x66nqslj7l"><img src="http://whos.amung.us/widget/t9x66nqslj7l.png" alt="web stats" width="81" height="25" border="0"/><center><h3><font color=""> </font></center><center><center><font color="#00ccff"> Видеотека в  </font> <font color="red"> HD </font></center><img src="" height='179' width='350'></center>]]></description>
 	<logo_30x30>https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/Icon_HD.png</logo_30x30>
 </channel>
