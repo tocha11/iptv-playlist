@@ -4,8 +4,8 @@
 <channel>
 	<title><![CDATA[<font color="#24ff00">"IPTV-ТВ"</font>]]></title>
 	<playlist_url><![CDATA[https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/index_IPTV.xml]]></playlist_url>
-	<description><![CDATA[<table><td style="vertical-align: top"><img src="https://github.com/tocha11/iptv-playlist/blob/main/iptvopuxq.png" height="140" width="140" /></td><td>IP-TV Это цифровое телевидение <br> нового поколения!<br><h2><br></h2></td></table>==============================================]]></description>
-	<logo_30x30>https://github.com/tocha11/iptv-playlist/blob/main/netplayer.png</logo_30x30>
+	<description><![CDATA[<table><td style="vertical-align: top"><img src="https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/iptvopuxq.png" height="140" width="140" /></td><td>IP-TV Это цифровое телевидение <br> нового поколения!<br><h2><br></h2></td></table>==============================================]]></description>
+	<logo_30x30>https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/iptvopuxq.png</logo_30x30>
 </channel>
 <channel>
 	<title><![CDATA[<font color="#00ccff">"МОЯ-ВИДЕОТЕКА"</font>]]></title>
