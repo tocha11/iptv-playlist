@@ -12,7 +12,7 @@
 <channel>
 	<title><![CDATA[<font color="#00ccff">"Воронеж"</font>]]></title>
 	<playlist_url><![CDATA[https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/vorones.m3u]]></playlist_url>
-	<description><![CDATA[<center><font color="#a0a0a0" size="-1">iptv-Tolik</font><br><img src="http://monitor.zone-game.info/check.php?do=status&ip=46.164.245.232&port=4022&id=9"/><hr><h2>Tolik</font></center>]]></description>
+	<description><![CDATA[<center><font color="#a0a0a0" size="-1">iptv-Tolik</font><br><img src="http://monitor.zone-game.info/check.php?do=status&ip=46.164.237.18&port=4022&id=9"/><hr><h2>Tolik</font></center>]]></description>
 	<logo_30x30>http://tocha11.strana.de/templates/logo/IPTV_NOW.png</logo_30x30>
 </channel>
 
