@@ -19,7 +19,7 @@
 	<title><![CDATA[<font color="#00ccff">"Черноземье"</font>]]></title>
 	<playlist_url><![CDATA[https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/chernoseme.m3u]]></playlist_url>
 	<description><![CDATA[<center><font color="#a0a0a0" size="-1">iptv-Tolik</font><br><img src="http://monitor.zone-game.info/check.php?do=status&ip=46.164.248.8&port=1&id=9"/><hr><h2>Tolik</font></center>]]></description>
-	<logo_30x30>http://tocha11.strana.de/templates/logo/IPTV_NOW.png</logo_30x30>
+	<logo_30x30>https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/IPTV_NOW.png</logo_30x30>
 </channel>
 <channel>
 	<title><![CDATA[<font color="#00ccff">"Урал ТВ"</font>]]></title>
@@ -43,7 +43,7 @@
 	<title><![CDATA[<font color="#00ccff">"Тольятти"</font>]]></title>
 	<playlist_url><![CDATA[https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/toljati_3.m3u]]></playlist_url>
 	<description><![CDATA[<center><font color="#a0a0a0" size="-1">iptv-Tolik</font><br><img src="http://monitor.zone-game.info/check.php?do=status&ip=178.163.42.157&port=4022&id=9"/><hr><h2>Tolik</font></center>]]></description>
-	<logo_30x30>http://tocha11.strana.de/templates/logo/IPTV_NOW.png</logo_30x30>
+	<logo_30x30>https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/IPTV_NOW.png</logo_30x30>
 </channel>
 <channel>
 	<title><![CDATA[<font color="#00ccff">"Самара"</font>]]></title>
@@ -62,13 +62,13 @@
 	<title><![CDATA[Peers Arhiv-ТВ]]></title>
 	<playlist_url><![CDATA[https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/Pers__arhiv.m3u]]></playlist_url>
 	<description><![CDATA[<center><font color="#a0a0a0" size="-1">iptv-Tolik</font><br><img src="http://monitor.zone-game.info/check.php?do=status&ip=83.217.8.171&port=9001&id=9"/><hr><h2>Tolik</font></center>]]></description>
-	<logo_30x30>http://tocha11.strana.de/templates/logo/IPTV_NOW.png</logo_30x30>
+	<logo_30x30>https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/IPTV_NOW.png</logo_30x30>
 </channel>
 <channel>
 	<title><![CDATA[Новосибирск]]></title>
 	<playlist_url><![CDATA[https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/novosibirskij.m3u]]></playlist_url>
 	<description><![CDATA[<center><font color="#a0a0a0" size="-1">iptv-Tolik</font><br><img src="http://monitor.zone-game.info/check.php?do=status&ip=37.192.47.84&port=81&id=9"/><hr><h2>Tolik</font></center>]]></description>
-	<logo_30x30>http://tocha11.strana.de/templates/logo/IPTV_NOW.png</logo_30x30>
+	<logo_30x30>https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/IPTV_NOW.png</logo_30x30>
 </channel>
 <channel>
 	<title><![CDATA[Иркутск]]></title>
