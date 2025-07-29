@@ -3,9 +3,16 @@
 <playlist_name>IPTV-TV</playlist_name>
 
 <channel>
+	<title><![CDATA[<font color="#00ccff">"Москва"</font>]]></title>
+	<playlist_url><![CDATA[https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/moskua.m3u]]></playlist_url>
+	<description><![CDATA[<center><font color="#a0a0a0" size="-1">iptv-Tolik</font><br><img src="http://monitor.zone-game.info/check.php?do=status&ip=93.80.81.52&port=4022&id=9"/><hr><h2>Tolik</font></center>]]></description>
+	<logo_30x30>http://tocha11.strana.de/templates/logo/IPTV_NOW.png</logo_30x30>
+</channel>
+
+<channel>
 	<title><![CDATA[<font color="#00ccff">"Питербург"</font>]]></title>
 	<playlist_url><![CDATA[https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/piterburg.m3u]]></playlist_url>
-	<description><![CDATA[<center><font color="#a0a0a0" size="-1">iptv-Tolik</font><br><img src="http://monitor.zone-game.info/check.php?do=status&ip=188.187.80.192&port=81&id=9"/><hr><h2>Tolik</font></center>]]></description>
+	<description><![CDATA[<center><font color="#a0a0a0" size="-1">iptv-Tolik</font><br><img src="http://monitor.zone-game.info/check.php?do=status&ip=5.16.79.86&port=81&id=9"/><hr><h2>Tolik</font></center>]]></description>
 	<logo_30x30>https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/IPTV_NOW.png</logo_30x30>
 </channel>
 
@@ -16,7 +23,7 @@
 	<logo_30x30>https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/IPTV_NOW.png</logo_30x30>
 </channel>
 <channel>
-	<title><![CDATA[<font color="#00ccff">"Москва"</font>]]></title>
+	<title><![CDATA[<font color="#00ccff">"Черноземе"</font>]]></title>
 	<playlist_url><![CDATA[https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/chernoseme.m3u]]></playlist_url>
 	<description><![CDATA[<center><font color="#a0a0a0" size="-1">iptv-Tolik</font><br><img src="http://monitor.zone-game.info/check.php?do=status&ip=46.164.233.66&port=1&id=9"/><hr><h2>Tolik</font></center>]]></description>
 	<logo_30x30>https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/IPTV_NOW.png</logo_30x30>
