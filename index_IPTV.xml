@@ -5,7 +5,7 @@
 <channel>
 	<title><![CDATA[<font color="#00ccff">"Москва"</font>]]></title>
 	<playlist_url><![CDATA[https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/novmoskva.m3u]]></playlist_url>
-	<description><![CDATA[<center><font color="#a0a0a0" size="-1">iptv-Tolik</font><br><img src="http://monitor.zone-game.info/check.php?do=status&ip=91.190.178.235&port=81&id=9"/><hr><h2>Tolik</font></center>]]></description>
+	<description><![CDATA[<center><font color="#a0a0a0" size="-1">iptv-Tolik</font><br><img src="http://monitor.zone-game.info/check.php?do=status&ip=185.229.235.30&port=8005&id=9"/><hr><h2>Tolik</font></center>]]></description>
 	<logo_30x30>http://tocha11.strana.de/templates/logo/IPTV_NOW.png</logo_30x30>
 </channel>
 <channel>
