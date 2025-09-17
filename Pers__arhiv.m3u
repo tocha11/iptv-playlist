@@ -1,15 +1,15 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2015/10/08/55753/55753431.png" group-title="All", Первый канал HD 
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2015/10/08/55753/55753431.png" group-title="All", Первый канал +4 
 http://api.peers.tv/timeshift/1kanal_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTgxODk2MTgsImlhdCI6MTc1ODEwMzIxOCwiY2lkIjo4MSwidWlkIjo5Mjg0MDgzOTIsInJlZyI6ZmFsc2UsImlwIjo2MzM5MzA3ODJ9.XoKy2tXY6gqUcfCCHARCysghkcp7nGsnKPeg5Wvral8&offset=1
-#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2015/10/08/55753/55753431.png" group-title="All", Первый канал 
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2015/10/08/55753/55753431.png" group-title="All", Первый канал +4
 http://api.peers.tv/timeshift/1kanal/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTgxODk2MTgsImlhdCI6MTc1ODEwMzIxOCwiY2lkIjo4MSwidWlkIjo5Mjg0MDgzOTIsInJlZyI6ZmFsc2UsImlwIjo2MzM5MzA3ODJ9.XoKy2tXY6gqUcfCCHARCysghkcp7nGsnKPeg5Wvral8&offset=1
-#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2015/10/08/55753/55753431.png" group-title="All", Первый канал HD -1
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2015/10/08/55753/55753431.png" group-title="All", Первый канал +4
 http://api.peers.tv/timeshift/1kanal_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTgxODk2MTgsImlhdCI6MTc1ODEwMzIxOCwiY2lkIjo4MSwidWlkIjo5Mjg0MDgzOTIsInJlZyI6ZmFsc2UsImlwIjo2MzM5MzA3ODJ9.XoKy2tXY6gqUcfCCHARCysghkcp7nGsnKPeg5Wvral8&offset=10
-#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2015/10/08/55753/55753431.png" group-title="All", Первый канал -1
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2015/10/08/55753/55753431.png" group-title="All", Первый канал +4
 http://api.peers.tv/timeshift/1kanal/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTgxODk2MTgsImlhdCI6MTc1ODEwMzIxOCwiY2lkIjo4MSwidWlkIjo5Mjg0MDgzOTIsInJlZyI6ZmFsc2UsImlwIjo2MzM5MzA3ODJ9.XoKy2tXY6gqUcfCCHARCysghkcp7nGsnKPeg5Wvral8&offset=10
-#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2015/10/08/55753/55753431.png" group-title="All", Первый канал HD -2
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2015/10/08/55753/55753431.png" group-title="All", Первый канал +4
 http://api.peers.tv/timeshift/1kanal_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTgxODk2MTgsImlhdCI6MTc1ODEwMzIxOCwiY2lkIjo4MSwidWlkIjo5Mjg0MDgzOTIsInJlZyI6ZmFsc2UsImlwIjo2MzM5MzA3ODJ9.XoKy2tXY6gqUcfCCHARCysghkcp7nGsnKPeg5Wvral8&offset=12
-#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2015/10/08/55753/55753431.png" group-title="All", Первый канал -2
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2015/10/08/55753/55753431.png" group-title="All", Первый канал +4
 http://api.peers.tv/timeshift/1kanal/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTgxODk2MTgsImlhdCI6MTc1ODEwMzIxOCwiY2lkIjo4MSwidWlkIjo5Mjg0MDgzOTIsInJlZyI6ZmFsc2UsImlwIjo2MzM5MzA3ODJ9.XoKy2tXY6gqUcfCCHARCysghkcp7nGsnKPeg5Wvral8&offset=10
 #EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2015/10/08/55753/55753431.png" group-title="All", Первый канал +4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Linux; U; Android 8.0.1;
@@ -17,25 +17,25 @@ http://api.peers.tv/timeshift/1kanal/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIs
 #EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2013/11/06/25843/25843682.png" group-title="All", Первый канал +4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Linux; U; Android 8.0.1;
 http://api.peers.tv/timeshift/1kanal_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTgxODk2MTgsImlhdCI6MTc1ODEwMzIxOCwiY2lkIjo4MSwidWlkIjo5Mjg0MDgzOTIsInJlZyI6ZmFsc2UsImlwIjo2MzM5MzA3ODJ9.XoKy2tXY6gqUcfCCHARCysghkcp7nGsnKPeg5Wvral8&offset=12
-#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2020/04/01/198300/198300771.png" group-title="All", Россия 1 -2
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2020/04/01/198300/198300771.png" group-title="All", Россия 1 +4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Linux; U; Android 8.0.1;
 http://api.peers.tv/timeshift/rossija/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTgxODk2MTgsImlhdCI6MTc1ODEwMzIxOCwiY2lkIjo4MSwidWlkIjo5Mjg0MDgzOTIsInJlZyI6ZmFsc2UsImlwIjo2MzM5MzA3ODJ9.XoKy2tXY6gqUcfCCHARCysghkcp7nGsnKPeg5Wvral8&offset=10
-#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2020/04/01/198300/198300771.png" group-title="All", Россия HD -2
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2020/04/01/198300/198300771.png" group-title="All", Россия 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Linux; U; Android 8.0.1;
 http://api.peers.tv/timeshift/russiahd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTgxODk2MTgsImlhdCI6MTc1ODEwMzIxOCwiY2lkIjo4MSwidWlkIjo5Mjg0MDgzOTIsInJlZyI6ZmFsc2UsImlwIjo2MzM5MzA3ODJ9.XoKy2tXY6gqUcfCCHARCysghkcp7nGsnKPeg5Wvral8&offset=10
-#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2020/04/01/198300/198300771.png" group-title="All", Россия   
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2020/04/01/198300/198300771.png" group-title="All", Россия 1  
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Linux; U; Android 8.0.1;
 http://api.peers.tv/timeshift/rossija/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTgxODk2MTgsImlhdCI6MTc1ODEwMzIxOCwiY2lkIjo4MSwidWlkIjo5Mjg0MDgzOTIsInJlZyI6ZmFsc2UsImlwIjo2MzM5MzA3ODJ9.XoKy2tXY6gqUcfCCHARCysghkcp7nGsnKPeg5Wvral8&offset=1
-#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2020/04/01/198300/198300771.png" group-title="All", Россия HD 
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2020/04/01/198300/198300771.png" group-title="All", Россия 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Linux; U; Android 8.0.1;
 http://api.peers.tv/timeshift/russiahd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTgxODk2MTgsImlhdCI6MTc1ODEwMzIxOCwiY2lkIjo4MSwidWlkIjo5Mjg0MDgzOTIsInJlZyI6ZmFsc2UsImlwIjo2MzM5MzA3ODJ9.XoKy2tXY6gqUcfCCHARCysghkcp7nGsnKPeg5Wvral8&offset=12
 #EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2020/04/01/198300/198300771.png" group-title="All", Россия 1 +4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Linux; U; Android 8.0.1;
 http://api.peers.tv/timeshift/rossija/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTgxODk2MTgsImlhdCI6MTc1ODEwMzIxOCwiY2lkIjo4MSwidWlkIjo5Mjg0MDgzOTIsInJlZyI6ZmFsc2UsImlwIjo2MzM5MzA3ODJ9.XoKy2tXY6gqUcfCCHARCysghkcp7nGsnKPeg5Wvral8&offset=12
-#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2020/04/01/198300/198300790.png" group-title="All", Россия 24 
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2020/04/01/198300/198300790.png" group-title="All", Россия 24 +4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Linux; U; Android 8.0.1;
 http://api.peers.tv/timeshift/vesti/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTgxODk2MTgsImlhdCI6MTc1ODEwMzIxOCwiY2lkIjo4MSwidWlkIjo5Mjg0MDgzOTIsInJlZyI6ZmFsc2UsImlwIjo2MzM5MzA3ODJ9.XoKy2tXY6gqUcfCCHARCysghkcp7nGsnKPeg5Wvral8&offset=12
-#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2020/04/01/198300/198300790.png" group-title="All", Россия 24 -2
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2020/04/01/198300/198300790.png" group-title="All", Россия 24 +4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Linux; U; Android 8.0.1;
 http://api.peers.tv/timeshift/vesti/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTgxODk2MTgsImlhdCI6MTc1ODEwMzIxOCwiY2lkIjo4MSwidWlkIjo5Mjg0MDgzOTIsInJlZyI6ZmFsc2UsImlwIjo2MzM5MzA3ODJ9.XoKy2tXY6gqUcfCCHARCysghkcp7nGsnKPeg5Wvral8&offset=1
 #EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2020/04/01/198300/198300790.png" group-title="All", Россия 24 
@@ -44,16 +44,16 @@ http://api.peers.tv/timeshift/vesti/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsI
 #EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/14/102078/102078544.png" group-title="All", ТВ Центр +4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Linux; U; Android 8.0.1;
 http://api.peers.tv/timeshift/tvc/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTgxODk2MTgsImlhdCI6MTc1ODEwMzIxOCwiY2lkIjo4MSwidWlkIjo5Mjg0MDgzOTIsInJlZyI6ZmFsc2UsImlwIjo2MzM5MzA3ODJ9.XoKy2tXY6gqUcfCCHARCysghkcp7nGsnKPeg5Wvral8&offset=12
-#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/14/102078/102078544.png" group-title="All", ТВ Центр
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/14/102078/102078544.png" group-title="All", ТВ Центр +4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Linux; U; Android 8.0.1;
 http://api.peers.tv/timeshift/tvc/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTgxODk2MTgsImlhdCI6MTc1ODEwMzIxOCwiY2lkIjo4MSwidWlkIjo5Mjg0MDgzOTIsInJlZyI6ZmFsc2UsImlwIjo2MzM5MzA3ODJ9.XoKy2tXY6gqUcfCCHARCysghkcp7nGsnKPeg5Wvral8&offset=1
-#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/01/101141/101141591.png" group-title="All", 8 канал
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/01/101141/101141591.png" group-title="All", 8 канал +4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Linux; U; Android 8.0.1;
 http://api.peers.tv/timeshift/8_kanal/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTgxODk2MTgsImlhdCI6MTc1ODEwMzIxOCwiY2lkIjo4MSwidWlkIjo5Mjg0MDgzOTIsInJlZyI6ZmFsc2UsImlwIjo2MzM5MzA3ODJ9.XoKy2tXY6gqUcfCCHARCysghkcp7nGsnKPeg5Wvral8&offset=12
 #EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/04/101331/101331413.png" group-title="All", Звезда +4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Linux; U; Android 8.0.1;
 http://api.peers.tv/timeshift/zvezda/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTgxODk2MTgsImlhdCI6MTc1ODEwMzIxOCwiY2lkIjo4MSwidWlkIjo5Mjg0MDgzOTIsInJlZyI6ZmFsc2UsImlwIjo2MzM5MzA3ODJ9.XoKy2tXY6gqUcfCCHARCysghkcp7nGsnKPeg5Wvral8&offset=12
-#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/04/101331/101331413.png" group-title="All", Звезда
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/04/101331/101331413.png" group-title="All", Звезда +4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Linux; U; Android 8.0.1;
 http://api.peers.tv/timeshift/zvezda/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTgxODk2MTgsImlhdCI6MTc1ODEwMzIxOCwiY2lkIjo4MSwidWlkIjo5Mjg0MDgzOTIsInJlZyI6ZmFsc2UsImlwIjo2MzM5MzA3ODJ9.XoKy2tXY6gqUcfCCHARCysghkcp7nGsnKPeg5Wvral8&offset=1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMyCKac2yY35pEo3Rf1S65HovfFfyL1S_5b07B_SADxyo3aSjCdmkDZcXLWg&s" group-title="All",ТВК
