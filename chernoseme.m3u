@@ -3,6 +3,8 @@
 http://188.191.189.95:81/udp/239.192.10.23:1234
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1
 http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24
+http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA24.m3u8
 #EXTINF:-1,Россия К
 http://188.191.189.95:81/udp/239.192.10.84:1234
 #EXTINF:-1,Звезда
