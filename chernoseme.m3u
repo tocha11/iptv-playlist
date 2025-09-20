@@ -1,40 +1,44 @@
 #EXTM3U
-#EXTINF:-1,Первый канал
+#EXTINF:-1,Первый канал +4
 http://188.191.189.95:81/udp/239.192.10.23:1234
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1
 http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1.m3u8
+#EXTINF:-1 group-title="АБАКАН",Россия 1 +4
+http://dmitry-tv.ddns.net/hls/smotrim/region/CH_RUSSIA1_ABAKAN.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24
 http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA24.m3u8
-#EXTINF:-1,Россия К
+#EXTINF:-1,Россия К +4
 http://188.191.189.95:81/udp/239.192.10.84:1234
-#EXTINF:-1,Звезда
+#EXTINF:-1,Звезда +4
 http://188.191.189.95:81/udp/239.192.10.1:1234
-#EXTINF:-1,НТВ
+#EXTINF:-1,НТВ +4
 http://188.191.189.95:81/udp/239.192.10.2:1234
-#EXTINF:-1,Рен ТВ
+#EXTINF:-1,Рен ТВ +4
 http://188.191.189.95:81/udp/239.192.10.20:1234
-#EXTINF:-1,СТС
+#EXTINF:-1,СТС +4
 http://188.191.189.95:81/udp/239.192.10.21:1234
-#EXTINF:-1,ТНТ
+#EXTINF:-1,ТНТ +4
 http://188.191.189.95:81/udp/239.192.10.3:1234
-#EXTINF:-1,ТВ Центр
+#EXTINF:-1,ТВ Центр +4
 http://188.191.189.95:81/udp/239.192.10.143:1234
-#EXTINF:-1,RU.TV 
+#EXTINF:-1,RU.TV +4
 http://188.191.189.95:81/udp/239.192.10.4:1234
 #EXTINF:-1,Первый канал +4
 http://188.191.189.95:81/udp/239.192.10.5:1234
-#EXTINF:-1,Спас
+#EXTINF:-1,Спас +4
 http://188.191.189.95:81/udp/239.192.10.6:1234
-#EXTINF:-1,Мир
+#EXTINF:-1,Мир +4
 http://188.191.189.95:81/udp/239.192.10.7:1234
 #EXTINF:-1,Мир 24 
 http://188.191.189.95:81/udp/239.192.10.8:1234
 #EXTINF:-1,РБК 
 http://188.191.189.95:81/udp/239.192.10.9:1234
-#EXTINF:-1,ТВ3
+#EXTINF:-1,ТВ3 +4
 http://188.191.189.95:81/udp/239.192.10.10:1234
 #EXTINF:-1,Карусель
 http://188.191.189.95:81/udp/239.192.10.11:1234
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",360° 
+http://dmitry-tv.ddns.net/hls/smotrim/CH_360TV_NEWS.m3u8
 #EXTINF:-1,BRIDGE Фреш
 http://188.191.189.95:81/udp/239.192.10.12:1234
 #EXTINF:-1,Муз ТВ
