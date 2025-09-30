@@ -1,83 +1,83 @@
 #EXTM3U url-tvg=\"http://83.217.12.2/epg_lite.xml.gz\" m3uautoload=1 tvg-shift=0
-#EXTINF:-1 group-title=\"Эфирный\" tvg-name=\"244\",Первый канал
+#EXTINF:-1 group-title=\"Эфирный\" tvg-name=\"244\",Первый канал +2
 http://83.217.8.171:9001/1001/live.m3u8
-#EXTINF:-1 group-title=\"Эфирный\" tvg-name=\"2\",Россия 1
+#EXTINF:-1 group-title=\"Эфирный\" tvg-name=\"2\",Россия 1 +2
 http://83.217.8.171:9002/1001/live.m3u8
-#EXTINF:-1 group-title=\"Эфирный\" tvg-name=\"<iptv>match-tv\",Матч!
+#EXTINF:-1 group-title=\"Эфирный\" tvg-name=\"<iptv>match-tv\",Матч! +2
 http://83.217.8.171:9003/1001/live.m3u8
-#EXTINF:-1 group-title=\"Эфирный\" tvg-name=\"24\",НТВ
+#EXTINF:-1 group-title=\"Эфирный\" tvg-name=\"24\",НТВ +2
 http://83.217.8.171:9004/1001/live.m3u8
-#EXTINF:-1 group-title=\"Эфирный\" tvg-name=\"<iptv>5kanal-ru-pl2\",Пятый канал
+#EXTINF:-1 group-title=\"Эфирный\" tvg-name=\"<iptv>5kanal-ru-pl2\",Пятый канал +2
 http://83.217.8.171:9005/1001/live.m3u8
-#EXTINF:-1 group-title=\"Эфирный\" tvg-name=\"5\",Россия К
+#EXTINF:-1 group-title=\"Эфирный\" tvg-name=\"5\",Россия К +2
 http://83.217.8.171:9006/1001/live.m3u8
 #EXTINF:-1 group-title=\"Эфирный\" tvg-name=\"<iptv>rossia-24\",Россия 24
 http://83.217.8.171:9007/1001/live.m3u8
-#EXTINF:-1 group-title=\"Эфирный\" tvg-name=\"<iptv>karusel-pl2\",Карусель
+#EXTINF:-1 group-title=\"Эфирный\" tvg-name=\"<iptv>karusel-pl2\",Карусель +2
 http://83.217.8.171:9008/1001/live.m3u8
-#EXTINF:-1 group-title=\"Эфирный\" tvg-name=\"<iptv>otr-pl2\",ОТР
+#EXTINF:-1 group-title=\"Эфирный\" tvg-name=\"<iptv>otr-pl2\",ОТР +2
 http://83.217.8.171:9009/1001/live.m3u8
-#EXTINF:-1 group-title=\"Эфирный\" tvg-name=\"<iptv>tvcentr-pl2\",ТВ Центр
+#EXTINF:-1 group-title=\"Эфирный\" tvg-name=\"<iptv>tvcentr-pl2\",ТВ Центр +2
 http://83.217.8.171:9010/1001/live.m3u8
-#EXTINF:-1 group-title=\"Эфирный\" tvg-name=\"103\",Рен ТВ
+#EXTINF:-1 group-title=\"Эфирный\" tvg-name=\"103\",Рен ТВ +2
 http://83.217.8.171:9011/1001/live.m3u8
-#EXTINF:-1 group-title=\"Эфирный\" tvg-name=\"<iptv>spas-pl2\",Спас 
+#EXTINF:-1 group-title=\"Эфирный\" tvg-name=\"<iptv>spas-pl2\",Спас +2 
 http://83.217.8.171:9012/1001/live.m3u8
-#EXTINF:-1 group-title=\"Эфирный\" tvg-name=\"104\",СТС
+#EXTINF:-1 group-title=\"Эфирный\" tvg-name=\"104\",СТС +2
 http://83.217.8.171:9013/1001/live.m3u8
-#EXTINF:-1 group-title=\"Эфирный\" tvg-name=\"102\",Домашний
+#EXTINF:-1 group-title=\"Эфирный\" tvg-name=\"102\",Домашний +2
 http://83.217.8.171:9014/1001/live.m3u8
-#EXTINF:-1 group-title=\"Эфирный\" tvg-name=\"105\",ТВ3
+#EXTINF:-1 group-title=\"Эфирный\" tvg-name=\"105\",ТВ3 +2
 http://83.217.8.171:9015/1001/live.m3u8
-#EXTINF:-1 group-title=\"Эфирный\" tvg-name=\"<iptv>piatnica-pl2\",Пятница
+#EXTINF:-1 group-title=\"Эфирный\" tvg-name=\"<iptv>piatnica-pl2\",Пятница +2
 http://83.217.8.171:9016/1001/live.m3u8
-#EXTINF:-1 group-title=\"Эфирный\" tvg-name=\"<iptv>zvezda-pl2\",Звезда
+#EXTINF:-1 group-title=\"Эфирный\" tvg-name=\"<iptv>zvezda-pl2\",Звезда +2
 http://83.217.8.171:9017/1001/live.m3u8
-#EXTINF:-1 group-title=\"Эфирный\" tvg-name=\"<iptv>mir-pl2\",Мир
+#EXTINF:-1 group-title=\"Эфирный\" tvg-name=\"<iptv>mir-pl2\",Мир +2
 http://83.217.8.171:9018/1001/live.m3u8
-#EXTINF:-1 group-title=\"Эфирный\" tvg-name=\"101\",ТНТ
+#EXTINF:-1 group-title=\"Эфирный\" tvg-name=\"101\",ТНТ +2
 http://83.217.8.171:9019/1001/live.m3u8
-#EXTINF:-1 group-title=\"Эфирный\" tvg-name=\"<iptv>muztv-pl2\",Муз ТВ
+#EXTINF:-1 group-title=\"Эфирный\" tvg-name=\"<iptv>muztv-pl2\",Муз ТВ +2
 http://83.217.8.171:9020/1001/live.m3u8
-#EXTINF:-1 group-title=\"Региональные\" tvg-name=\"410\",4 Канал
+#EXTINF:-1 group-title=\"Региональные\" tvg-name=\"410\",4 Канал +2
 http://83.217.8.171:9138/1001/live.m3u8
-#EXTINF:-1 group-title=\"Региональные\" tvg-name=\"4480\",ОТВ
+#EXTINF:-1 group-title=\"Региональные\" tvg-name=\"4480\",ОТВ +2
 http://83.217.8.171:9021/1001/live.m3u8
-#EXTINF:-1 group-title=\"Познавательный\" tvg-name=\"\",Cоловьев Live
+#EXTINF:-1 group-title=\"Познавательный\" tvg-name=\"\",Cоловьев Live +2
 http://83.217.8.171:9173/1001/live.m3u8
-#EXTINF:-1 group-title=\"Познавательный\" tvg-name=\"<iptv>viasat-explore\",Viasat explore
+#EXTINF:-1 group-title=\"Познавательный\" tvg-name=\"<iptv>viasat-explore\",Viasat explore +2
 udp://239.1.1.186:1234
-#EXTINF:-1 group-title=\"Познавательный\" tvg-name=\"<iptv>viasat-history\",Viasat history
+#EXTINF:-1 group-title=\"Познавательный\" tvg-name=\"<iptv>viasat-history\",Viasat history +2
 udp://239.1.1.191:1234
-#EXTINF:-1 group-title=\"Познавательный\" tvg-name=\"<iptv>terra-ru\",Terra
+#EXTINF:-1 group-title=\"Познавательный\" tvg-name=\"<iptv>terra-ru\",Terra +2
 udp://239.1.1.213:1234
-#EXTINF:-1 group-title=\"Познавательный\" tvg-name=\"<iptv>v-mire-zhivotnyx-hd\",В Мире животных HD
+#EXTINF:-1 group-title=\"Познавательный\" tvg-name=\"<iptv>v-mire-zhivotnyx-hd\",В Мире животных HD +2
 http://83.217.12.202:8888/udp/239.72.6.149:1234
-#EXTINF:-1 group-title=\"Познавательный\" tvg-name=\"\",Первый космический
+#EXTINF:-1 group-title=\"Познавательный\" tvg-name=\"\",Первый космический +2
 udp://239.1.1.134:5134
-#EXTINF:-1 group-title=\"Детям\" tvg-name=\"<iptv>detsky-mir\",Детский Мир
+#EXTINF:-1 group-title=\"Детям\" tvg-name=\"<iptv>detsky-mir\",Детский Мир +2
 http://83.217.8.171:9052/1001/live.m3u8
-#EXTINF:-1 group-title=\"Детям\" tvg-name=\"<iptv>detsky\",Уникум
+#EXTINF:-1 group-title=\"Детям\" tvg-name=\"<iptv>detsky\",Уникум +2
 http://83.217.8.171:9053/1001/live.m3u8
-#EXTINF:-1 group-title=\"Детям\" tvg-name=\"<iptv>multimania\",Мультиландия
+#EXTINF:-1 group-title=\"Детям\" tvg-name=\"<iptv>multimania\",Мультиландия +2
 http://83.217.8.171:9054/1001/live.m3u8
-#EXTINF:-1 group-title=\"Детям\" tvg-name=\"<iptv>mult\",Мульт
+#EXTINF:-1 group-title=\"Детям\" tvg-name=\"<iptv>mult\",Мульт +2
 http://83.217.8.171:9055/1001/live.m3u8
-#EXTINF:-1 group-title=\"Детям\" tvg-name=\"<iptv>tiji\",TiJi
+#EXTINF:-1 group-title=\"Детям\" tvg-name=\"<iptv>tiji\",TiJi +2
 http://83.217.8.171:9057/1001/live.m3u8
-#EXTINF:-1 group-title=\"Детям\" tvg-name=\"<iptv>ani\",Ani ТВ
+#EXTINF:-1 group-title=\"Детям\" tvg-name=\"<iptv>ani\",Ani ТВ +2
 http://83.217.8.171:9051/1001/live.m3u8
-#EXTINF:-1 group-title=\"Детям\" tvg-name=\"955\",Da Vinci Kids
+#EXTINF:-1 group-title=\"Детям\" tvg-name=\"955\",Da Vinci Kids +2
 udp://239.1.1.63:5063
-#EXTINF:-1 group-title=\"Детям\" tvg-name=\"<iptv>ducktv\",DuckTv
+#EXTINF:-1 group-title=\"Детям\" tvg-name=\"<iptv>ducktv\",DuckTv +2
 http://83.217.12.202:8888/udp/239.72.6.226:1234
-#EXTINF:-1 group-title=\"Детям\" tvg-name=\"<iptv>solnce\",Солнце
+#EXTINF:-1 group-title=\"Детям\" tvg-name=\"<iptv>solnce\",Солнце +2
 http://83.217.12.202:8888/udp/239.72.6.187:1234
-#EXTINF:-1 group-title=\"Детям\" tvg-name=\"<iptv>kluch\",Ключ
+#EXTINF:-1 group-title=\"Детям\" tvg-name=\"<iptv>kluch\",Ключ +2
 http://83.217.12.202:8888/udp/239.72.6.190:1234
-#EXTINF:-1 group-title=\"Детям\" tvg-name=\"<iptv>baby-time\",BabyTime
+#EXTINF:-1 group-title=\"Детям\" tvg-name=\"<iptv>baby-time\",BabyTime +2
 http://83.217.8.171:9143/1001/live.m3u8
-#EXTINF:-1 group-title=\"Детям\" tvg-name=\"2006\",Рыжий
+#EXTINF:-1 group-title=\"Детям\" tvg-name=\"2006\",Рыжий +2
 http://83.217.12.202:8888/udp/239.72.4.177:1234
 #EXTINF:-1 group-title=\"Детям\" tvg-name=\"<iptv>o_\",О!
 http://83.217.8.171:9140/1001/live.m3u8
