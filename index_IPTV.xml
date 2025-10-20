@@ -40,7 +40,12 @@
 	<description><![CDATA[<center><font color="#a0a0a0" size="-1">iptv-Tolik</font><br><img src="http://monitor.zone-game.info/check.php?do=status&ip=178.163.35.192&port=81&id=9"/><hr><h2>Tolik</font></center>]]></description>
 	<logo_30x30>https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/IPTV_NOW.png</logo_30x30>
 </channel>
-
+<channel>
+	<title><![CDATA[<font color="#00ccff">"Волга ТВ"</font>]]></title>
+	<playlist_url><![CDATA[https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/volgooblast.m3u]]></playlist_url>
+	<description><![CDATA[<center><font color="#a0a0a0" size="-1">iptv-Tolik</font><br><img src="http://monitor.zone-game.info/check.php?do=status&ip=37.209.231.99&port=4022&id=9"/><hr><h2>Tolik</font></center>]]></description>
+	<logo_30x30>https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/IPTV_NOW.png</logo_30x30>
+</channel>
 <channel>
 	<title><![CDATA[<font color="#00ccff">"Екатеринург+2"</font>]]></title>
 	<playlist_url><![CDATA[https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/Pitor.m3u]]></playlist_url>
