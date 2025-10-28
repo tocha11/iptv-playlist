@@ -1,385 +1,183 @@
 #EXTM3U
-#EXTINF:-1,Первый канал
-http://37.235.164.56:81/udp/225.50.66.201:1234
-#EXTINF:-1,Россия 1
-http://37.235.164.56:81/udp/225.50.66.202:1234
-#EXTINF:-1,Россия К
-http://37.235.164.56:81/udp/225.50.66.206:1234
-#EXTINF:-1,Россия 24
-http://37.235.164.56:81/udp/225.50.66.207:1234
-#EXTINF:-1,Матч!
-http://37.235.164.56:81/udp/225.50.66.203:1234
-#EXTINF:-1,НТВ
-http://37.235.164.56:81/udp/225.50.66.204:1234
-#EXTINF:-1,Рен ТВ
-http://37.235.164.56:81/udp/225.50.66.51:1234
-#EXTINF:-1,СТС
-http://37.235.164.56:81/udp/225.50.66.53:1234
-#EXTINF:-1,Домашний
-http://37.235.164.56:81/udp/225.50.66.54:1234
-#EXTINF:-1,ТВ3
-http://37.235.164.56:81/udp/225.50.66.55:1234
-#EXTINF:-1,Пятый канал
-http://37.235.164.56:81/udp/225.50.66.205:1234
-#EXTINF:-1,РБК 
-http://37.235.164.56:81/udp/225.50.66.1:1234
-#EXTINF:-1,Солнце
-http://37.235.164.56:81/udp/225.50.66.2:1234
-#EXTINF:-1,ТВ Центр
-http://37.235.164.56:81/udp/225.50.66.3:1234
-#EXTINF:-1,2x2
-http://37.235.164.56:81/udp/225.50.66.4:1234
-#EXTINF:-1,КАРУСЕЛЬ
-http://37.235.164.56:81/udp/225.50.66.5:1234
-#EXTINF:-1,Суббота!
-http://37.235.164.56:81/udp/225.50.66.6:1234
-#EXTINF:-1,ТНТ
-http://37.235.164.56:81/udp/225.50.66.59:1234
-#EXTINF:-1,ТНТ4
-http://37.235.164.56:81/udp/225.50.66.7:1234
-#EXTINF:-1,Телеканал 360
-http://37.235.164.56:81/udp/225.50.66.8:1234
-#EXTINF:-1,Ю
-http://37.235.164.56:81/udp/225.50.66.9:1234
-#EXTINF:-1,МУЗ 
-http://37.235.164.56:81/udp/225.50.66.10:1234
-#EXTINF:-1,Первый канал 
-http://37.235.164.56:81/udp/225.50.66.11:1234
-#EXTINF:-1,ОТР
-http://37.235.164.56:81/udp/225.50.66.12:1234
-#EXTINF:-1,КТВ 8
-http://37.235.164.56:81/udp/225.50.66.13:1234
-#EXTINF:-1,21 Новый Век 
-http://37.235.164.56:81/udp/225.50.66.14:1234
-#EXTINF:-1,Россия 1 
-http://37.235.164.56:81/udp/225.50.66.25:1234
-#EXTINF:-1,Leomax 24
-http://37.235.164.56:81/udp/225.50.66.26:1234
-#EXTINF:-1,Мир
-http://37.235.164.56:81/udp/225.50.66.34:1234
-#EXTINF:-1,Спас
-http://37.235.164.56:81/udp/225.50.66.52:1234
-#EXTINF:-1,Пятница!
-http://37.235.164.56:81/udp/225.50.66.56:1234
-#EXTINF:-1,Звезда
-http://37.235.164.56:81/udp/225.50.66.57:1234
-#EXTINF:-1,Россия 24
-http://37.235.164.56:81/udp/225.50.66.86:1234
-#EXTINF:-1,Россия К
-http://37.235.164.56:81/udp/225.50.66.87:1234
-#EXTINF:-1,Матч!
-http://37.235.164.56:81/udp/225.50.66.91:1234
-#EXTINF:-1,Первый канал
-http://37.235.164.56:81/udp/225.50.66.93:1234
-#EXTINF:-1,НТВ
-http://37.235.164.56:81/udp/225.50.66.94:1234
-#EXTINF:-1,Пятый канал
-http://37.235.164.56:81/udp/225.50.66.95:1234
-#EXTINF:-1,Россия 1
-http://37.235.164.56:81/udp/225.50.66.97:1234
-#EXTINF:-1,O!2TV
-http://37.235.164.56:81/udp/225.50.66.151:1234
-#EXTINF:-1,Радио МАЯК
-http://37.235.164.56:81/udp/225.50.66.161:1234
-#EXTINF:-1,ВЕСТИ ФМ
-http://37.235.164.56:81/udp/225.50.66.162:1234
-#EXTINF:-1,Радио России
-http://37.235.164.56:81/udp/225.50.66.163:1234
-#EXTINF:-1,Карусель
-http://37.235.164.56:81/udp/225.50.66.208:1234
-#EXTINF:-1,ОТР
-http://37.235.164.56:81/udp/225.50.66.209:1234
-#EXTINF:-1,ТВЦ
-http://37.235.164.56:81/udp/225.50.66.210:1234
-#EXTINF:-1,Рен ТВ
-http://37.235.164.56:81/udp/225.50.66.211:1234
-#EXTINF:-1,СТС
-http://37.235.164.56:81/udp/225.50.66.213:1234
-#EXTINF:-1,Домашний
-http://37.235.164.56:81/udp/225.50.66.214:1234
-#EXTINF:-1,ТВ3
-http://37.235.164.56:81/udp/225.50.66.215:1234
-#EXTINF:-1,Пятница!
-http://37.235.164.56:81/udp/225.50.66.216:1234
-#EXTINF:-1,Звезда
-http://37.235.164.56:81/udp/225.50.66.217:1234
-#EXTINF:-1,МИР
-http://37.235.164.56:81/udp/225.50.66.218:1234
-#EXTINF:-1,ТНТ
-http://37.235.164.56:81/udp/225.50.66.219:1234
-#EXTINF:-1,Русский роман
-http://37.235.164.56:81/udp/225.50.64.1:1234
-#EXTINF:-1,Индийское кино
-http://37.235.164.56:81/udp/225.50.64.2:1234
-#EXTINF:-1,Дом Кино Премиум HD
-http://37.235.164.56:81/udp/225.50.64.3:1234
-#EXTINF:-1,Киносерия HD
-http://37.235.164.56:81/udp/225.50.64.4:1234
-#EXTINF:-1,Поехали!
-http://37.235.164.56:81/udp/225.50.64.5:1234
-#EXTINF:-1,Телеканал О!
-http://37.235.164.56:81/udp/225.50.64.6:1234
-#EXTINF:-1,Bridge TV Classic
-http://37.235.164.56:81/udp/225.50.64.7:1234
-#EXTINF:-1,Русский бестселлер
-http://37.235.164.56:81/udp/225.50.64.8:1234
-#EXTINF:-1,Нано SD
-http://37.235.164.56:81/udp/225.50.64.9:1234
-#EXTINF:-1,A1 HD
-http://37.235.164.56:81/udp/225.50.64.10:1234
-#EXTINF:-1,Мульт
-http://37.235.164.56:81/udp/225.50.64.11:1234
-#EXTINF:-1,ТНТ HD
-http://37.235.164.56:81/udp/225.50.64.12:1234
-#EXTINF:-1,Чижик HD
-http://37.235.164.56:81/udp/225.50.64.13:1234
-#EXTINF:-1,Время
-http://37.235.164.56:81/udp/225.50.64.14:1234
-#EXTINF:-1,Телекафе
-http://37.235.164.56:81/udp/225.50.64.15:1234
-#EXTINF:-1,FAN SD
-http://37.235.164.56:81/udp/225.50.64.16:1234
-#EXTINF:-1,Супер Герои
-http://37.235.164.56:81/udp/225.50.64.17:1234
-#EXTINF:-1,СТС Love
-http://37.235.164.56:81/udp/225.50.64.18:1234
-#EXTINF:-1,Матч! Боец
-http://37.235.164.56:81/udp/225.50.64.19:1234
-#EXTINF:-1,Кино ТВ
-http://37.235.164.56:81/udp/225.50.64.20:1234
-#EXTINF:-1,Europa Plus TV
-http://37.235.164.56:81/udp/225.50.64.21:1234
-#EXTINF:-1,BigPlanet HD
-http://37.235.164.56:81/udp/225.50.64.22:1234
-#EXTINF:-1,Конгресс HD
-http://37.235.164.56:81/udp/225.50.64.23:1234
-#EXTINF:-1,Моя планета
-http://37.235.164.56:81/udp/225.50.64.24:1234
-#EXTINF:-1,Победа
-http://37.235.164.56:81/udp/225.50.64.25:1234
-#EXTINF:-1,Bridge TV Hits
-http://37.235.164.56:81/udp/225.50.64.26:1234
-#EXTINF:-1,АВТО24 HD
-http://37.235.164.56:81/udp/225.50.64.27:1234
-#EXTINF:-1,Наука 2.0
-http://37.235.164.56:81/udp/225.50.64.28:1234
-#EXTINF:-1,Бобёр
-http://37.235.164.56:81/udp/225.50.64.29:1234
-#EXTINF:-1,Мультиландия
-http://37.235.164.56:81/udp/225.50.64.30:1234
-#EXTINF:-1,История
-http://37.235.164.56:81/udp/225.50.64.31:1234
-#EXTINF:-1,Уникум HD
-http://37.235.164.56:81/udp/225.50.64.32:1234
-#EXTINF:-1,Че!
-http://37.235.164.56:81/udp/225.50.64.33:1234
-#EXTINF:-1,Travel+Adventure
-http://37.235.164.56:81/udp/225.50.64.34:1234
-#EXTINF:-1,Мосфильм Золотая Коллекция
-http://37.235.164.56:81/udp/225.50.64.35:1234
-#EXTINF:-1,Кинокомедия HD
-http://37.235.164.56:81/udp/225.50.64.36:1234
-#EXTINF:-1,ЕГЭ ТВ
-http://37.235.164.56:81/udp/225.50.64.37:1234
-#EXTINF:-1,Театр
-http://37.235.164.56:81/udp/225.50.64.38:1234
-#EXTINF:-1,Кухня ТВ
-http://37.235.164.56:81/udp/225.50.64.39:1234
-#EXTINF:-1,BRIDGE ROCK
-http://37.235.164.56:81/udp/225.50.64.40:1234
-#EXTINF:-1,Матч! Игра
-http://37.235.164.56:81/udp/225.50.64.41:1234
-#EXTINF:-1,Матч Арена
-http://37.235.164.56:81/udp/225.50.64.42:1234
-#EXTINF:-1,Кинопоказ
-http://37.235.164.56:81/udp/225.50.64.43:1234
-#EXTINF:-1,Дорама HD
-http://37.235.164.56:81/udp/225.50.64.44:1234
-#EXTINF:-1,В гостях у сказки HD
-http://37.235.164.56:81/udp/225.50.64.45:1234
-#EXTINF:-1,Усадьба HD
-http://37.235.164.56:81/udp/225.50.64.46:1234
-#EXTINF:-1,Большая Азия
-http://37.235.164.56:81/udp/225.50.64.47:1234
-#EXTINF:-1,Наша Тема
-http://37.235.164.56:81/udp/225.50.64.48:1234
-#EXTINF:-1,Киноман
-http://37.235.164.56:81/udp/225.50.64.49:1234
-#EXTINF:-1,TIJI SD
-http://37.235.164.56:81/udp/225.50.64.50:1234
-#EXTINF:-1,Дикий
-http://37.235.164.56:81/udp/225.50.64.51:1234
-#EXTINF:-1,Живая планета
-http://37.235.164.56:81/udp/225.50.64.52:1234
-#EXTINF:-1,НСТ
-http://37.235.164.56:81/udp/225.50.64.53:1234
-#EXTINF:-1,Русский детектив
-http://37.235.164.56:81/udp/225.50.64.54:1234
-#EXTINF:-1,Classic HD
-http://37.235.164.56:81/udp/225.50.64.55:1234
-#EXTINF:-1,GULLI GIRL SD
-http://37.235.164.56:81/udp/225.50.64.56:1234
-#EXTINF:-1,BABY TIME
-http://37.235.164.56:81/udp/225.50.64.57:1234
-#EXTINF:-1,1HD Music Television
-http://37.235.164.56:81/udp/225.50.64.58:1234
-#EXTINF:-1,Диалоги о Рыбалке
-http://37.235.164.56:81/udp/225.50.64.59:1234
-#EXTINF:-1,SHOT TV
-http://37.235.164.56:81/udp/225.50.64.60:1234
-#EXTINF:-1,Рыжий
-http://37.235.164.56:81/udp/225.50.64.61:1234
-#EXTINF:-1,Капитан Фантастика HD
-http://37.235.164.56:81/udp/225.50.64.62:1234
-#EXTINF:-1,Киноужас HD
-http://37.235.164.56:81/udp/225.50.64.63:1234
-#EXTINF:-1,Bridge TV Deluxe HD
-http://37.235.164.56:81/udp/225.50.64.64:1234
-#EXTINF:-1,Жара
-http://37.235.164.56:81/udp/225.50.64.65:1234
-#EXTINF:-1,.Black
-http://37.235.164.56:81/udp/225.50.64.66:1234
-#EXTINF:-1,Amedia Hit HD
-http://37.235.164.56:81/udp/225.50.64.67:1234
-#EXTINF:-1,VHS-ka HD
-http://37.235.164.56:81/udp/225.50.64.68:1234
-#EXTINF:-1,Cartoon Classics
-http://37.235.164.56:81/udp/225.50.64.69:1234
-#EXTINF:-1,Арсенал HD
-http://37.235.164.56:81/udp/225.50.64.70:1234
-#EXTINF:-1,Живая Природа HD
-http://37.235.164.56:81/udp/225.50.64.71:1234
-#EXTINF:-1,Телеканал КХЛ
-http://37.235.164.56:81/udp/225.50.64.72:1234
-#EXTINF:-1,BRIDGE TV
-http://37.235.164.56:81/udp/225.50.64.73:1234
-#EXTINF:-1,A2 HD
-http://37.235.164.56:81/udp/225.50.64.74:1234
-#EXTINF:-1,Аiva_music HD
-http://37.235.164.56:81/udp/225.50.64.75:1234
-#EXTINF:-1,viju TV1000 Русское
-http://37.235.164.56:81/udp/225.50.64.76:1234
-#EXTINF:-1,EXPLORERS HD
-http://37.235.164.56:81/udp/225.50.64.77:1234
-#EXTINF:-1,viju TV1000 Action SD
-http://37.235.164.56:81/udp/225.50.64.78:1234
-#EXTINF:-1,Bridge TV Русский хит
-http://37.235.164.56:81/udp/225.50.64.79:1234
-#EXTINF:-1,Мультимузыка
-http://37.235.164.56:81/udp/225.50.64.80:1234
-#EXTINF:-1,viju TV1000
-http://37.235.164.56:81/udp/225.50.64.81:1234
-#EXTINF:-1,viju Explore
-http://37.235.164.56:81/udp/225.50.64.82:1234
-#EXTINF:-1,viju History
-http://37.235.164.56:81/udp/225.50.64.83:1234
-#EXTINF:-1,Ностальгия
-http://37.235.164.56:81/udp/225.50.64.84:1234
-#EXTINF:-1,viju Nature
-http://37.235.164.56:81/udp/225.50.64.85:1234
-#EXTINF:-1,Romance HD
-http://37.235.164.56:81/udp/225.50.64.86:1234
-#EXTINF:-1,Plan_B
-http://37.235.164.56:81/udp/225.50.64.87:1234
-#EXTINF:-1,КВН
-http://37.235.164.56:81/udp/225.50.64.88:1234
-#EXTINF:-1,Suspenso HD
-http://37.235.164.56:81/udp/225.50.64.89:1234
-#EXTINF:-1,Mир 24-HD
-http://37.235.164.56:81/udp/225.50.64.95:1234
-#EXTINF:-1,RTG TV
-http://37.235.164.56:81/udp/225.50.64.97:1234
-#EXTINF:-1,ETV SD
-http://37.235.164.56:81/udp/225.50.64.98:1234
-#EXTINF:-1,Дом Кино
-http://37.235.164.56:81/udp/225.50.64.101:1234
-#EXTINF:-1,Музыка Первого
-http://37.235.164.56:81/udp/225.50.64.102:1234
-#EXTINF:-1,ТНТ Music
-http://37.235.164.56:81/udp/225.50.64.103:1234
-#EXTINF:-1,Ohota i Ribalka HD
-http://37.235.164.56:81/udp/225.50.64.104:1234
-#EXTINF:-1,Драйв HD
-http://37.235.164.56:81/udp/225.50.64.105:1234
-#EXTINF:-1,Relax FM
-http://37.235.164.56:81/udp/225.50.64.128:1234
-#EXTINF:-1,Союз
-http://37.235.164.56:81/udp/225.50.64.131:1234
-#EXTINF:-1,Матч! HD
-http://37.235.164.56:81/udp/225.50.64.150:1234
-#EXTINF:-1,Родное кино
-http://37.235.164.56:81/udp/225.50.69.1:1234
-#EXTINF:-1,Наше новое кино HD
-http://37.235.164.56:81/udp/225.50.69.2:1234
-#EXTINF:-1,Киномикс HD
-http://37.235.164.56:81/udp/225.50.69.3:1234
-#EXTINF:-1,Hollywood SD
-http://37.235.164.56:81/udp/225.50.69.5:1234
-#EXTINF:-1,Playboy TV
-http://37.235.164.56:81/udp/225.50.70.2:1234
-#EXTINF:-1,Русская Ночь
-http://37.235.164.56:81/udp/225.50.70.3:1234
-#EXTINF:-1,Blue Hustler
-http://37.235.164.56:81/udp/225.50.70.4:1234
-#EXTINF:-1,Frenchlover
-http://37.235.164.56:81/udp/225.50.70.7:1234
-#EXTINF:-1,Brazzers
-http://37.235.164.56:81/udp/225.50.70.11:1234
-#EXTINF:-1,Шёлк HD
-http://37.235.164.56:81/udp/225.50.70.15:1234
-#EXTINF:-1,Точка РФ HD
-http://37.235.164.56:81/udp/225.50.71.2:1234
-#EXTINF:-1,Приключения HD
-http://37.235.164.56:81/udp/225.50.71.3:1234
-#EXTINF:-1,В Мире Животных HD
-http://37.235.164.56:81/udp/225.50.71.4:1234
-#EXTINF:-1,Mир +0 HD
-http://37.235.164.56:81/udp/225.50.71.5:1234
-#EXTINF:-1,Travel+Adventure HD
-http://37.235.164.56:81/udp/225.50.71.6:1234
-#EXTINF:-1,.Black HD
-http://37.235.164.56:81/udp/225.50.71.7:1234
-#EXTINF:-1,Охотник и рыболов HD
-http://37.235.164.56:81/udp/225.50.71.8:1234
-#EXTINF:-1,Дикая Рыбалка HD
-http://37.235.164.56:81/udp/225.50.71.9:1234
-#EXTINF:-1,RTG HD
-http://37.235.164.56:81/udp/225.50.71.10:1234
-#EXTINF:-1,Дикая Охота HD
-http://37.235.164.56:81/udp/225.50.71.11:1234
-#EXTINF:-1,Luxury HD
-http://37.235.164.56:81/udp/225.50.71.12:1234
-#EXTINF:-1,Nano HD
-http://37.235.164.56:81/udp/225.50.71.13:1234
-#EXTINF:-1,HOME 4K
-http://37.235.164.56:81/udp/225.50.71.14:1234
-#EXTINF:-1,Kиноман HD
-http://37.235.164.56:81/udp/225.50.71.15:1234
-#EXTINF:-1,Наша Тема HD
-http://37.235.164.56:81/udp/225.50.71.16:1234
-#EXTINF:-1,Amedia Premium HD
-http://37.235.164.56:81/udp/225.50.71.17:1234
-#EXTINF:-1,Музыка Первого HD
-http://37.235.164.56:81/udp/225.50.71.18:1234
-#EXTINF:-1,Время HD
-http://37.235.164.56:81/udp/225.50.71.19:1234
-#EXTINF:-1,Телекафе HD
-http://37.235.164.56:81/udp/225.50.71.20:1234
-#EXTINF:-1,Бобёр HD
-http://37.235.164.56:81/udp/225.50.71.21:1234
-#EXTINF:-1,Телеканал O! HD
-http://37.235.164.56:81/udp/225.50.71.22:1234
-#EXTINF:-1,Поехали! HD
-http://37.235.164.56:81/udp/225.50.71.23:1234
-#EXTINF:-1,Победа HD
-http://37.235.164.56:81/udp/225.50.71.24:1234
-#EXTINF:-1,Дом Кино HD
-http://37.235.164.56:81/udp/225.50.71.25:1234
-#EXTINF:-1,Матч! Арена HD
-http://37.235.164.56:81/udp/225.50.71.26:1234
-#EXTINF:-1,Матч! Премьер
-http://37.235.164.56:81/udp/225.50.67.1:1234
-#EXTINF:-1,Матч! Премьер HD
-http://37.235.164.56:81/udp/225.50.67.2:1234
-
-
+#EXTINF:-1 ,Altenburg TV (1080p)
+https://58de7a369a9c4.streamlock.net/abgtv/abgtv_1080p/playlist.m3u8
+#EXTINF:-1 ,Anixe + (360p)
+https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
+#EXTINF:-1 ,Anixe HD Serie (360p)
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+#EXTINF:-1 ,ARD-alpha (720p) [Not 24/7]
+https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
+#EXTINF:-1 ,Aristo TV (360p)
+https://ma.anixa.tv/clips/stream/aristo/index.m3u8
+#EXTINF:-1 ,AXN Black (576p)
+http://185.236.229.62:9981/play/a075
+#EXTINF:-1 ,AXN Spin (1080p)
+http://185.236.229.62:9981/play/a044
+#EXTINF:-1 ,AXN White (576p)
+http://185.236.229.62:9981/play/a074
+#EXTINF:-1 ,Baden TV (1080p) [Not 24/7]
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+#EXTINF:-1 ,Baden TV Süd (480p)
+https://cdn.icu.de/rtplive/smil:btvsued.smil/playlist.m3u8
+#EXTINF:-1 ,Bigtime (720p)
+https://103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_BjgtjmeDarmoweFilmy/playlist.m3u8
+#EXTINF:-1 ,BR Fernsehen Nord (720p)
+https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
+#EXTINF:-1 ,Car City Adventures (720p)
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/b6397b24-18b0-49c2-80bf-0333ae568e37/5.m3u8
+#EXTINF:-1 ,Cira TV
+https://cira-tv.akamaized.net/hls/stream_0.m3u8
+#EXTINF:-1 ,DASDING 90.8 (720p)
+https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
+#EXTINF:-1 ,DAZN Combat (1080p)
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+#EXTINF:-1 ,Die Neue Zeit (576p)
+https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8
+#EXTINF:-1 ,DW Russian (1080p)
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
+#EXTINF:-1 ,Epic Drama (1080p)
+http://185.236.229.62:9981/play/a029
+#EXTINF:-1 ,Erz-TV Stollberg (576p)
+https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
+#EXTINF:-1 ,FightBox (1080p)
+http://185.236.229.62:9981/play/a03n
+#EXTINF:-1 ,FilmBox Action (576p)
+http://185.236.229.62:9981/play/a033
+#EXTINF:-1 ,FilmBox Family (576p)
+http://185.236.229.62:9981/play/a037
+#EXTINF:-1 ,Grjngo (720p)
+https://b6c7c7d1020a4588982ca7c2625f85d1.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_GrjngoWesterny/playlist.m3u8
+#EXTINF:-1 ,Hard Knocks Fighting Championship (720p)
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/2ee2b8d4-acc4-4296-9dc8-66f1ffd0fff8/5.m3u8
+#EXTINF:-1 ,Hope Channel German (1080p)
+https://customer-x8zydurm357k8j9p.cloudflarestream.com/5b46490d20cdd87fcac238b0027813e0/manifest/video.m3u8
+#EXTINF:-1 ,Horse and Country (720p)
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,hr-fernsehen (1080p)
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+#EXTINF:-1 ,HSE24 Extra (1080p)
+https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
+#EXTINF:-1 ,HSE24 Trend (576p)
+https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
+#EXTINF:-1 ,HSE (1080p)
+https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
+#EXTINF:-1 ,Kanal12 Spremberg TV (404p) [Not 24/7]
+https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8
+#EXTINF:-1 ,Kanal Avrupa (1080p)
+https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8
+#EXTINF:-1 ,KiKA (1080p) [Not 24/7]
+https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8
+#EXTINF:-1 ,KulturMD (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
+#EXTINF:-1 ,L-TV (720p)
+https://live2.telvi.de/hls/l-tv_s1.m3u8
+#EXTINF:-1 ,MDF.1 (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
+#EXTINF:-1 ,Moconomy (1080p)
+https://3ee905090d464be5a51478fd9c642e93.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Moconomy/playlist.m3u8
+#EXTINF:-1 ,MTV Hits Europe
+http://45.88.92.3:80/tr3_MTVHits_SD/index.m3u8?token=test
+#EXTINF:-1 ,NDR Hamburg (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
+#EXTINF:-1 ,NDR Mecklenburg-Vorpommern (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
+#EXTINF:-1 ,NDR Niedersachsen (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+#EXTINF:-1 ,NDR Schleswig-Holstein (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
+#EXTINF:-1 ,OK Dessau (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8
+#EXTINF:-1 ,OK Magdeburg (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8
+#EXTINF:-1 ,OK Merseburg-Querfurt (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8
+#EXTINF:-1 ,OK Salzwedel (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8
+#EXTINF:-1 ,OK Stendal (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-stendal_high/playlist.m3u8
+#EXTINF:-1 ,OK Wernigerode (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
+#EXTINF:-1 ,PUNKTum Fernsehen (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8
+#EXTINF:-1 ,QVC 2 Germany (540p)
+https://qvcde-live.akamaized.net/hls/live/2097104/qps/master.m3u8
+#EXTINF:-1 ,QVC Germany (720p)
+https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
+#EXTINF:-1 ,QVC Style Germany (540p)
+https://qvcde-live.akamaized.net/hls/live/2097104/qby/master.m3u8
+#EXTINF:-1 ,Rakuten VIKI (720p)
+https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
+#EXTINF:-1 ,RAN1 (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8
+#EXTINF:-1 ,RBW (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
+#EXTINF:-1 ,Rennsteig TV (720p)
+http://wowza.telvi.de/rennsteigtv/stream_720p/playlist.m3u8
+#EXTINF:-1 ,RFH (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
+#EXTINF:-1 ,RT DE (1080p) [Not 24/7]
+https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
+#EXTINF:-1 ,Salve TV (720p)
+https://58de7a369a9c4.streamlock.net/salvetv/ngrp:stream_720p_web/playlist.m3u8
+#EXTINF:-1 ,Sender Neu Jerusalem (576p)
+https://bild-und-ton.stream/snj-de/snj-de.smil/.m3u8
+#EXTINF:-1 ,Sonnenklar TV (1080p)
+http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
+#EXTINF:-1 ,Sophia TV (720p)
+https://bild-und-ton.stream/sophiatv-en/smil:sophia-tv-en.smil/playlist.m3u8
+#EXTINF:-1 ,Sophia TV Español (720p)
+https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8
+#EXTINF:-1 ,Sophia TV Français (720p)
+https://bild-und-ton.stream/sophiatv-fr/smil:sophia-tv-fr.smil/playlist.m3u8
+#EXTINF:-1 ,SR Fernsehen (720p)
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+#EXTINF:-1 ,SRF (1080p)
+https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
+#EXTINF:-1 ,SWR 3 Visual Radio (720p)
+https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
+#EXTINF:-1 ,Tagesschau 24 (720p)
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 ,TNA Wrestling Channel (720p)
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883039
+#EXTINF:-1 ,TV Berlin (720p)
+https://live2.telvi.de/hls/tvberlin.m3u8
+#EXTINF:-1 ,ViDoc TV (1080p)
+http://185.236.229.62:9981/play/a051
+#EXTINF:-1 ,WDR 1 Live (720p)
+https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
+#EXTINF:-1 ,WDR Fernsehen Aachen (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8
+#EXTINF:-1 ,WDR Fernsehen Bielefeld (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8
+#EXTINF:-1 ,WDR Fernsehen Bonn (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8
+#EXTINF:-1 ,WDR Fernsehen Dortmund (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8
+#EXTINF:-1 ,WDR Fernsehen Duisburg (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8
+#EXTINF:-1 ,WDR Fernsehen Düsseldorf (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8
+#EXTINF:-1 ,WDR Fernsehen Essen (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8
+#EXTINF:-1 ,WDR Fernsehen Köln (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8
+#EXTINF:-1 ,WDR Fernsehen Münster (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8
+#EXTINF:-1 ,WDR Fernsehen Siegen (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8
+#EXTINF:-1 ,WDR Fernsehen Wuppertal (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8
+#EXTINF:-1 ,WELT
+https://s6.hopslan.com/n24X/index.m3u8
+#EXTINF:-1 ,World Billiards (720p)
+https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
+#EXTINF:-1 ,World of Freesports (1080p)
+https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8
+#EXTINF:-1 ,World of Freesports (1080p)
+https://rakutenaa-mainstreammediafreesportsintl-rakuten-t7dc0.amagi.tv/playlist/rakutenAA-mainstreammediafreesportsintl-rakuten/playlist.m3u8
+#EXTINF:-1 ,World Poker Tour (1080p)
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/15d59f2f-80da-4448-9bce-775cc9f470f7/1.m3u8
+#EXTINF:-1 ,Z Nation (720p)
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883098
+#EXTINF:-1 ,РТР Планета Евро
+https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
