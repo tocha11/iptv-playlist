@@ -135,3 +135,197 @@ http://46.164.238.164:1/udp/235.1.10.41:10000
 http://46.164.238.164:1/udp/235.1.10.39:10000
 #EXTINF:-1,НТВ
 http://46.164.238.164:1/udp/235.1.10.18:10000
+#EXTINF:-1,BCU Marvel HD
+http://lb.wisp.cat/lb0/BCUMarvelHD/mpegts?token=nPfO4rRaax
+#EXTINF:-1,BCU Action HD
+http://lb.wisp.cat/lb0/BCUActionHD/mpegts?token=nPfO4rRaax
+#EXTINF:-1,BCU Catastrophe HD
+http://lb.wisp.cat/lb0/BCUCatastropheHD/mpegts?token=nPfO4rRaax
+#EXTINF:-1,BCU Comedy HD
+http://lb.wisp.cat/lb0/BCUComedyHD/mpegts?token=nPfO4rRaax
+#EXTINF:-1,BCU Fantastic HD
+http://lb.wisp.cat/lb0/BCUFantasticHD/mpegts?token=nPfO4rRaax
+#EXTINF:-1,BCU Romantic HD
+http://lb.wisp.cat/lb0/BCURomanticHD/mpegts?token=nPfO4rRaax
+#EXTINF:-1,BCU СССР HD
+http://lb.wisp.cat/lb0/BCUSSSRHD/mpegts?token=nPfO4rRaax
+#EXTINF:-1,BCU Kinorating HD
+http://lb.wisp.cat/lb0/BCUKinoratingHD/mpegts?token=nPfO4rRaax
+#EXTINF:-1,BCU VHS HD
+http://lb.wisp.cat/lb0/BCUVHSHD/mpegts?token=nPfO4rRaax
+#EXTINF:-1,BCU Stars HD
+http://lb.wisp.cat/lb0/BCUStarsHD/mpegts?token=nPfO4rRaax
+#EXTINF:-1,CineMan Premium
+http://lb.wisp.cat/lb0/CineMan_Premium/mpegts?token=nPfO4rRaax
+#EXTINF:-1,CineMan
+http://lb.wisp.cat/lb0/CineMan/mpegts?token=nPfO4rRaax
+#EXTINF:-1,CineMan ПёС + Лихач
+http://lb.wisp.cat/lb0/CineMan_Pes/mpegts?token=nPfO4rRaax
+#EXTINF:-1,CineMan Simpson
+http://lb.wisp.cat/lb0/CineMan_Simpson/mpegts?token=nPfO4rRaax
+#EXTINF:-1,Clarity4K Asia
+http://lb.wisp.cat/lb0/Clarity4K_Asia/mpegts?token=nPfO4rRaax
+#EXTINF:-1,Box Spy HD
+http://50.7.28.226/8354/index.m3u8
+#EXTINF:-1,Box Travel HD
+http://50.7.28.226/8416/index.m3u8
+#EXTINF:-1,Box Zombie HD
+http://50.7.28.226/8418/index.m3u8
+#EXTINF:-1,Box Stories HD
+http://50.7.28.226/8429/index.m3u8
+#EXTINF:-1,Box Gangster HD
+http://50.7.28.226/8985/index.m3u8
+#EXTINF:-1,Box Serial HD
+http://50.7.28.226/8988/index.m3u8
+#EXTINF:-1,BCU Kids+
+http://50.7.28.226/8454/index.m3u8
+#EXTINF:-1,BCU Kinorating
+http://50.7.28.226/8455/index.m3u8
+#EXTINF:-1,BCU Catastrophe HD
+http://50.7.28.226/8877/index.m3u8
+#EXTINF:-1,BCU Romantic HD
+http://50.7.28.226/8884/index.m3u8
+#EXTINF:-1,BCU Сваты
+http://50.7.28.226/8889/index.m3u8
+#EXTINF:-1,MM Honey
+http://50.7.28.226/8895/index.m3u8
+#EXTINF:-1,MM Драма HD
+http://50.7.28.226/8634/index.m3u8
+#EXTINF:-1,MM Макромир
+http://50.7.28.226/8636/index.m3u8
+#EXTINF:-1,MM Newfilm 3
+http://50.7.28.226/8743/index.m3u8
+#EXTINF:-1,MM Relax
+http://50.7.28.226/8793/index.m3u8
+#EXTINF:-1,MM Celebrity HD
+http://50.7.28.226/8991/index.m3u8
+#EXTINF:-1,CineMan VHS
+http://50.7.28.226/8807/index.m3u8
+#EXTINF:-1,CineMan Симпсоны
+http://50.7.28.226/8833/index.m3u8
+#EXTINF:-1,Cinema
+http://50.7.28.226/8949/index.m3u8
+#EXTINF:-1,CineMan Thriller
+http://50.7.28.226/8954/index.m3u8
+#EXTINF:-1,CineMan MiniSeries
+http://50.7.28.226/8961/index.m3u8
+#EXTINF:-1,CineMan
+http://50.7.28.226/8812/index.m3u8
+#EXTINF:-1,CineMan РуКино
+http://50.7.28.226/8871/index.m3u8
+#EXTINF:-1,BCU Action HD
+http://178.217.72.72/BCUActionHD/index.m3u8
+#EXTINF:-1,BCU Catastrophe HD
+http://178.217.72.72/BCUCatastropheHD/index.m3u8
+#EXTINF:-1,BCU Comedy HD
+http://178.217.72.72/BCUComedyHD/index.m3u8
+#EXTINF:-1,BCU Fantastic HD
+http://178.217.72.72/BCUFantasticHD/index.m3u8
+#EXTINF:-1,BCU Romantic HD
+http://178.217.72.72/BCURomanticHD/index.m3u8
+#EXTINF:-1,BCU Stars HD
+http://178.217.72.72/BCUStarsHD/index.m3u8
+#EXTINF:-1,BCU VHS HD
+http://178.217.72.72/BCUVHSHD/index.m3u8
+#EXTINF:-1,BCU Kinorating HD
+http://178.217.72.72/BCUKinoratingHD/index.m3u8
+#EXTINF:-1,CineMan Action HD
+http://178.217.72.72/CineMan_Action/index.m3u8
+#EXTINF:-1,CineMan Comedy HD
+http://178.217.72.72/CineMan_Comedy/index.m3u8
+#EXTINF:-1,CineMan HD
+http://178.217.72.72/CineMan/index.m3u8
+#EXTINF:-1,CineMan Marvel HD
+http://178.217.72.72/CineMan_Marvel/index.m3u8
+#EXTINF:-1,CineMan Melodrama HD
+http://178.217.72.72/CineMan_Melodrama/index.m3u8
+#EXTINF:-1,CineMan Thriller HD
+http://178.217.72.72/CineMan_Thriller/index.m3u8
+#EXTINF:-1,CineMan Top HD
+http://178.217.72.72/CineMan_Top/index.m3u8
+#EXTINF:-1,CineMan VHS HD
+http://178.217.72.72/CineMan_VHS/index.m3u8
+#EXTINF:-1,BCU Мультсериал HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv7JTnkmkdMT99PwNcZ5RVwE/m3u8
+#EXTINF:-1,BCU Catastrophe HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv9f6SWiFw8PNZk4id7RFgc0/m3u8
+#EXTINF:-1,BCU Charm HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv-JFmQWO4ln-WckFd8N6rHI/m3u8
+#EXTINF:-1,BCU Cinema HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv4I4rb8HB6HRT1m2r704nAw/m3u8
+#EXTINF:-1,BCU Cinema+ HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv3ep5istILlJoTAz8cyQG0U/m3u8
+#EXTINF:-1,BCU Comedy HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvwrX1vZH9mpCzdyKcCunfNk/m3u8
+#EXTINF:-1,BCU Cosmo HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv48nbqzix0io8M6uabX7_v8/m3u8
+#EXTINF:-1,BCU Criminal HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv5SksEGtd7d3nuu2927oA-g/m3u8
+#EXTINF:-1,BCU Fantastic HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv9yDIvAPIZngXrZU-0F_-8U/m3u8
+#EXTINF:-1,BCU Kids HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvwKeLvglHIE9szxGKxKsPkM/m3u8
+#EXTINF:-1,BCU Kids+ HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv5vdPZncqE0CWdh9OPaENog/m3u8
+#EXTINF:-1,BCU Kinorating HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv__ZwaT4B7QdWMBkb5kWJNg/m3u8
+#EXTINF:-1,BCU KINOZAKAZ HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvyerBpVTXuRwaTpz1Q0lAEI/m3u8
+#EXTINF:-1,BCU Little HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv2xdypzM8wFnIQl73Odc4iY/m3u8
+#EXTINF:-1,BCU Premiere 2 HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvyvLqSptfc1SKx-z1dV8ZbI/m3u8
+#EXTINF:-1,BCU Premiere 3 HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvyB3p-UUaNgn4QKM3cNGArQ/m3u8
+#EXTINF:-1,BCU Premiere HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv-IbT0YqD94K8roB7swxNvI/m3u8
+#EXTINF:-1,BCU Premiere Ultra 4K
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvxc3Zv7vg7VT_3AmRBZD8p8/m3u8
+#EXTINF:-1,BCU Reality HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvz_T7-fuqyrZoj4BDiDMayg/m3u8
+#EXTINF:-1,BCU RUSerial HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv8WUwxJpt9iPp8oa4id9ykA/m3u8
+#EXTINF:-1,BCU Russian HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv6i6bewaKtNcxXjUkKEU31I/m3u8
+#EXTINF:-1,BCU Stars HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv8FJ3fIo0L9Tnm2AALJkBcQ/m3u8
+#EXTINF:-1,BCU TruMotion HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv4xqWDWCCyLn2qp38HJ0cwY/m3u8
+#EXTINF:-1,BCU Ultra 4K
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv_rw3dU4YBMISQwdwuZK9nA/m3u8
+#EXTINF:-1,BCU VHS HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv6oyEnkSHfCOe9d2ntzE5bE/m3u8
+#EXTINF:-1,Clarity4K Боевик
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvwlgYR9qr1eyz4PjODcA3ZI/m3u8
+#EXTINF:-1,Clarity4K Драмы
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv3cw3AYcpykIevuuHuTNLHo/m3u8
+#EXTINF:-1,Clarity4K КИНО TESTФраншизы
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvwTy_xynfL02EvcZe17vsIM/m3u8
+#EXTINF:-1,Clarity4K Комедия
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv4WajS2b09aCFvYL5e94y5Q/m3u8
+#EXTINF:-1,Clarity4K Русские сериалы
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv1FuqOHg8H8BrXSp5tXXeds/m3u8
+#EXTINF:-1,Clarity4K Семейный
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv2rbJdyAm9SQytYhL4-XGdI/m3u8
+#EXTINF:-1,Clarity4K Ужасы VHS
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv1vcMzfvQsg3qIv2w4TyFSI/m3u8
+#EXTINF:-1,Clarity4K Фантастика
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv49INV_Q3fmz3vc6KLVMLiY/m3u8
+#EXTINF:-1,Clarity4K Фэнтези
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvykLh0twtzi_g6SbofMifbQ/m3u8
+#EXTINF:-1,Clarity4K Asia
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv6nnBpBDCvrcw2Wti3VqPhA/m3u8
+#EXTINF:-1,Clarity4K Gamefilm
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv9ilh616q4OXW1P_wmg5R_c/m3u8
+#EXTINF:-1,Clarity4K Netflix
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv9K80Kj9919zeURQC1ls5-Q/m3u8
+#EXTINF:-1,Comedy Central
+http://46.8.46.14/paramountcomedy/index.m3u8
+#EXTINF:-1,CPS Action HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvzEj2x0XEeMI6rA045IV93A/m3u8
+#EXTINF:-1,CPS Cartoon HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv_VcLQAzF4jIzyOcCmtICI4/m3u8
+#EXTINF:-1,CPS Comedy HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv5i3KKRDEFclwXgMvoGvE-4/m3u8
+#EXTINF:-1,CPS Drama HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv3e-t54Tj6uyfr4aP26ytbo/m3u8
