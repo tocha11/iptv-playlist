@@ -1,0 +1,460 @@
+#EXTM3U url-tvg="http://epg.one/epg.xml; http://gabbarit.drm-play.com/epg_lite.xml.gz; http://epg.cdntv.online/lite.xml; http://epg.it999.ru/epg.xml.gz; http://iptv-content.rv77.pw/guide-lite.xml"
+#EXTINF:-1 ,Первый Канал
+http://195.26.83.96:7013/play/12/index.m3u8
+#EXTINF:-1 ,Россия 1
+http://195.26.83.96:7013/play/13/index.m3u8
+#EXTINF:-1,РБК
+http://194.143.148.28:8080/RBK/mpegts
+#EXTINF:-1 ,Страна.СуперТВ
+http://195.26.83.96:7013/play/a00e/index.m3u8
+#EXTINF:-1,Шансон ТВ
+http://195.26.83.96:7005/play/a00l/index.m3u8
+#EXTINF:-1,Соловьев Live
+http://195.26.83.96:7029/play/a003
+#EXTINF:-1,Кинохит HD
+http://195.26.83.96:7005/play/a00m/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Первый канал HD 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/62/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Первый канал
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/1/index.m3u8
+#EXTINF:-1 group-title="С сайтов",ТНТ4
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/106/index.m3u8
+#EXTINF:-1 group-title="С сайтов",ТНТ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/19/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Рен ТВ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/11/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Россия 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/2/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Матч!
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/3/index.m3u8
+#EXTINF:-1 group-title="С сайтов",НТВ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/4/index.m3u8
+#EXTINF:-1 group-title="С сайтов",НТВ HD 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/33/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Россия К
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/6/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Россия 24
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/7/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Точка РФ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/61/index.m3u8
+#EXTINF:-1 group-title="С сайтов",RTG TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/71/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Живая природа
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/79/index.m3u8
+#EXTINF:-1 group-title="С сайтов",История
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/87/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Охота и Рыбалка
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/93/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Живая Планета
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/114/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Моя Планета
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/117/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Наука
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/88/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Большая азия
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/83/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Техно 24
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/63/index.m3u8
+#EXTINF:-1 group-title="С сайтов",5 Канал
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/5/index.m3u8
+#EXTINF:-1 group-title="С сайтов",ОТР
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/9/index.m3u8
+#EXTINF:-1 group-title="С сайтов",ТВЦ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/10/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Спас
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/12/index.m3u8
+#EXTINF:-1 group-title="С сайтов",СТС
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/13/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Домашний
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/14/index.m3u8
+#EXTINF:-1 group-title="С сайтов",ТВ3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/15/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Пятница
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/16/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Звезда
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/17/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Мир
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/18/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Первый Крымский
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/22/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Мир 24
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/23/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Милет
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/24/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Первый Крымский HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/25/index.m3u8
+#EXTINF:-1 group-title="С сайтов", Крым 24 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/26/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Ялта ТВ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/27/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Москва 24
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/28/index.m3u8
+#EXTINF:-1 group-title="С сайтов",ИКС
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/29/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Mezzo
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/31/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Витрина
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/32/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Ювелирочка
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/35/index.m3u8
+#EXTINF:-1 group-title="С сайтов",РБК
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/36/index.m3u8
+#EXTINF:-1 group-title="С сайтов",ТРО
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/37/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Телеканал 360
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/39/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Cinema
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/40/index.m3u8
+#EXTINF:-1 group-title="С сайтов",ЦТВ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/41/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Русский Роман
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/42/index.m3u8
+#EXTINF:-1 group-title="С сайтов",МузСоюз
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/43/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Сарафан
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/44/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Русский Детектив
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/45/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Русский Иллюзион
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/49/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Любимое кино
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/50/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Москва Доверие
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/53/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Индия
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/59/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Киносерия
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/64/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Киносат
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/66/index.m3u8
+#EXTINF:-1 group-title="С сайтов",365 дней
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/67/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Доктор
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/68/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Авто плюс
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/69/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Телеканал 360
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/72/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Наша Тема
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/73/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Суббота
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/75/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Кино ТВ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/78/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Союз
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/80/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Мир 24 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/82/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Вместе-РФ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/84/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Беларусь 24
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/89/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Ретро
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/90/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Усадьба
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/91/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Драйв
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/92/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Здоровое ТВ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/94/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Домашние животные
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/95/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Психология 21
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/96/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Вопросы и ответы
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/97/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Дом Кино
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/99/index.m3u8
+#EXTINF:-1 group-title="С сайтов",НСТ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/100/index.m3u8
+#EXTINF:-1 group-title="С сайтов", CTC love
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/104/index.m3u8
+#EXTINF:-1 group-title="С сайтов", Ю
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/105/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Конный Мир
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/108/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Соловьев Live
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/111/index.m3u8
+#EXTINF:-1 group-title="С сайтов",2x2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/113/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Русский Бестселер
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/115/index.m3u8
+#EXTINF:-1 group-title="С сайтов",КВН ТВ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/119/index.m3u8
+#EXTINF:-1 group-title="С сайтов",8 канал
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/121/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Мосфильм. Золотая коллекция
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/124/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Мужское Кино
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/126/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Киносемья
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/127/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Киносвидание
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/122/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Киномикс
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/70/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Кинохит
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/123/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Наше Новое Кино
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/128/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Кинопремьера HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/125/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Кинокомедия
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/85/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Родное Кино
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/136/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Победа
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/129/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Звезда+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/130/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Ностальгия
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/131/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Кто Есть Кто
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/132/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Киноужас
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/133/index.m3u8
+#EXTINF:-1 group-title="С сайтов",7ТВ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/381/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Известия
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/138/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Че
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/139/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Продвижение
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/140/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Жара
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/141/index.m3u8
+#EXTINF:-1 group-title="С сайтов",1HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/60/index.m3u8
+#EXTINF:-1 group-title="С сайтов",МузТВ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/20/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Music Box Russia
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/65/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Шансон ТВ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/76/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Bridge HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/98/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Bridge TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/110/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Bridge TV Rock
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/101/index.m3u8
+#EXTINF:-1 group-title="С сайтов",BridgeTV Hit
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/134/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Bridge TV classic
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/135/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Bridge TV Шлягер
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/142/index.m3u8
+#EXTINF:-1 group-title="С сайтов",ТНТ Music
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/137/index.m3u8
+#EXTINF:-1 group-title="С сайтов",RU.TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/38/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Cолнце
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/103/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Мама
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/86/index.m3u8
+#EXTINF:-1 group-title="С сайтов",СТС Kids
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/112/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Ani
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/74/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Детский Мир
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/52/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Радость Моя
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/46/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Карусель
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/8/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Бобёр
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/77/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Мульт
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/47/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Мультимузыка
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/116/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/NEXO.png" group-title="NEXO",NEXO
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://rafail1982.uz/nexo2.mp4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/IPTV.png" group-title="NEXO",IPTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://rafail1982.uz/IPTV.mp4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/NexoIPTV.png" group-title="NEXO",NexoIPTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://rafail1982.uz/NexoIPTV.mp4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/favicon.png" group-title="NEXO",NEXO
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://rafail1982.uz/nexo2.mp4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/favicon.png" group-title="NEXO",NexoIPTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://rafail1982.uz/NexoIPTV.mp4
+#EXTINF:-1 group-title="С сайтов" ,НТК ТВ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://stream.ntktv.ua/s/ntk/ntk.m3u8
+#EXTINF:-1 group-title="С сайтов" tvg-logo="https://www.cableman.ru/sites/default/files/sochi_live.png",Sochi Live HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
+#EXTINF:-1 group-title="С сайтов" tvg-logo="http://www.tbnbaltia.eu/img/tbn-baltia-2-white-trans.png",TBN BALTIA
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://dc.tbnbaltia.eu:8088/dvr/tracks-v1a1/rewind-21600.m3u8
+#EXTINF:-1 group-title="С сайтов" tvg-logo="https://i.postimg.cc/ydG9W9Pz/1.jpg",Тел+ Астрахань
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://streaming.astrakhan.ru/telplushd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="С сайтов" ,Волжский Плюс FHD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://flussonic.powernet.com.ru:8080/volplus/index.fmp4.m3u8
+#EXTINF:-1 group-title="С сайтов" tvg-logo="http://epg.it999.ru/img/2464.png",БСТ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="С сайтов" tvg-logo="http://epg.it999.ru/img/2410.png",Курай TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://bsttv.bonus-tv.ru/cdn/kurai/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="С сайтов" tvg-logo="https://i.postimg.cc/wTwrKSfy/1.jpg",Миллет
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://live.trkmillet.ru/millet/index.m3u8
+#EXTINF:-1 group-title="С сайтов" tvg-logo="http://epg.it999.ru/img/2169.png",Грозный
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
+#EXTINF:-1 group-title="С сайтов" tvg-logo="http://epg.it999.ru/img/2265.png",360°
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
+#EXTINF:-1 group-title="С сайтов" ,360 Новости
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
+#EXTINF:-1 group-title="С сайтов" tvg-logo="https://www.cableman.ru/sites/default/files/tverskoyprospekt.jpg",Тверской Проспект Регион
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://stream.fastlnk.ru:88/Tverskojj_prospekt/index.m3u8
+#EXTINF:-1 group-title="С сайтов" tvg-logo="http://epg.it999.ru/img/2168.png",Астрахань 24
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="С сайтов",МИР 24 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 group-title="С сайтов" tvg-logo="https://lime-tv.ru/wp-content/uploads/2020/10/1522668479_htm.jpg",НТМ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1 group-title="С сайтов" ,Наш Дом
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://85.234.33.63/stream/c11.m3u8
+
