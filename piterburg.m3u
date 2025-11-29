@@ -1,279 +1,140 @@
 #EXTM3U
-#EXTM3U
 #EXTINF:-1,Первый канал
-http://46.164.235.162:4022/udp/235.1.10.1:10000
+http://46.164.239.67:1/udp/235.1.10.1:10000
 #EXTINF:-1,Россия 1
-http://46.164.235.162:4022/udp/235.1.10.2:10000
+http://46.164.239.67:1/udp/235.1.10.2:10000
 #EXTINF:-1,Матч!
-http://46.164.235.162:4022/udp/235.1.10.3:10000
+http://46.164.239.67:1/udp/235.1.10.3:10000
 #EXTINF:-1,НТВ
-http://46.164.235.162:4022/udp/235.1.10.4:10000
+http://46.164.239.67:1/udp/235.1.10.4:10000
 #EXTINF:-1,Пятый канал
-http://46.164.235.162:4022/udp/235.1.10.5:10000
+http://46.164.239.67:1/udp/235.1.10.5:10000
 #EXTINF:-1,Россия К
-http://46.164.235.162:4022/udp/235.1.10.6:10000
+http://46.164.239.67:1/udp/235.1.10.6:10000
 #EXTINF:-1,Россия 24
-http://46.164.235.162:4022/udp/235.1.10.7:10000
+http://46.164.239.67:1/udp/235.1.10.7:10000
 #EXTINF:-1,Че
-http://46.164.235.162:4022/udp/235.1.10.9:10000
+http://46.164.239.67:1/udp/235.1.10.9:10000
 #EXTINF:-1,ТВ Центр
-http://46.164.235.162:4022/udp/235.1.10.10:10000
+http://46.164.239.67:1/udp/235.1.10.10:10000
 #EXTINF:-1,Карусель
-http://46.164.235.162:4022/udp/235.1.10.12:10000
+http://46.164.239.67:1/udp/235.1.10.12:10000
 #EXTINF:-1,СТС
-http://46.164.235.162:4022/udp/235.1.10.11:10000
-#EXTINF:-1,РБК 
-http://46.164.235.162:4022/udp/235.1.10.78:10000
+http://46.164.239.67:1/udp/235.1.10.11:10000
 #EXTINF:-1,Звезда
-http://46.164.235.162:4022/udp/235.1.10.13:10000
+http://46.164.239.67:1/udp/235.1.10.13:10000
 #EXTINF:-1,Рен ТВ
-http://46.164.235.162:4022/udp/235.1.10.14:10000
+http://46.164.239.67:1/udp/235.1.10.14:10000
 #EXTINF:-1,Домашний
-http://46.164.235.162:4022/udp/235.1.10.15:10000
+http://46.164.239.67:1/udp/235.1.10.15:10000
 #EXTINF:-1,ТНТ
-http://46.164.235.162:4022/udp/235.1.10.19:10000
-#EXTINF:-1,Mир 
-http://46.164.235.162:4022/udp/235.1.10.23:10000
-#EXTINF:-1,Ю
-http://46.164.235.162:4022/udp/235.1.10.22:10000
-#EXTINF:-1,Известия
-http://46.164.235.162:4022/udp/235.1.10.24:10000
-#EXTINF:-1,ТВ3
-http://46.164.235.162:4022/udp/235.1.10.27:10000
-#EXTINF:-1,Ювелирочка
-http://46.164.235.162:4022/udp/235.1.10.36:10000
-#EXTINF:-1,ВТК HD
-http://46.164.235.162:4022/udp/235.1.10.49:10000
-#EXTINF:-1,Ювелирочка
-http://46.164.235.162:4022/udp/235.1.10.56:10000
-#EXTINF:-1,Че!
-http://46.164.235.162:4022/udp/235.1.10.90:10000
-#EXTINF:-1,ТНОМЕР
-http://46.164.235.162:4022/udp/235.1.10.100:10000
-#EXTINF:-1,Первый канал
-http://46.164.235.162:4022/udp/235.1.10.101:10000
-#EXTINF:-1,Россия 
-http://46.164.235.162:4022/udp/235.1.10.102:10000
-#EXTINF:-1,Матч!
-http://46.164.235.162:4022/udp/235.1.10.103:10000
-#EXTINF:-1,Рен ТВ
-http://46.164.235.162:4022/udp/235.1.10.104:10000
-#EXTINF:-1,Пятый канал
-http://46.164.235.162:4022/udp/235.1.10.105:10000
-#EXTINF:-1,Россия 24
-http://46.164.235.162:4022/udp/235.1.10.107:10000
-#EXTINF:-1,Че
-http://46.164.235.162:4022/udp/235.1.10.109:10000
-#EXTINF:-1,CTC 
-http://46.164.235.162:4022/udp/235.1.10.111:10000
-#EXTINF:-1,ТВ Центр
-http://46.164.235.162:4022/udp/235.1.10.110:10000
-#EXTINF:-1,Рен ТВ 
-http://46.164.235.162:4022/udp/235.1.10.114:10000
-#EXTINF:-1,ТНТ
-http://46.164.235.162:4022/udp/235.1.10.119:10000
-#EXTINF:-1,Муз ТВ
-http://46.164.235.162:4022/udp/235.1.10.120:10000
-#EXTINF:-1,Нано
-http://46.164.235.162:4022/udp/235.1.10.122:10000
-#EXTINF:-1,Первый Канал 
-http://46.164.235.162:4022/udp/235.1.10.123:10000
-#EXTINF:-1,ТВ3 
-http://46.164.235.162:4022/udp/235.1.10.127:10000
-#EXTINF:-1,ТВ3 
-http://46.164.235.162:4022/udp/235.1.10.128:10000
-#EXTINF:-1,CTC 
-http://46.164.235.162:4022/udp/235.1.10.187:10000
-#EXTINF:-1,Солнце
-http://46.164.235.162:4022/udp/235.1.10.60:10000
-#EXTINF:-1,ОТР
-http://46.164.235.162:4022/udp/235.1.10.147:10000
-#EXTINF:-1,Россия 
-http://46.164.235.162:4022/udp/235.1.10.150:10000
-#EXTINF:-1,Губерния
-http://46.164.235.162:4022/udp/235.1.10.188:10000
-#EXTINF:-1,Пятница 
-http://46.164.235.162:4022/udp/235.1.10.190:10000
-#EXTINF:-1,Мир
-http://46.164.235.162:4022/udp/235.1.10.192:10000
-#EXTINF:-1,Красная Линия
-http://46.164.235.162:4022/udp/235.1.10.193:10000
-#EXTINF:-1,Вместе РФ
-http://46.164.235.162:4022/udp/235.1.10.198:10000
-#EXTINF:-1,Спас
-http://46.164.235.162:4022/udp/235.1.10.205:10000
-#EXTINF:-1,Домашний
-http://46.164.235.162:4022/udp/235.1.10.215:10000
-#EXTINF:-1,ТНТ 
-http://46.164.235.162:4022/udp/235.1.10.229:10000
-#EXTINF:-1,Жар Птица
-http://46.164.235.162:4022/udp/235.1.10.237:10000
-#EXTINF:-1,Суббота 
-http://46.164.235.162:4022/udp/235.1.10.249:10000
-#EXTINF:-1,Советская Киноклассика HD
-http://46.164.235.162:4022/udp/235.1.10.25:10000
-#EXTINF:-1,Romance 
-http://46.164.235.162:4022/udp/235.1.10.51:10000
-#EXTINF:-1,Cartoon Classics
-http://46.164.235.162:4022/udp/235.1.10.53:10000
-#EXTINF:-1,Suspenso HD
-http://46.164.235.162:4022/udp/235.1.10.52:10000
-#EXTINF:-1,Кино Мульт
-http://46.164.235.162:4022/udp/235.1.10.54:10000
-#EXTINF:-1,VHS-ka HD
-http://46.164.235.162:4022/udp/235.1.10.57:10000
-#EXTINF:-1,Рыжий
-http://46.164.235.162:4022/udp/235.1.10.40:10000
-#EXTINF:-1,День Победы
-http://46.164.235.162:4022/udp/235.1.10.41:10000
-#EXTINF:-1,Amedia 2 HD
-http://46.164.235.162:4022/udp/235.1.10.39:10000
-#EXTINF:-1,НТВ
-http://46.164.235.162:4022/udp/235.1.10.18:10000
-#EXTINF:-1,Радио
-http://46.164.235.162:4022/udp/235.1.10.246:10000
-#EXTINF:-1,Радио
-http://46.164.235.162:4022/udp/235.1.10.247:10000
-#EXTINF:-1,Радио
-http://46.164.235.162:4022/udp/235.1.10.248:10000
-
-
-#EXTINF:-1,Первый канал
-http://46.164.236.88:1/udp/235.1.10.1:10000
-#EXTINF:-1,Россия 1
-http://46.164.236.88:1/udp/235.1.10.2:10000
-#EXTINF:-1,Матч!
-http://46.164.236.88:1/udp/235.1.10.3:10000
-#EXTINF:-1,НТВ
-http://46.164.236.88:1/udp/235.1.10.4:10000
-#EXTINF:-1,Пятый канал
-http://46.164.236.88:1/udp/235.1.10.5:10000
-#EXTINF:-1,Россия К
-http://46.164.236.88:1/udp/235.1.10.6:10000
-#EXTINF:-1,Россия 24
-http://46.164.236.88:1/udp/235.1.10.7:10000
-#EXTINF:-1,Че
-http://46.164.236.88:1/udp/235.1.10.9:10000
-#EXTINF:-1,ТВ Центр
-http://46.164.236.88:1/udp/235.1.10.10:10000
-#EXTINF:-1,Карусель
-http://46.164.236.88:1/udp/235.1.10.12:10000
-#EXTINF:-1,СТС
-http://46.164.236.88:1/udp/235.1.10.11:10000
-#EXTINF:-1,Звезда
-http://46.164.236.88:1/udp/235.1.10.13:10000
-#EXTINF:-1,Рен ТВ
-http://46.164.236.88:1/udp/235.1.10.14:10000
-#EXTINF:-1,Домашний
-http://46.164.236.88:1/udp/235.1.10.15:10000
-#EXTINF:-1,ТНТ
-http://46.164.236.88:1/udp/235.1.10.19:10000
+http://46.164.239.67:1/udp/235.1.10.19:10000
 #EXTINF:-1,РБК 
-http://46.164.236.88:1/udp/235.1.10.78:10000
+http://46.164.239.67:1/udp/235.1.10.78:10000
 #EXTINF:-1,Mир 
-http://46.164.236.88:1/udp/235.1.10.23:10000
+http://46.164.239.67:1/udp/235.1.10.23:10000
 #EXTINF:-1,Ю 
-http://46.164.236.88:1/udp/235.1.10.22:10000
+http://46.164.239.67:1/udp/235.1.10.22:10000
 #EXTINF:-1,Известия
-http://46.164.236.88:1/udp/235.1.10.24:10000
+http://46.164.239.67:1/udp/235.1.10.24:10000
 #EXTINF:-1,ТВ3
-http://46.164.236.88:1/udp/235.1.10.27:10000
+http://46.164.239.67:1/udp/235.1.10.27:10000
 #EXTINF:-1,Ювелирочка
-http://46.164.236.88:1/udp/235.1.10.36:10000
+http://46.164.239.67:1/udp/235.1.10.36:10000
 #EXTINF:-1,ВТК HD
-http://46.164.236.88:1/udp/235.1.10.49:10000
+http://46.164.239.67:1/udp/235.1.10.49:10000
 #EXTINF:-1,Ювелирочка
-http://46.164.236.88:1/udp/235.1.10.56:10000
+http://46.164.239.67:1/udp/235.1.10.56:10000
 #EXTINF:-1,Че!
-http://46.164.236.88:1/udp/235.1.10.90:10000
+http://46.164.239.67:1/udp/235.1.10.90:10000
 #EXTINF:-1,ТНОМЕР
-http://46.164.236.88:1/udp/235.1.10.100:10000
+http://46.164.239.67:1/udp/235.1.10.100:10000
 #EXTINF:-1,Первый канал
-http://46.164.236.88:1/udp/235.1.10.101:10000
+http://46.164.239.67:1/udp/235.1.10.101:10000
 #EXTINF:-1,Россия 1
-http://46.164.236.88:1/udp/235.1.10.102:10000
+http://46.164.239.67:1/udp/235.1.10.102:10000
 #EXTINF:-1,МАТЧ!
-http://46.164.236.88:1/udp/235.1.10.103:10000
+http://46.164.239.67:1/udp/235.1.10.103:10000
 #EXTINF:-1,REN TV
-http://46.164.236.88:1/udp/235.1.10.104:10000
+http://46.164.239.67:1/udp/235.1.10.104:10000
 #EXTINF:-1,Пятый канал
-http://46.164.236.88:1/udp/235.1.10.105:10000
+http://46.164.239.67:1/udp/235.1.10.105:10000
 #EXTINF:-1,Россия 24
-http://46.164.236.88:1/udp/235.1.10.107:10000
+http://46.164.239.67:1/udp/235.1.10.107:10000
 #EXTINF:-1,CHE
-http://46.164.236.88:1/udp/235.1.10.109:10000
+http://46.164.239.67:1/udp/235.1.10.109:10000
 #EXTINF:-1,CTC HD
-http://46.164.236.88:1/udp/235.1.10.111:10000
+http://46.164.239.67:1/udp/235.1.10.111:10000
 #EXTINF:-1,ТВЦ
-http://46.164.236.88:1/udp/235.1.10.110:10000
+http://46.164.239.67:1/udp/235.1.10.110:10000
 #EXTINF:-1,Рен ТВ HD
-http://46.164.236.88:1/udp/235.1.10.114:10000
+http://46.164.239.67:1/udp/235.1.10.114:10000
 #EXTINF:-1,ТНТ
-http://46.164.236.88:1/udp/235.1.10.119:10000
+http://46.164.239.67:1/udp/235.1.10.119:10000
 #EXTINF:-1,Муз ТВ
-http://46.164.236.88:1/udp/235.1.10.120:10000
+http://46.164.239.67:1/udp/235.1.10.120:10000
 #EXTINF:-1,Нано
-http://46.164.236.88:1/udp/235.1.10.122:10000
+http://46.164.239.67:1/udp/235.1.10.122:10000
 #EXTINF:-1,Первый Канал HD
-http://46.164.236.88:1/udp/235.1.10.123:10000
+http://46.164.239.67:1/udp/235.1.10.123:10000
 #EXTINF:-1,ТВ3 HD
-http://46.164.236.88:1/udp/235.1.10.127:10000
+http://46.164.239.67:1/udp/235.1.10.127:10000
 #EXTINF:-1,ТВ3 HD
-http://46.164.236.88:1/udp/235.1.10.128:10000
+http://46.164.239.67:1/udp/235.1.10.128:10000
 #EXTINF:-1,CTC 
-http://46.164.236.88:1/udp/235.1.10.187:10000
+http://46.164.239.67:1/udp/235.1.10.187:10000
 #EXTINF:-1,Солнце
-http://46.164.236.88:1/udp/235.1.10.60:10000
+http://46.164.239.67:1/udp/235.1.10.60:10000
 #EXTINF:-1,ОТР
-http://46.164.236.88:1/udp/235.1.10.147:10000
+http://46.164.239.67:1/udp/235.1.10.147:10000
 #EXTINF:-1,Россия 1 HD
-http://46.164.236.88:1/udp/235.1.10.150:10000
+http://46.164.239.67:1/udp/235.1.10.150:10000
 #EXTINF:-1,Губерния
-http://46.164.236.88:1/udp/235.1.10.188:10000
+http://46.164.239.67:1/udp/235.1.10.188:10000
 #EXTINF:-1,Пятница HD
-http://46.164.236.88:1/udp/235.1.10.190:10000
+http://46.164.239.67:1/udp/235.1.10.190:10000
 #EXTINF:-1,Мир
-http://46.164.236.88:1/udp/235.1.10.192:10000
+http://46.164.239.67:1/udp/235.1.10.192:10000
 #EXTINF:-1,Красная Линия
-http://46.164.236.88:1/udp/235.1.10.193:10000
+http://46.164.239.67:1/udp/235.1.10.193:10000
 #EXTINF:-1,ВМЕСТЕ РФ
-http://46.164.236.88:1/udp/235.1.10.198:10000
+http://46.164.239.67:1/udp/235.1.10.198:10000
 #EXTINF:-1,Спас
-http://46.164.236.88:1/udp/235.1.10.205:10000
+http://46.164.239.67:1/udp/235.1.10.205:10000
 #EXTINF:-1,Домашний HD
-http://46.164.236.88:1/udp/235.1.10.215:10000
+http://46.164.239.67:1/udp/235.1.10.215:10000
 #EXTINF:-1,ТНТ HD
-http://46.164.236.88:1/udp/235.1.10.229:10000
+http://46.164.239.67:1/udp/235.1.10.229:10000
 #EXTINF:-1,Жар Птица
-http://46.164.236.88:1/udp/235.1.10.237:10000
+http://46.164.239.67:1/udp/235.1.10.237:10000
 #EXTINF:-1,Радио
-http://46.164.236.88:1/udp/235.1.10.246:10000
+http://46.164.239.67:1/udp/235.1.10.246:10000
 #EXTINF:-1,Радио
-http://46.164.236.88:1/udp/235.1.10.247:10000
+http://46.164.239.67:1/udp/235.1.10.247:10000
 #EXTINF:-1,Радио
-http://46.164.236.88:1/udp/235.1.10.248:10000
+http://46.164.239.67:1/udp/235.1.10.248:10000
 #EXTINF:-1,Суббота 
-http://46.164.236.88:1/udp/235.1.10.249:10000
+http://46.164.239.67:1/udp/235.1.10.249:10000
 #EXTINF:-1,Советская Киноклассика HD
-http://46.164.236.88:1/udp/235.1.10.25:10000
+http://46.164.239.67:1/udp/235.1.10.25:10000
 #EXTINF:-1,Romance 
-http://46.164.236.88:1/udp/235.1.10.51:10000
+http://46.164.239.67:1/udp/235.1.10.51:10000
 #EXTINF:-1,Cartoon Classics
-http://46.164.236.88:1/udp/235.1.10.53:10000
+http://46.164.239.67:1/udp/235.1.10.53:10000
 #EXTINF:-1,Suspenso HD
-http://46.164.236.88:1/udp/235.1.10.52:10000
+http://46.164.239.67:1/udp/235.1.10.52:10000
 #EXTINF:-1,Кино Мульт
-http://46.164.236.88:1/udp/235.1.10.54:10000
+http://46.164.239.67:1/udp/235.1.10.54:10000
 #EXTINF:-1,VHS-ka HD
-http://46.164.236.88:1/udp/235.1.10.57:10000
+http://46.164.239.67:1/udp/235.1.10.57:10000
 #EXTINF:-1,Рыжий
-http://46.164.236.88:1/udp/235.1.10.40:10000
+http://46.164.239.67:1/udp/235.1.10.40:10000
 #EXTINF:-1,День Победы
-http://46.164.236.88:1/udp/235.1.10.41:10000
+http://46.164.239.67:1/udp/235.1.10.41:10000
 #EXTINF:-1,Amedia 2 HD
-http://46.164.236.88:1/udp/235.1.10.39:10000
+http://46.164.239.67:1/udp/235.1.10.39:10000
 #EXTINF:-1,НТВ
-http://46.164.236.88:1/udp/235.1.10.18:10000
+http://46.164.239.67:1/udp/235.1.10.18:10000
 
 #EXTINF:-1 group-title="-",Первый канал
 http://5.188.221.43:8080/play/ort
@@ -1651,3 +1512,358 @@ https://stream.ntktv.ua/s/ntk/ntk.m3u8
 #EXTINF:-1 group-title="Развлекательные",Sochi Live HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
+
+#EXTINF:-1-id="1709" group_id="6" group-title="Кино" tvg-name="Блокбастер HD" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/1709.png", Блокбастер HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1709
+#EXTINF:-1-id="106" group_id="6" group-title="Кино" tvg-name="Кинопоказ" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/106.png", Кинопоказ
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/106
+#EXTINF:-1-id="260" group_id="6" group-title="Кино" tvg-name="Шокирующее HD" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/260.png", Шокирующее HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/260
+#EXTINF:-1-id="261" group_id="6" group-title="Кино" tvg-name="Комедийное HD" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/261.png", Комедийное HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/261
+#EXTINF:-1-id="265" group_id="6" group-title="Кино" tvg-name="Премиальное HD" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/265.png", Премиальное HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/265
+#EXTINF:-1-id="266" group_id="6" group-title="Кино" tvg-name="Остросюжетное HD" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/266.png", Остросюжетное HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/266
+#EXTINF:-1-id="267" group_id="6" group-title="Кино" tvg-name="Наш Детектив HD" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/267.png", Наш Детектив HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/267
+#EXTINF:-1-id="543" group_id="6" group-title="Кино" tvg-name="Наш Кинопоказ HD" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/543.png", Наш Кинопоказ HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/543
+#EXTINF:-1-id="268" group_id="6" group-title="Кино" tvg-name="Наш Кинороман HD" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/268.png", Наш Кинороман HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/268
+#EXTINF:-1-id="1363" group_id="6" group-title="Кино" tvg-name="Наше Любимое HD" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/1363.png", Наше Любимое HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1363
+#EXTINF:-1-id="544" group_id="6" group-title="Кино" tvg-name="Наше Мужское HD" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/544.png", Наше Мужское HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/544
+#EXTINF:-1-id="1816" group_id="6" group-title="Кино" tvg-name="Киноужас" tvg-logo="http://api.iptv.so/logo/200_115_0/1816.png", Киноужас
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1816
+#EXTINF:-1-id="499" group_id="6" group-title="Кино" tvg-name="Киноужас HD" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/499.png", Киноужас HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/499
+#EXTINF:-1-id="107" group_id="6" group-title="Кино" tvg-name="Киносвидание" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/107.png", Киносвидание
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/107
+#EXTINF:-1-id="1818" group_id="6" group-title="Кино" tvg-name="Киносвидание HD" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/1818.png", Киносвидание HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1818
+#EXTINF:-1-id="108" group_id="6" group-title="Кино" tvg-name="Родное кино" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/108.png", Родное кино
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/108
+#EXTINF:-1-id="109" group_id="6" group-title="Кино" tvg-name="Наше новое кино" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/109.png", Наше новое кино
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/109
+#EXTINF:-1-id="1045" group_id="6" group-title="Кино" tvg-name="Наше новое кино HD" tvg-logo="http://api.iptv.so/logo/200_115_0/1045.png", Наше новое кино HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1045
+#EXTINF:-1-id="110" group_id="6" group-title="Кино" tvg-name="Киносемья" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/110.png", Киносемья
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/110
+#EXTINF:-1-id="1819" group_id="6" group-title="Кино" tvg-name="Киносемья HD" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/1819.png", Киносемья HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1819
+#EXTINF:-1-id="152" group_id="6" group-title="Кино" tvg-name="Киномикс" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/152.png", Киномикс
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/152
+#EXTINF:-1-id="1817" group_id="6" group-title="Кино" tvg-name="Киномикс HD" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/1817.png", Киномикс HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1817
+#EXTINF:-1-id="154" group_id="6" group-title="Кино" tvg-name="Кинопремьера HD" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/154.png", Кинопремьера HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/154
+#EXTINF:-1-id="112" group_id="6" group-title="Кино" tvg-name="Кинокомедия" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/112.png", Кинокомедия
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/112
+#EXTINF:-1-id="1044" group_id="6" group-title="Кино" tvg-name="Кинокомедия HD" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/1044.png", Кинокомедия HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1044
+#EXTINF:-1-id="150" group_id="6" group-title="Кино" tvg-name="Киносерия" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/150.png", Киносерия
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/150
+#EXTINF:-1-id="1820" group_id="6" group-title="Кино" tvg-name="Киносерия HD" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/1820.png", Киносерия HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1820
+#EXTINF:-1-id="115" group_id="6" group-title="Кино" tvg-name="Кинохит" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/115.png", Кинохит
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/115
+#EXTINF:-1-id="1821" group_id="6" group-title="Кино" tvg-name="Кинохит HD" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/1821.png", Кинохит HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1821
+#EXTINF:-1-id="151" group_id="6" group-title="Кино" tvg-name="Мужское Кино" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/151.png", Мужское Кино
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/151
+#EXTINF:-1-id="1286" group_id="6" group-title="Кино" tvg-name="Мужское кино HD" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/1286.png", Мужское кино HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1286
+#EXTINF:-1-id="116" group_id="6" group-title="Кино" tvg-name="Дом кино" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/116.png", Дом кино
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/116
+#EXTINF:-1-id="257" group_id="6" group-title="Кино" tvg-name="Дом кино премиум HD" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/257.png", Дом кино премиум HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/257
+#EXTINF:-1-id="390" group_id="6" group-title="Кино" tvg-name="Точка-ТВ" tvg-logo="http://api.iptv.so/logo/200_115_0/390.png", Точка-ТВ
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/390
+#EXTINF:-1-id="1357" group_id="6" group-title="Кино" tvg-name="Cinema" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/1357.png", Cinema
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1357
+#EXTINF:-1-id="1745" group_id="6" group-title="Кино" tvg-name="Cinema HD" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/1745.png", Cinema HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1745
+#EXTINF:-1-id="118" group_id="6" group-title="Кино" tvg-name="Индия" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/118.png", Индия
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/118
+#EXTINF:-1-id="119" group_id="6" group-title="Кино" tvg-name="Индийское кино" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/119.png", Индийское кино
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/119
+#EXTINF:-1-id="256" group_id="6" group-title="Кино" tvg-name="Bollywood HD" tvg-logo="http://api.iptv.so/logo/200_115_0/256.png", Bollywood HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/256
+#EXTINF:-1-id="1201" group_id="6" group-title="Кино" tvg-name="Hollywood HD" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/1201.png", Hollywood HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1201
+#EXTINF:-1-id="129" group_id="6" group-title="Кино" tvg-name="Sony Sci-Fi" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/129.png", Sony Sci-Fi
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/129
+#EXTINF:-1-id="120" group_id="6" group-title="Кино" tvg-name="Sony Turbo (.Black)" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/120.png", Sony Turbo (.Black)
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/120
+#EXTINF:-1-id="121" group_id="6" group-title="Кино" tvg-name="SET (.Red)" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/121.png", SET (.Red)
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/121
+#EXTINF:-1-id="264" group_id="6" group-title="Кино" tvg-name="SET HD (.Red)" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/264.png", SET HD (.Red)
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/264
+#EXTINF:-1-id="124" group_id="6" group-title="Кино" tvg-name="FOX" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/124.png", FOX
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/124
+#EXTINF:-1-id="125" group_id="6" group-title="Кино" tvg-name="FOX HD" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/125.png", FOX HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/125
+#EXTINF:-1-id="126" group_id="6" group-title="Кино" tvg-name="Fox Life" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/126.png", Fox Life
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/126
+#EXTINF:-1-id="127" group_id="6" group-title="Кино" tvg-name="Fox Life HD" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/127.png", Fox Life HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/127
+#EXTINF:-1-id="1706" group_id="6" group-title="Кино" tvg-name="Filmbox" tvg-logo="http://api.iptv.so/logo/200_115_0/1706.png", Filmbox
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1706
+#EXTINF:-1-id="1707" group_id="6" group-title="Кино" tvg-name="FilmBox Art House" tvg-logo="http://api.iptv.so/logo/200_115_0/1707.png", FilmBox Art House
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1707
+#EXTINF:-1-id="130" group_id="6" group-title="Кино" tvg-name="Русский бестселлер" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/130.png", Русский бестселлер
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/130
+#EXTINF:-1-id="131" group_id="6" group-title="Кино" tvg-name="Русский детектив" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/131.png", Русский детектив
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/131
+#EXTINF:-1-id="1313" group_id="6" group-title="Кино" tvg-name="Русская комедия" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/1313.png", Русская комедия
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1313
+#EXTINF:-1-id="132" group_id="6" group-title="Кино" tvg-name="Русский иллюзион" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/132.png", Русский иллюзион
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/132
+#EXTINF:-1-id="1030" group_id="6" group-title="Кино" tvg-name="Русский иллюзион HD" tvg-logo="http://api.iptv.so/logo/200_115_0/1030.png", Русский иллюзион HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1030
+#EXTINF:-1-id="133" group_id="6" group-title="Кино" tvg-name="Русский роман" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/133.png", Русский роман
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/133
+#EXTINF:-1-id="364" group_id="6" group-title="Кино" tvg-name="Русский роман HD" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/364.png", Русский роман HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/364
+#EXTINF:-1-id="1721" group_id="6" group-title="Кино" tvg-name="Про Любовь" tvg-logo="http://api.iptv.so/logo/200_115_0/1721.png", Про Любовь
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1721
+#EXTINF:-1-id="1722" group_id="6" group-title="Кино" tvg-name="Про Любовь HD" tvg-logo="http://api.iptv.so/logo/200_115_0/1722.png", Про Любовь HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1722
+#EXTINF:-1-id="1972" group_id="6" group-title="Кино" tvg-name="Лавстори HD" tvg-logo="http://api.iptv.so/logo/200_115_0/1972.png", Лавстори HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1972
+#EXTINF:-1-id="1741" group_id="6" group-title="Кино" tvg-name="Романтичное HD" tvg-logo="http://api.iptv.so/logo/200_115_0/1741.png", Романтичное HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1741
+#EXTINF:-1-id="1971" group_id="6" group-title="Кино" tvg-name="Romance HD" tvg-logo="http://api.iptv.so/logo/200_115_0/1971.png", Romance HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1971
+#EXTINF:-1-id="1724" group_id="6" group-title="Кино" tvg-name="Камеди" tvg-logo="http://api.iptv.so/logo/200_115_0/1724.png", Камеди
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1724
+#EXTINF:-1-id="1725" group_id="6" group-title="Кино" tvg-name="Камеди HD" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/1725.png", Камеди HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1725
+#EXTINF:-1-id="134" group_id="6" group-title="Кино" tvg-name="Иллюзион+" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/134.png", Иллюзион+
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/134
+#EXTINF:-1-id="1029" group_id="6" group-title="Кино" tvg-name="Иллюзион+ HD " catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/1029.png", Иллюзион+ HD 
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1029
+#EXTINF:-1-id="546" group_id="6" group-title="Кино" tvg-name="Мосфильм. Золотая коллекция" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/546.png", Мосфильм. Золотая коллекция
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/546
+#EXTINF:-1-id="1729" group_id="6" group-title="Кино" tvg-name="Мосфильм Золотая коллекция HD" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/1729.png", Мосфильм Золотая коллекция HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1729
+#EXTINF:-1-id="122" group_id="6" group-title="Кино" tvg-name="Ретро" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/122.png", Ретро
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/122
+#EXTINF:-1-id="1966" group_id="6" group-title="Кино" tvg-name="Советская киноклассика HD" tvg-logo="http://api.iptv.so/logo/200_115_0/1966.png", Советская киноклассика HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1966
+#EXTINF:-1-id="123" group_id="6" group-title="Кино" tvg-name="НСТ" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/123.png", НСТ
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/123
+#EXTINF:-1-id="128" group_id="6" group-title="Кино" tvg-name="Еврокино" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/128.png", Еврокино
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/128
+#EXTINF:-1-id="1028" group_id="6" group-title="Кино" tvg-name="Еврокино HD" tvg-logo="http://api.iptv.so/logo/200_115_0/1028.png", Еврокино HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1028
+#EXTINF:-1-id="135" group_id="6" group-title="Кино" tvg-name="Тайна" tvg-logo="http://api.iptv.so/logo/200_115_0/135.png", Тайна
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/135
+#EXTINF:-1-id="479" group_id="6" group-title="Кино" tvg-name="Феникс кино" tvg-logo="http://api.iptv.so/logo/200_115_0/479.png", Феникс кино
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/479
+#EXTINF:-1-id="1723" group_id="6" group-title="Кино" tvg-name="Хит HD" tvg-logo="http://api.iptv.so/logo/200_115_0/1723.png", Хит HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1723
+#EXTINF:-1-id="1714" group_id="6" group-title="Кино" tvg-name="Киноман" tvg-logo="http://api.iptv.so/logo/200_115_0/1714.png", Киноман
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1714
+#EXTINF:-1-id="1728" group_id="6" group-title="Кино" tvg-name="О! Кино" tvg-logo="http://api.iptv.so/logo/200_115_0/1728.png", О! Кино
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1728
+#EXTINF:-1-id="368" group_id="6" group-title="Кино" tvg-name="Кино ТВ HD" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/368.png", Кино ТВ HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/368
+#EXTINF:-1-id="136" group_id="6" group-title="Кино" tvg-name="СТС Love" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/136.png", СТС Love
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/136
+#EXTINF:-1-id="258" group_id="6" group-title="Кино" tvg-name="Мир сериала" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/258.png", Мир сериала
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/258
+#EXTINF:-1-id="1726" group_id="6" group-title="Кино" tvg-name="Trash" tvg-logo="http://api.iptv.so/logo/200_115_0/1726.png", Trash
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1726
+#EXTINF:-1-id="138" group_id="6" group-title="Кино" tvg-name="viju TV1000" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/138.png", viju TV1000
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/138
+#EXTINF:-1-id="139" group_id="6" group-title="Кино" tvg-name="viju TV1000 Русское кино" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/139.png", viju TV1000 Русское кино
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/139
+#EXTINF:-1-id="140" group_id="6" group-title="Кино" tvg-name="viju TV1000 Action" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/140.png", viju TV1000 Action
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/140
+#EXTINF:-1-id="141" group_id="6" group-title="Кино" tvg-name="viju+ Comedy HD" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/141.png", viju+ Comedy HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/141
+#EXTINF:-1-id="142" group_id="6" group-title="Кино" tvg-name="viju+ Megahit HD" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/142.png", viju+ Megahit HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/142
+#EXTINF:-1-id="143" group_id="6" group-title="Кино" tvg-name="viju+ Premiere HD" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/143.png", viju+ Premiere HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/143
+#EXTINF:-1-id="1031" group_id="6" group-title="Кино" tvg-name="viju+ Serial HD" tvg-logo="http://api.iptv.so/logo/200_115_0/1031.png", viju+ Serial HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1031
+#EXTINF:-1-id="1828" group_id="6" group-title="Кино" tvg-name="KinoJam 1 HD" tvg-logo="http://api.iptv.so/logo/200_115_0/1828.png", KinoJam 1 HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1828
+#EXTINF:-1-id="1829" group_id="6" group-title="Кино" tvg-name="KinoJam 2 HD" tvg-logo="http://api.iptv.so/logo/200_115_0/1829.png", KinoJam 2 HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1829
+#EXTINF:-1-id="1886" group_id="6" group-title="Кино" tvg-name="KinoJam 3 HD (DetectiveJam)" tvg-logo="http://api.iptv.so/logo/200_115_0/1886.png", KinoJam 3 HD (DetectiveJam)
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1886
+#EXTINF:-1-id="1887" group_id="6" group-title="Кино" tvg-name="KinoJam 4 HD (FamilyJam)" tvg-logo="http://api.iptv.so/logo/200_115_0/1887.png", KinoJam 4 HD (FamilyJam)
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1887
+#EXTINF:-1-id="144" group_id="6" group-title="Кино" tvg-name="A1" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/144.png", A1
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/144
+#EXTINF:-1-id="365" group_id="6" group-title="Кино" tvg-name="A1 HD" tvg-logo="http://api.iptv.so/logo/200_115_0/365.png", A1 HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/365
+#EXTINF:-1-id="145" group_id="6" group-title="Кино" tvg-name="A2" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/145.png", A2
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/145
+#EXTINF:-1-id="1037" group_id="6" group-title="Кино" tvg-name="A2 HD" tvg-logo="http://api.iptv.so/logo/200_115_0/1037.png", A2 HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1037
+#EXTINF:-1-id="153" group_id="6" group-title="Кино" tvg-name="Amedia HIT HD" tvg-logo="http://api.iptv.so/logo/200_115_0/153.png", Amedia HIT HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/153
+#EXTINF:-1-id="146" group_id="6" group-title="Кино" tvg-name="Amedia Premium HD" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/146.png", Amedia Premium HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/146
+#EXTINF:-1-id="148" group_id="6" group-title="Кино" tvg-name="Comedy Central" catchup="append" catchup-source="?utc=${start}" timeshift="14" catchup-days="14" tvg-rec="14" tvg-logo="http://api.iptv.so/logo/200_115_0/148.png", Comedy Central
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/148
+#EXTINF:-1-id="1715" group_id="6" group-title="Кино" tvg-name="Дорама" tvg-logo="http://api.iptv.so/logo/200_115_0/1715.png", Дорама
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1715
+#EXTINF:-1-id="1716" group_id="6" group-title="Кино" tvg-name="Дорама HD" tvg-logo="http://api.iptv.so/logo/200_115_0/1716.png", Дорама HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1716
+#EXTINF:-1-id="1811" group_id="6" group-title="Кино" tvg-name="Кинеко" tvg-logo="http://api.iptv.so/logo/200_115_0/1811.png", Кинеко
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1811
+#EXTINF:-1-id="1810" group_id="6" group-title="Кино" tvg-name="Кинеко HD" tvg-logo="http://api.iptv.so/logo/200_115_0/1810.png", Кинеко HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1810
+#EXTINF:-1-id="1812" group_id="6" group-title="Кино" tvg-name="Сапфир" tvg-logo="http://api.iptv.so/logo/200_115_0/1812.png", Сапфир
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1812
+#EXTINF:-1-id="1813" group_id="6" group-title="Кино" tvg-name="Сапфир HD" tvg-logo="http://api.iptv.so/logo/200_115_0/1813.png", Сапфир HD
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1813
+#EXTINF:-1-id="1831" group_id="6" group-title="Кино" tvg-name="CineMan Cartoons 90" tvg-logo="http://api.iptv.so/logo/200_115_0/1831.png", CineMan Cartoons 90
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1831
+#EXTINF:-1-id="1832" group_id="6" group-title="Кино" tvg-name="CineMan Cartoons Big" tvg-logo="http://api.iptv.so/logo/200_115_0/1832.png", CineMan Cartoons Big
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1832
+#EXTINF:-1-id="1833" group_id="6" group-title="Кино" tvg-name="CineMan Marvel" tvg-logo="http://api.iptv.so/logo/200_115_0/1833.png", CineMan Marvel
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1833
+#EXTINF:-1-id="1834" group_id="6" group-title="Кино" tvg-name="CineMan" tvg-logo="http://api.iptv.so/logo/200_115_0/1834.png", CineMan
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1834
+#EXTINF:-1-id="1835" group_id="6" group-title="Кино" tvg-name="CineMan Actions" tvg-logo="http://api.iptv.so/logo/200_115_0/1835.png", CineMan Actions
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1835
+#EXTINF:-1-id="1836" group_id="6" group-title="Кино" tvg-name="CineMan Comedy" tvg-logo="http://api.iptv.so/logo/200_115_0/1836.png", CineMan Comedy
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1836
+#EXTINF:-1-id="1837" group_id="6" group-title="Кино" tvg-name="CineMan Katastrofi" tvg-logo="http://api.iptv.so/logo/200_115_0/1837.png", CineMan Katastrofi
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1837
+#EXTINF:-1-id="1838" group_id="6" group-title="Кино" tvg-name="CineMan Melodrama" tvg-logo="http://api.iptv.so/logo/200_115_0/1838.png", CineMan Melodrama
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1838
+#EXTINF:-1-id="1839" group_id="6" group-title="Кино" tvg-name="CineMan RU kino" tvg-logo="http://api.iptv.so/logo/200_115_0/1839.png", CineMan RU kino
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1839
+#EXTINF:-1-id="1840" group_id="6" group-title="Кино" tvg-name="CineMan Thriller" tvg-logo="http://api.iptv.so/logo/200_115_0/1840.png", CineMan Thriller
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1840
+#EXTINF:-1-id="1841" group_id="6" group-title="Кино" tvg-name="CineMan TOP" tvg-logo="http://api.iptv.so/logo/200_115_0/1841.png", CineMan TOP
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1841
+#EXTINF:-1-id="1842" group_id="6" group-title="Кино" tvg-name="CineMan Uzhasy" tvg-logo="http://api.iptv.so/logo/200_115_0/1842.png", CineMan Uzhasy
+#EXTGRP:Кино
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/1842
