@@ -1,33 +1,33 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 #EXTINF:0 tvg-name=Первый_канал group-title="ТВ Вещание" tvg-logo="http://uiptv.do.am/img/logo/001.gif",Первый канал 
-http://178.163.6.70:4022/udp/234.0.0.200:2000
+http://178.163.2.33:4022/udp/234.0.0.200:2000
 #EXTINF:-1,Россия 1
-http://178.163.6.70:4022/udp/234.0.0.201:2000
+http://178.163.2.33:4022/udp/234.0.0.201:2000
 #EXTINF:-1,Россия 24 
-http://178.163.6.70:4022/udp/234.0.0.207:2000
+http://178.163.2.33:4022/udp/234.0.0.207:2000
 #EXTINF:-1,Пятый канал 
-http://178.163.6.70:4022/udp/234.0.0.205:2000
+http://178.163.2.33:4022/udp/234.0.0.205:2000
 #EXTINF:0 tvg-name=Культура group-title="ТВ Вещание" tvg-logo="http://uiptv.do.am/img/logo/005.gif",Россия К
-http://178.163.6.70:4022/udp/234.0.0.202:2000
+http://178.163.2.33:4022/udp/234.0.0.202:2000
 #EXTINF:0 tvg-name=ТВ_Центр group-title="ТВ Вещание" tvg-logo="http://uiptv.do.am/img/logo/009.gif",ТВ Центр
-http://178.163.6.70:4022/udp/234.0.0.192:2000
+http://178.163.2.33:4022/udp/234.0.0.192:2000
 #EXTINF:0,Рен ТВ 
-http://178.163.6.70:4022/udp/234.0.0.240:2000
+http://178.163.2.33:4022/udp/234.0.0.240:2000
 #EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2016/05/30/70554/70554232.png" group-title="All", НТВ 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
-http://178.163.6.70:4022/udp/234.0.0.206:2000
+http://178.163.2.33:4022/udp/234.0.0.206:2000
 #EXTINF:-1 tvg-logo="http://tocha11.strana.de/templates/logo/tv_3.gif" group-title="All", ТВ3 
-http://178.163.6.70:4022/udp/234.0.0.171:2000
+http://178.163.2.33:4022/udp/234.0.0.171:2000
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/sts.png" group-title="All", СТС 
-http://178.163.6.70:4022/udp/234.0.0.239:2000 
+http://178.163.2.33:4022/udp/234.0.0.239:2000 
 #EXTINF:0,Домашний 
-http://178.163.6.70:4022/udp/234.0.0.191:2000
+http://178.163.2.33:4022/udp/234.0.0.191:2000
 #EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2013/11/06/25842/25842280.png" group-title="All", Мир
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
-http://178.163.6.70:4022/udp/234.0.0.5:2000
+http://178.163.2.33:4022/udp/234.0.0.5:2000
 #EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/06/20/98245/98245674.png" group-title="All", ТНТ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;) 
-http://178.163.6.70:4022/udp/234.0.0.186:2000
+http://178.163.2.33:4022/udp/234.0.0.186:2000
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/L01RjKe.png",КиноТВ 
 http://88.85.172.243:7006/play/a015
 http://streaming.tv-teleport.ru/Kino_TV/index.m3u8
@@ -35,7 +35,7 @@ http://streaming.tv-teleport.ru/Kino_TV/index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
 #EXTINF:-1 group-title="Общий" tvg-logo="https://i.imgur.com/4PAcpfM.png",Звезда 
-http://178.163.6.70:4022/udp/234.0.0.237:2000
+http://178.163.2.33:4022/udp/234.0.0.237:2000
 #EXTINF:-1 group-title="Общий" tvg-logo="https://i.imgur.com/4PAcpfM.png",Звезда 
 https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1,Соловьёв Live
