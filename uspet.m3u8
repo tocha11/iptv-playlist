@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://epg.one/epg.xml; http://gabbarit.drm-play.com/epg_lite.xml.gz; http://epg.cdntv.online/lite.xml; http://epg.it999.ru/epg.xml.gz; http://iptv-content.rv77.pw/guide-lite.xml"
-#EXTINF:-1,Первий канал
+#EXTINF:-1,Первый канал
 http://5.188.221.43:8080/play/ort
 #EXTINF:-1,Россия 1
 http://5.188.221.43:8080/play/rossiya_1
