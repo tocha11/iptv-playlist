@@ -15,8 +15,12 @@ http://46.36.10.122:81/udp/239.255.0.24:1234
 http://46.36.10.122:81/udp/239.255.0.25:1234
 #EXTINF:-1,РБК 
 http://46.36.10.122:81/udp/239.255.0.37:1234
+#EXTINF:-1,ТНТ
+http://46.36.10.122:81/udp/239.255.0.22:1234
 #EXTINF:-1,ТНТ4
 http://46.36.10.122:81/udp/239.255.0.38:1234
+#EXTINF:-1,Пятый канал
+http://46.36.10.122:81/udp/239.255.0.9:1234
 #EXTINF:-1,КиноТВ
 http://46.36.10.122:81/udp/239.255.0.49:1234
 #EXTINF:-1,Пятница!
@@ -345,8 +349,6 @@ http://46.36.10.122:81/udp/239.255.0.85:1234
 http://46.36.10.122:81/udp/239.255.0.87:1234
 #EXTINF:-1,RT
 http://46.36.10.122:81/udp/239.255.0.89:1234
-#EXTINF:-1,Пятый Канал
-http://46.36.10.122:81/udp/239.255.0.9:1234
 #EXTINF:-1,BRIDGE Русский Хит
 http://46.36.10.122:81/udp/239.255.0.90:1234
 #EXTINF:-1,Телеканал О!
@@ -1004,71 +1006,6 @@ http://178.212.71.253:8000/play/47/index.m3u8
 #EXTINF:-1 group-title="С сайтов",Мультимузыка
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://178.212.71.253:8000/play/116/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/NEXO.png" group-title="NEXO",NEXO
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://rafail1982.uz/nexo2.mp4
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/IPTV.png" group-title="NEXO",IPTV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://rafail1982.uz/IPTV.mp4
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/NexoIPTV.png" group-title="NEXO",NexoIPTV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://rafail1982.uz/NexoIPTV.mp4
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/favicon.png" group-title="NEXO",NEXO
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://rafail1982.uz/nexo2.mp4
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/favicon.png" group-title="NEXO",NexoIPTV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://rafail1982.uz/NexoIPTV.mp4
-#EXTINF:-1 group-title="С сайтов" ,НТК ТВ
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://stream.ntktv.ua/s/ntk/ntk.m3u8
-#EXTINF:-1 group-title="С сайтов" tvg-logo="https://www.cableman.ru/sites/default/files/sochi_live.png",Sochi Live HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
-#EXTINF:-1 group-title="С сайтов" tvg-logo="http://www.tbnbaltia.eu/img/tbn-baltia-2-white-trans.png",TBN BALTIA
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://dc.tbnbaltia.eu:8088/dvr/tracks-v1a1/rewind-21600.m3u8
-#EXTINF:-1 group-title="С сайтов" tvg-logo="https://i.postimg.cc/ydG9W9Pz/1.jpg",Тел+ Астрахань
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://streaming.astrakhan.ru/telplushd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="С сайтов" ,Волжский Плюс FHD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://flussonic.powernet.com.ru:8080/volplus/index.fmp4.m3u8
-#EXTINF:-1 group-title="С сайтов" tvg-logo="http://epg.it999.ru/img/2464.png",БСТ
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
-#EXTINF:-1 group-title="С сайтов" tvg-logo="http://epg.it999.ru/img/2410.png",Курай TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://bsttv.bonus-tv.ru/cdn/kurai/playlist_sdhigh.m3u8
-#EXTINF:-1 group-title="С сайтов" tvg-logo="https://i.postimg.cc/wTwrKSfy/1.jpg",Миллет
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://live.trkmillet.ru/millet/index.m3u8
-#EXTINF:-1 group-title="С сайтов" tvg-logo="http://epg.it999.ru/img/2169.png",Грозный
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
-#EXTINF:-1 group-title="С сайтов" tvg-logo="http://epg.it999.ru/img/2265.png",360°
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
-#EXTINF:-1 group-title="С сайтов" ,360 Новости
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
-#EXTINF:-1 group-title="С сайтов" tvg-logo="https://www.cableman.ru/sites/default/files/tverskoyprospekt.jpg",Тверской Проспект Регион
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://stream.fastlnk.ru:88/Tverskojj_prospekt/index.m3u8
-#EXTINF:-1 group-title="С сайтов" tvg-logo="http://epg.it999.ru/img/2168.png",Астрахань 24
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="С сайтов",МИР 24 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов" tvg-logo="https://lime-tv.ru/wp-content/uploads/2020/10/1522668479_htm.jpg",НТМ
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов" ,Наш Дом
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://85.234.33.63/stream/c11.m3u8
-
-
 #EXTINF:-1, Первый канал
 http://178.212.71.253:8000/play/1/index.m3u8
 #EXTINF:-1,Россия 1
