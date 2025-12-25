@@ -40,11 +40,11 @@ http://178.163.2.192:4022/udp/234.0.0.237:2000
 https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1,Соловьёв Live
 https://player.smotrim.ru/iframe/stream/live_id/63338?43e=5.m3u8
-#EXTINF:-1,РБК ТВ
+#EXTINF:-1,РБК 
 http://online.video.rbc.ru/online/rbctvhd_720p/index.m3u8
-#EXTINF:-1,ТВ7 Абакан
+#EXTINF:-1,ТВ7 
 https://ctv7.ru/live/index.m3u8
-#EXTINF:-1,ТВК Красноярск
+#EXTINF:-1,ТВК 
 http://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
 #EXTINF:-1,Енисей 
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
