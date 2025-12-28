@@ -3,13 +3,6 @@
 <playlist_name>IPTV-TV</playlist_name>
 
 <channel>
-	<title><![CDATA[<font color="#00ccff">"Адыгея"</font>]]></title>
-	<playlist_url><![CDATA[https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/adigeja.m3u]]></playlist_url>
-	<description><![CDATA[<center><font color="#a0a0a0" size="-1">iptv-Tolik</font><br><img src="http://monitor.zone-game.info/check.php?do=status&ip=46.175.123.164&port=4022&id=9"/><hr><h2>Tolik</font></center>]]></description>
-	<logo_30x30>https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/IPTV_NOW.png</logo_30x30>
-</channel>
-
-<channel>
 	<title><![CDATA[<font color="#00ccff">"Питерург"</font>]]></title>
 	<playlist_url><![CDATA[https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/uspet.m3u8]]></playlist_url>
 	<description><![CDATA[<center><font color="#a0a0a0" size="-1">iptv-Tolik</font><br><img src="http://monitor.zone-game.info/check.php?do=status&ip=5.188.221.43&port=8080&id=9"/><hr><h2>Tolik</font></center>]]></description>
