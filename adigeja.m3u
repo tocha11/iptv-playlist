@@ -1,487 +1,273 @@
-#EXTM3U url-tvg="http://epg.one/epg.xml; http://gabbarit.drm-play.com/epg_lite.xml.gz; http://epg.cdntv.online/lite.xml; http://epg.it999.ru/epg.xml.gz; http://iptv-content.rv77.pw/guide-lite.xml"
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +2.png" group-title="RUSSIA1",Россия 1 +2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +3" group-title="RUSSIA1",Россия 1 +3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +4.png" group-title="RUSSIA1",Россия 1 +4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +5.png" group-title="RUSSIA1",Россия 1 +5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +6.png" group-title="RUSSIA1",Россия 1 +6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +7.png" group-title="RUSSIA1",Россия 1 +7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +8.png" group-title="RUSSIA1",Россия 1 +8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +9.png" group-title="RUSSIA1",Россия 1 +9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d4zvrXp/image-1.png" group-title="Мосфильм",Сов.Ком
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/gosfilmofond-mv.png" group-title="Мосфильм",Госфильмофонд.Машина Времени HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://178.163.5.6:4022/udp/234.0.0.190:2000
-#EXTINF:-1 group-title="Мосфильм",Мосфильм.Золотая коллекция
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://178.163.5.6:4022/udp/234.0.0.95:2000
-#EXTINF:-1 group-title="Мосфильм",Ретро
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://178.163.5.6:4022/udp/234.0.0.194:2000
-#EXTINF:-1 group-title="Мосфильм",Любимое Кино HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://84.54.128.52:9090/play/a002/index.m3u8
-#EXTINF:-1 group-title="Таттелеком (VPN)",Первый канал
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://tat.rafail1982.uz:8080/1kanal/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Таттелеком (VPN)",НТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://tat.rafail1982.uz:8080/ntv/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Таттелеком (VPN)",ТНТ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://tat.rafail1982.uz:8080/tnt/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Таттелеком (VPN)",Рен ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://tat.rafail1982.uz:8080/rentv/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Таттелеком (VPN)",Россия 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://tat.rafail1982.uz:8080/rossiya1/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Таттелеком (VPN)",Россия К
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://tat.rafail1982.uz:8080/rossiyak/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Таттелеком (VPN)",Viasat History
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://tat.rafail1982.uz:8080/HISTORY/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Таттелеком (VPN)",Пятый канал
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://tat.rafail1982.uz:8080/5kanal/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Таттелеком (VPN)",2x2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://tat.rafail1982.uz:8080/2x2/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Таттелеком (VPN)",VIP Comedy HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://tat.rafail1982.uz:8080/ComedyHD/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Таттелеком (VPN)",Кинопоказ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://tat.rafail1982.uz:8080/kinopokaz/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Таттелеком (VPN)",Пятница
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://tat.rafail1982.uz:8080/pyatnitsa/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Таттелеком (VPN)",СТС
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://tat.rafail1982.uz:8080/sts/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Таттелеком (VPN)",TMTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://tat.rafail1982.uz:8080/tmtv/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Таттелеком (VPN)",ТНВ-Татарстан
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://tat.rafail1982.uz:8080/tnv/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Таттелеком (VPN)",ТВ3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://tat.rafail1982.uz:8080/tv3/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Таттелеком (VPN)",Карусель
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://tat.rafail1982.uz:8080/karusel/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Таттелеком (VPN)",Матч Премьер
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://tat.rafail1982.uz:8080/matchpremier/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="IP Petrosyan (VPN)",РЕН ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://petro.rafail1982.uz:8000/play/11/index.m3u8
-#EXTINF:-1 group-title="IP Petrosyan (VPN)",Россия К
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://petro.rafail1982.uz:8000/play/6/index.m3u8
-#EXTINF:-1 group-title="IP Petrosyan (VPN)",ТНТ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://petro.rafail1982.uz:8000/play/19/index.m3u8
-#EXTINF:-1 group-title="IP Petrosyan (VPN)",НТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://petro.rafail1982.uz:8000/play/4/index.m3u8
-#EXTINF:-1 group-title="IP Petrosyan (VPN)",Пятый канал
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://petro.rafail1982.uz:8000/play/5/index.m3u8
-#EXTINF:-1 group-title="IP Petrosyan (VPN)"tvg-id="art-tv" ,ART-ТВ   
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://petro.rafail1982.uz:8000/play/a011/index.m3u8
-#EXTINF:-1 group-title="IP Petrosyan (VPN)",Архыз 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://petro.rafail1982.uz:8000/play/a00w/index.m3u8
-#EXTINF:-1 group-title="IP Petrosyan (VPN)",Домашний
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://petro.rafail1982.uz:8000/play/14/index.m3u8
-#EXTINF:-1 group-title="IP Petrosyan (VPN)",Звезда
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://petro.rafail1982.uz:8000/play/17/index.m3u8
-#EXTINF:-1 group-title="IP Petrosyan (VPN)",Мир
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://petro.rafail1982.uz:8000/play/18/index.m3u8
-#EXTINF:-1 group-title="IP Petrosyan (VPN)",ММТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://petro.rafail1982.uz:8000/play/a014/index.m3u8
-#EXTINF:-1 group-title="IP Petrosyan (VPN)",ПРНК
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://petro.rafail1982.uz:8000/play/a013/index.m3u8
-#EXTINF:-1 group-title="IP Petrosyan (VPN)",Пятница
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://petro.rafail1982.uz:8000/play/16/index.m3u8
-#EXTINF:-1 group-title="IP Petrosyan (VPN)",Резонанс ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://petro.rafail1982.uz:8000/play/a015/index.m3u8
-#EXTINF:-1 group-title="IP Petrosyan (VPN)",СТС
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://petro.rafail1982.uz:8000/play/13/index.m3u8
-#EXTINF:-1 group-title="IP Petrosyan (VPN)",Своё ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://petro.rafail1982.uz:8000/play/21/index.m3u8
-#EXTINF:-1 group-title="IP Petrosyan (VPN)",Спас
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://petro.rafail1982.uz:8000/play/12/index.m3u8
-#EXTINF:-1 group-title="IP Petrosyan (VPN)",ТБВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://petro.rafail1982.uz:8000/play/a012/index.m3u8
-#EXTINF:-1 group-title="IP Petrosyan (VPN)",ТВ Центр
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://petro.rafail1982.uz:8000/play/10/index.m3u8
-#EXTINF:-1 group-title="IP Petrosyan (VPN)",ТВ3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://petro.rafail1982.uz:8000/play/15/index.m3u8
-#EXTINF:-1 group-title="IP Petrosyan (VPN)",КАРУСЕЛЬ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://petro.rafail1982.uz:8000/play/8/index.m3u8
-#EXTINF:-1 group-title="IP Petrosyan (VPN)",МузТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://petro.rafail1982.uz:8000/play/20/index.m3u8
-#EXTINF:-1 group-title="IP Petrosyan (VPN)",Матч! 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://petro.rafail1982.uz:8000/play/3/index.m3u8
-#EXTINF:-1 group-title="Диджитал Нетворк (VPN)",Россия 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://dijital.rafail1982.uz/hls/ortrum9/playlist.m3u8
-#EXTINF:-1 group-title="Диджитал Нетворк (VPN)",Рен ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://dijital.rafail1982.uz/hls/rentv/playlist.m3u8
-#EXTINF:-1 group-title="Диджитал Нетворк (VPN)",Россия К
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://dijital.rafail1982.uz/hls/kultura/playlist.m3u8
-#EXTINF:-1 group-title="Диджитал Нетворк (VPN)",Россия 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://dijital.rafail1982.uz/hls/RossijaM9/playlist.m3u8
-#EXTINF:-1 group-title="Диджитал Нетворк (VPN)",ТНТ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://dijital.rafail1982.uz/hls/tnt/playlist.m3u8
-#EXTINF:-1 group-title="Диджитал Нетворк (VPN)",НТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://dijital.rafail1982.uz/hls/NtvRuM9/playlist.m3u8
-#EXTINF:-1 group-title="Диджитал Нетворк (VPN)",Пятый канал
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://dijital.rafail1982.uz/hls/5kanal/playlist.m3u8
-#EXTINF:-1 group-title="Диджитал Нетворк (VPN)",Кино 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://dijital.rafail1982.uz/hls/Kino24Ru/playlist.m3u8
-#EXTINF:-1 group-title="Диджитал Нетворк (VPN)",ОТР
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://dijital.rafail1982.uz/hls/OTR/playlist.m3u8
-#EXTINF:-1 group-title="Диджитал Нетворк (VPN)",Пятница
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://dijital.rafail1982.uz/hls/pjatnica/playlist.m3u8
-#EXTINF:-1 group-title="Диджитал Нетворк (VPN)" tvg-id="pro100", Про100 ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://dijital.rafail1982.uz/hls/Pro100tvRu/playlist.m3u8
-#EXTINF:-1 group-title="Диджитал Нетворк (VPN)",ТВ3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://dijital.rafail1982.uz/hls/tv3/playlist.m3u8
-#EXTINF:-1 group-title="Диджитал Нетворк (VPN)",ТВЦ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://dijital.rafail1982.uz/hls/TvciRu/playlist.m3u8
-#EXTINF:-1 group-title="Диджитал Нетворк (VPN)",Звезда
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://dijital.rafail1982.uz/hls/zvezda/playlist.m3u8
-#EXTINF:-1 group-title="Диджитал Нетворк (VPN)",Мультимания
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://dijital.rafail1982.uz/hls/MultimaniaRu/playlist.m3u8
-#EXTINF:-1 group-title="Диджитал Нетворк (VPN)",Карусель
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://dijital.rafail1982.uz/hls/Karusel/playlist.m3u8
-#EXTINF:-1 group-title="Диджитал Нетворк (VPN)",Пингвин Лоло
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://dijital.rafail1982.uz/hls/pingvinru/playlist.m3u8
-#EXTINF:-1 group-title="Диджитал Нетворк (VPN)",МАТЧ ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://dijital.rafail1982.uz/hls/matchtvrum9/playlist.m3u8
-#EXTINF:-1 group-title="Диджитал Нетворк (VPN) "tvg-id="mamonttv", Мамонтёнок
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://dijital.rafail1982.uz/hls/MamonRu/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/История.png" group-title="Cloudflare_Inc",История
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://hls127.freeott.top:8080/Istoriya/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Дикий.png" group-title="Cloudflare_Inc",Дикий
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://hls127.freeott.top:8080/Dikiy/mono.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc",Наука 2.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://hls127.freeott.top:8080/NAUKA/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/RTG TV.png" group-title="Cloudflare_Inc",RTG TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://hls127.freeott.top:8080/RTG_TV/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Amedia 1.png" group-title="Cloudflare_Inc",Amedia 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://hls127.freeott.top:8080/Amedia_1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/BCU Kinorating HD.png" group-title="Cloudflare_Inc",BCU Kinorating HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://hls127.freeott.top:8080/BCUKinoratingHD/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/BCU Stars HD.png" group-title="Cloudflare_Inc",BCU Stars HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc",Clarity4K Gamefilm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://hls127.freeott.top:8080/Clarity4K_Gamefilm/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Gags Network.png" group-title="Cloudflare_Inc",Gags Network
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://hls127.freeott.top:8080/Gagsnetwork/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НСТ.png" group-title="Cloudflare_Inc",НСТ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://hls127.freeott.top:8080/HCTV/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинопоказ HD.png" group-title="Cloudflare_Inc",Кинопоказ HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://hls127.freeott.top:8080/Kinopokaz_HD/mono.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc",Ключ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://hls127.freeott.top:8080/Kluch/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кухня ТВ.png" group-title="Cloudflare_Inc",Кухня ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://hls127.freeott.top:8080/Kuhnya_TV/mono.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc",Maydan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://hls127.freeott.top:8080/Maydan/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мосфильм. Золотая коллекция.png" group-title="Cloudflare_Inc",Мосфильм. Золотая коллекция
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://hls127.freeott.top:8080/Mosfilm/mono.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc",MyTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://hls127.freeott.top:8080/MyTV/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Наше HD.png" group-title="Cloudflare_Inc",Наше HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://hls127.freeott.top:8080/Nashe_HD/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ностальгия.png" group-title="Cloudflare_Inc",Ностальгия
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://hls127.freeott.top:8080/Nostalgiya/mono.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc",Про любовь
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://hls127.freeott.top:8080/ProLubovHD/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/РБК.png" group-title="Cloudflare_Inc",РБК
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://hls127.freeott.top:8080/RBK/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Союз.png" group-title="Cloudflare_Inc",Союз
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://hls127.freeott.top:8080/Souz/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Совершенно секретно.png" group-title="Cloudflare_Inc",Совершенно секретно
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://hls127.freeott.top:8080/Sovershenno_Sekretno/mono.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc",Спас
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://hls127.freeott.top:8080/Spas/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Театр.png" group-title="Cloudflare_Inc",Театр
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://hls127.freeott.top:8080/Teatr/mono.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc",СТС Kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://hls127.freeott.top:8080/STS_Kids/mono.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc", Da Vinci
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://hls127.freeott.top:8080/Da_Vinci_Learning/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Бобёр.png" group-title="Cloudflare_Inc",Бобёр
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://hls127.freeott.top:8080/Bober/mono.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc",Bolt
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://hls127.freeott.top:8080/Bolt/mono.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc",BRIDGE TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://hls127.freeott.top:8080/BRIDGE_TV/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Футбол.png" group-title="Cloudflare_Inc",Футбол
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://hls127.freeott.top:8080/Football/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч ТВ.png" group-title="Cloudflare_Inc",Матч ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://hls127.freeott.top:8080/MATCH_TV/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 24.png" group-title="Internet42 LLC",Россия 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://176.118.197.101/Rossiya24/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНТ.png" group-title="Internet42 LLC",ТНТ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://176.118.197.101/THT/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ.png" group-title="Internet42 LLC",НТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://176.118.197.101/NTV/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНТ4.png" group-title="Internet42 LLC",ТНТ4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://176.118.197.101/TNT4/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Galaxy.png" group-title="Internet42 LLC",Galaxy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://net42.rafail1982.uz/Galaxy/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/История.png" group-title="Internet42 LLC",История
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://net42.rafail1982.uz/Istoria/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/RTG TV.png" group-title="Internet42 LLC",RTG TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://net42.rafail1982.uz/RTG-TV/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Viasat Explore.png" group-title="Internet42 LLC",Viasat Explore
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://net42.rafail1982.uz/viju-Explore/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Viasat History.png" group-title="Internet42 LLC",Viasat History
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://net42.rafail1982.uz/viju-History/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Viasat Nature.png" group-title="Internet42 LLC",Viasat Nature
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://net42.rafail1982.uz/viju-Nature/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/.Black.png" group-title="Internet42 LLC",.Black
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://net42.rafail1982.uz/Black/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/.SCI-FI.png" group-title="Internet42 LLC",.SCI-FI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://net42.rafail1982.uz/SCI-FI/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/TLC HD.png" group-title="Internet42 LLC",TLC HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://net42.rafail1982.uz/TLC-HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/TV1000.png" group-title="Internet42 LLC",TV1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://net42.rafail1982.uz/viju-TV1000/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Bollywood HD.png" group-title="Internet42 LLC",Bollywood HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://176.118.197.101/Bollywood_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Cinema.png" group-title="Internet42 LLC",Cinema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://176.118.197.101/Cinema/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Дом Кино.png" group-title="Internet42 LLC",Дом Кино
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://176.118.197.101/Dom_kino/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Еврокино.png" group-title="Internet42 LLC",Еврокино
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://176.118.197.101/Evrokino/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НСТ.png" group-title="Internet42 LLC",НСТ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://176.118.197.101/HCT/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Иллюзион+.png" group-title="Internet42 LLC",Иллюзион+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://176.118.197.101/Illuzion+/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинокомедия.png" group-title="Internet42 LLC",Кинокомедия
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://176.118.197.101/Kinokomediya/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Киномикс.png" group-title="Internet42 LLC",Киномикс
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://176.118.197.101/Kinomix/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Родное кино.png" group-title="Internet42 LLC",Родное кино
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://176.118.197.101/RodnoeKino/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинопоказ.png" group-title="Internet42 LLC",Кинопоказ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://176.118.197.101/Kinopokaz/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Киносерия.png" group-title="Internet42 LLC",Киносерия
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://176.118.197.101/Kinoseria/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Комедия.png" group-title="Internet42 LLC",Комедия
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://176.118.197.101/Komediya/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Любимое кино.png" group-title="Internet42 LLC",Любимое кино
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://176.118.197.101/LubimoeKino/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир сериала.png" group-title="Internet42 LLC",Мир сериала
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://176.118.197.101/MirSeriala/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Время.png" group-title="Internet42 LLC",Время
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://net42.rafail1982.uz/Vremya/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Спас.png" group-title="Internet42 LLC",Спас
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://net42.rafail1982.uz/Spas/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Союз.png" group-title="Internet42 LLC",Союз
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://net42.rafail1982.uz/Souz/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Драйв.png" group-title="Internet42 LLC",Драйв
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://net42.rafail1982.uz/Draiv/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/360 HD.png" group-title="Internet42 LLC",360 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://net42.rafail1982.uz/360_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/365 дней.png" group-title="Internet42 LLC",365 дней
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://net42.rafail1982.uz/365_dney_tv/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир.png" group-title="Internet42 LLC",Мир
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://net42.rafail1982.uz/Mir/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ОТР.png" group-title="Internet42 LLC",ОТР
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://net42.rafail1982.uz/OTR/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Сарафан.png" group-title="Internet42 LLC",Сарафан
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://net42.rafail1982.uz/Sarafan/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Здоровое ТВ.png" group-title="Internet42 LLC",Здоровое ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://net42.rafail1982.uz/Zdorovoe-TV/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Звезда.png" group-title="Internet42 LLC",Звезда
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://net42.rafail1982.uz/Zvezda/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/2x2.png" group-title="Internet42 LLC",2x2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://176.118.197.101/2x2/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТС.png" group-title="Internet42 LLC",СТС
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://176.118.197.101/CTC/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Че.png" group-title="Internet42 LLC",Че
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://176.118.197.101/Che/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ностальгия.png" group-title="Internet42 LLC",Ностальгия
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://176.118.197.101/Nostalgiya/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/РБК.png" group-title="Internet42 LLC",РБК
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://176.118.197.101/RBK/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ретро.png" group-title="Internet42 LLC",Ретро
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://176.118.197.101/Retro/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Театр.png" group-title="Internet42 LLC",Театр
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://176.118.197.101/Teatr/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Телекафе.png" group-title="Internet42 LLC",Телекафе
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://176.118.197.101/Telekafe/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/1HD.png" group-title="Internet42 LLC",1HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://176.118.197.101/1HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Cartoon Network.png" group-title="Internet42 LLC",Cartoon Network
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://176.118.197.101/Cartoon_Network/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Boomerang.png" group-title="Internet42 LLC",Boomerang
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://net42.rafail1982.uz/Boomerang/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Бобёр.png" group-title="Internet42 LLC",Бобёр
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://net42.rafail1982.uz/Bober/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ani.png" group-title="Internet42 LLC",Ani
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://net42.rafail1982.uz/Ani/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Gulli Girl.png" group-title="Internet42 LLC",Gulli Girl
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://net42.rafail1982.uz/Gulli-Girl/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/JimJam.png" group-title="Internet42 LLC",JimJam
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://net42.rafail1982.uz/JimJam/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Карусель.png" group-title="Internet42 LLC",Карусель
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://net42.rafail1982.uz/Karusel/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мама.png" group-title="Internet42 LLC",Мама
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://net42.rafail1982.uz/Mama/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч ТВ.png" group-title="Internet42 LLC",Матч ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://net42.rafail1982.uz/Match/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/KHL.png" group-title="Internet42 LLC",KHL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://176.118.197.101/KHL/index.m3u8
+#EXTM3U
+#EXTINF:-1,Первый канал
+http://46.175.123.164:4022/udp/239.195.64.1:1234
+#EXTINF:-1,Россия 1
+http://46.175.123.164:4022/udp/239.195.64.2:1234
+#EXTINF:-1,Россия К
+http://46.175.123.164:4022/udp/239.195.64.6:1234
+#EXTINF:-1,Россия 24
+http://46.175.123.164:4022/udp/239.195.64.7:1234
+#EXTINF:-1,Матч!
+http://46.175.123.164:4022/udp/239.195.64.3:1234
+#EXTINF:-1,НТВ
+http://46.175.123.164:4022/udp/239.195.64.4:1234
+#EXTINF:-1,Пятый канал
+http://46.175.123.164:4022/udp/239.195.64.5:1234
+#EXTINF:-1,Карусель
+http://46.175.123.164:4022/udp/239.195.64.8:1234
+#EXTINF:-1,ТВ Центр
+http://46.175.123.164:4022/udp/239.195.64.10:1234
+#EXTINF:-1,Рен ТВ
+http://46.175.123.164:4022/udp/239.195.64.11:1234
+#EXTINF:-1,РБК
+http://46.175.123.164:4022/udp/239.195.67.13:1234
+#EXTINF:-1,Спас
+http://46.175.123.164:4022/udp/239.195.64.12:1234
+#EXTINF:-1,СТС
+http://46.175.123.164:4022/udp/239.195.64.13:1234
+#EXTINF:-1,Домашний
+http://46.175.123.164:4022/udp/239.195.64.14:1234
+#EXTINF:-1,ТВ3
+http://46.175.123.164:4022/udp/239.195.64.15:1234
+#EXTINF:-1,Пятница!
+http://46.175.123.164:4022/udp/239.195.64.16:1234
+#EXTINF:-1,Звезда
+http://46.175.123.164:4022/udp/239.195.64.17:1234
+#EXTINF:-1,Мир
+http://46.175.123.164:4022/udp/239.195.64.18:1234
+#EXTINF:-1,ТНТ
+http://46.175.123.164:4022/udp/239.195.64.19:1234
+#EXTINF:-1,Муз-ТВ
+http://46.175.123.164:4022/udp/239.195.64.20:1234
+#EXTINF:-1,Discovery Science
+http://46.175.123.164:4022/udp/239.195.65.1:1234
+#EXTINF:-1,Discovery Channel
+http://46.175.123.164:4022/udp/239.195.65.2:1234
+#EXTINF:-1,DTX
+http://46.175.123.164:4022/udp/239.195.65.3:1234
+#EXTINF:-1,TV 1000
+http://46.175.123.164:4022/udp/239.195.67.20:1234
+#EXTINF:-1,TV 1000 Русское кино
+http://46.175.123.164:4022/udp/239.195.67.22:1234
+#EXTINF:-1,TV 1000 Action
+http://46.175.123.164:4022/udp/239.195.67.23:1234
+#EXTINF:-1,Da Vinchi Learning
+http://46.175.123.164:4022/udp/239.195.67.21:1234
+#EXTINF:-1,Viasat Explore
+http://46.175.123.164:4022/udp/239.195.67.24:1234
+#EXTINF:-1,Viasat History
+http://46.175.123.164:4022/udp/239.195.67.25:1234
+#EXTINF:-1,Viasat Nature
+http://46.175.123.164:4022/udp/239.195.67.27:1234
+#EXTINF:-1,Eurosport
+http://46.175.123.164:4022/udp/239.195.67.26:1234
+#EXTINF:-1,Amedia 2
+http://46.175.123.164:4022/udp/239.195.65.4:1234
+#EXTINF:-1,Luxury World
+http://46.175.123.164:4022/udp/239.195.65.5:1234
+#EXTINF:-1,Успех
+http://46.175.123.164:4022/udp/239.195.65.6:1234
+#EXTINF:-1,НАШЕ ТВ
+http://46.175.123.164:4022/udp/239.195.65.7:1234
+#EXTINF:-1,Детский
+http://46.175.123.164:4022/udp/239.195.65.8:1234
+#EXTINF:-1,КХЛ ТВ
+http://46.175.123.164:4022/udp/239.195.65.10:1234
+#EXTINF:-1,THT4
+http://46.175.123.164:4022/udp/239.195.65.12:1234
+#EXTINF:-1,Euronews
+http://46.175.123.164:4022/udp/239.195.65.13:1234
+#EXTINF:-1,Раз ТВ
+http://46.175.123.164:4022/udp/239.195.65.14:1234
+#EXTINF:-1,Союз
+http://46.175.123.164:4022/udp/239.195.65.15:1234
+#EXTINF:-1,Нано ТВ
+http://46.175.123.164:4022/udp/239.195.65.16:1234
+#EXTINF:-1,CTC love
+http://46.175.123.164:4022/udp/239.195.65.17:1234
+#EXTINF:-1,RTG Int
+http://46.175.123.164:4022/udp/239.195.64.32:1234
+#EXTINF:-1,Europa Plus
+http://46.175.123.164:4022/udp/239.195.65.19:1234
+#EXTINF:-1,THT Music
+http://46.175.123.164:4022/udp/239.195.65.57:1234
+#EXTINF:-1,LifeNews
+http://46.175.123.164:4022/udp/239.195.65.20:1234
+#EXTINF:-1,8 канал
+http://46.175.123.164:4022/udp/239.195.65.21:1234
+#EXTINF:-1,Русский Бестселлер
+http://46.175.123.164:4022/udp/239.195.65.22:1234
+#EXTINF:-1,Русский Роман
+http://46.175.123.164:4022/udp/239.195.65.23:1234
+#EXTINF:-1,Русский Детектив
+http://46.175.123.164:4022/udp/239.195.65.24:1234
+#EXTINF:-1,SET HD
+http://46.175.123.164:4022/udp/239.195.65.25:1234
+#EXTINF:-1,Хорошее Кино
+http://46.175.123.164:4022/udp/239.195.65.26:1234
+#EXTINF:-1,Мужской
+http://46.175.123.164:4022/udp/239.195.65.28:1234
+#EXTINF:-1,Загородная Жизнь
+http://46.175.123.164:4022/udp/239.195.65.29:1234
+#EXTINF:-1,Animal Planet HD
+http://46.175.123.164:4022/udp/239.195.65.30:1234
+#EXTINF:-1,24 Doc
+http://46.175.123.164:4022/udp/239.195.65.31:1234
+#EXTINF:-1,RTG HD
+http://46.175.123.164:4022/udp/239.195.65.32:1234
+#EXTINF:-1,Первый канал HD
+http://46.175.123.164:4022/udp/239.195.65.33:1234
+#EXTINF:-1,Россия HD
+http://46.175.123.164:4022/udp/239.195.65.34:1234
+#EXTINF:-1,TiJi
+http://46.175.123.164:4022/udp/239.195.65.35:1234
+#EXTINF:-1,Мультимания
+http://46.175.123.164:4022/udp/239.195.65.36:1234
+#EXTINF:-1,Детский Мир
+http://46.175.123.164:4022/udp/239.195.65.37:1234
+#EXTINF:-1,Nickelodeon
+http://46.175.123.164:4022/udp/239.195.65.38:1234
+#EXTINF:-1,Disney Channel Russia
+http://46.175.123.164:4022/udp/239.195.65.39:1234
+#EXTINF:-1,Мульт
+http://46.175.123.164:4022/udp/239.195.65.66:1234
+#EXTINF:-1,TV Mall
+http://46.175.123.164:4022/udp/239.195.65.40:1234
+#EXTINF:-1,Russian MusicBox
+http://46.175.123.164:4022/udp/239.195.64.34:1234
+#EXTINF:-1,MusicBOX
+http://46.175.123.164:4022/udp/239.195.64.35:1234
+#EXTINF:-1,Shop 24
+http://46.175.123.164:4022/udp/239.195.64.36:1234
+#EXTINF:-1,Муз Союз
+http://46.175.123.164:4022/udp/239.195.64.37:1234
+#EXTINF:-1,Юмор ТВ
+http://46.175.123.164:4022/udp/239.195.64.38:1234
+#EXTINF:-1,Шансон ТВ
+http://46.175.123.164:4022/udp/239.195.64.40:1234
+#EXTINF:-1,Наш Футбол
+http://46.175.123.164:4022/udp/239.195.65.65:1234
+#EXTINF:-1,RTG TV
+http://46.175.123.164:4022/udp/239.195.64.41:1234
+#EXTINF:-1,World Fashion Channel
+http://46.175.123.164:4022/udp/239.195.64.42:1234
+#EXTINF:-1,Angel TV
+http://46.175.123.164:4022/udp/239.195.64.43:1234
+#EXTINF:-1,Три Ангела
+http://46.175.123.164:4022/udp/239.195.64.44:1234
+#EXTINF:-1,ТБН
+http://46.175.123.164:4022/udp/239.195.64.46:1234
+#EXTINF:-1,ПИК ТВ
+http://46.175.123.164:4022/udp/239.195.66.2:1234
+#EXTINF:-1,RU.TV
+http://46.175.123.164:4022/udp/239.195.65.47:1234
+#EXTINF:-1,Крик ТВ
+http://46.175.123.164:4022/udp/239.195.66.8:1234
+#EXTINF:-1,Бокс ТВ
+http://46.175.123.164:4022/udp/239.195.66.4:1234
+#EXTINF:-1,ОТВ
+http://46.175.123.164:4022/udp/239.195.66.10:1234
+#EXTINF:-1,9 волна
+http://46.175.123.164:4022/udp/239.195.65.54:1234
+#EXTINF:-1,Калейдоскоп ТВ
+http://46.175.123.164:4022/udp/239.195.67.7:1234
+#EXTINF:-1,Мир 24
+http://46.175.123.164:4022/udp/239.195.66.15:1234
+#EXTINF:-1,Че
+http://46.175.123.164:4022/udp/239.195.66.18:1234
+#EXTINF:-1,Москва 24
+http://46.175.123.164:4022/udp/239.195.66.19:1234
+#EXTINF:-1,Ю
+http://46.175.123.164:4022/udp/239.195.67.3:1234
+#EXTINF:-1,RT Doc HD
+http://46.175.123.164:4022/udp/239.195.67.4:1234
+#EXTINF:-1,Мир HD
+http://46.175.123.164:4022/udp/239.195.67.5:1234
+#EXTINF:-1,ЛДПР ТВ
+http://46.175.123.164:4022/udp/239.195.67.6:1234
+#EXTINF:-1,WBC
+http://46.175.123.164:4022/udp/239.195.67.8:1234
+#EXTINF:-1,Красная Линия
+http://46.175.123.164:4022/udp/239.195.67.9:1234
+#EXTINF:-1,TV Sale
+http://46.175.123.164:4022/udp/239.195.67.11:1234
+#EXTINF:-1,Точка ТВ
+http://46.175.123.164:4022/udp/239.195.67.12:1234
+#EXTINF:-1,ТНВ Татарстан
+http://46.175.123.164:4022/udp/239.195.65.63:1234
+#EXTINF:-1,Gulli
+http://46.175.123.164:4022/udp/239.195.65.62:1234
+#EXTINF:-1,Business 24 TV
+http://46.175.123.164:4022/udp/239.195.64.47:1234
+#EXTINF:-1,TMB RU
+http://46.175.123.164:4022/udp/239.195.65.46:1234
+#EXTINF:-1,TPO
+http://46.175.123.164:4022/udp/239.195.67.14:1234
+#EXTINF:-1,Твой Дом
+http://46.175.123.164:4022/udp/239.195.65.48:1234
+#EXTINF:-1,2x2
+http://46.175.123.164:4022/udp/239.195.66.9:1234
+#EXTINF:-1,Game Show
+http://46.175.123.164:4022/udp/239.195.67.15:1234
+#EXTINF:-1,Fashion TV
+http://46.175.123.164:4022/udp/239.195.67.16:1234
+#EXTINF:-1,Подмосковье 360
+http://46.175.123.164:4022/udp/239.195.64.48:1234
+#EXTINF:-1,Вместе-РФ
+http://46.175.123.164:4022/udp/239.195.65.49:1234
+#EXTINF:-1,Открытый Мир
+http://46.175.123.164:4022/udp/239.195.65.50:1234
+#EXTINF:-1,Царьград
+http://46.175.123.164:4022/udp/239.195.65.56:1234
+#EXTINF:-1,7TV
+http://46.175.123.164:4022/udp/239.195.65.52:1234
+#EXTINF:-1,Моя Планета
+http://46.175.123.164:4022/udp/239.195.65.41:1234
+#EXTINF:-1,Че
+http://46.175.123.164:4022/udp/239.195.65.51:1234
+#EXTINF:-1,Супер +0
+http://46.175.123.164:4022/udp/239.195.66.1:1234
+#EXTINF:-1,Открытый HD
+http://46.175.123.164:4022/udp/239.195.66.3:1234
+#EXTINF:-1,Big Asia
+http://46.175.123.164:4022/udp/239.195.67.1:1234
+#EXTINF:-1,ВМЕСТЕ-РФ
+http://46.175.123.164:4022/udp/239.195.67.10:1234
+#EXTINF:-1,ВМЕСТЕ-РФ HD
+http://46.175.123.164:4022/udp/239.195.67.17:1234
+#EXTINF:-1,Точка ТВ
+http://46.175.123.164:4022/udp/239.195.67.18:1234
+#EXTINF:-1,ViP Premiere HD
+http://46.175.123.164:4022/udp/239.195.67.30:1234
+#EXTINF:-1,ViP Megahit HD
+http://46.175.123.164:4022/udp/239.195.67.31:1234
+#EXTINF:-1,ViP Comedy HD
+http://46.175.123.164:4022/udp/239.195.67.32:1234
+#EXTINF:-1,AMEDIA HIT HD
+http://46.175.123.164:4022/udp/239.195.67.33:1234
+#EXTINF:-1,МАТЧ! БОЕЦ
+http://46.175.123.164:4022/udp/239.195.67.34:1234
+#EXTINF:-1,МАТЧ! АРЕНА
+http://46.175.123.164:4022/udp/239.195.67.35:1234
+#EXTINF:-1,World Fashion Channel
+http://46.175.123.164:4022/udp/239.195.64.33:1234
+#EXTINF:-1,Spike
+http://46.175.123.164:4022/udp/239.195.65.11:1234
+#EXTINF:-1,7 Канал
+http://46.175.123.164:4022/udp/239.195.65.27:1234
+#EXTINF:-1,Раз ТВ
+http://46.175.123.164:4022/udp/239.195.65.55:1234
+#EXTINF:-1,Матч!
+http://46.175.123.164:4022/udp/239.195.65.58:1234
+#EXTINF:-1,Продвижение (Москва)
+http://46.175.123.164:4022/udp/239.195.65.64:1234
+#EXTINF:-1,Synergy-TV
+http://46.175.123.164:4022/udp/239.195.66.5:1234
+#EXTINF:-1,3 Angels
+http://46.175.123.164:4022/udp/239.195.66.7:1234
+#EXTINF:-1,Центральное ТВ
+http://46.175.123.164:4022/udp/239.195.66.6:1234
+#EXTINF:-1,360 Новости
+http://46.175.123.164:4022/udp/239.195.67.2:1234
+#EXTINF:-1,ОТР
+http://46.175.123.164:4022/udp/239.195.64.9:1234
