@@ -1,8 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="3315" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1/(315).png",Первый канал
 http://tv.lamro.workers.dev/?ID=3315
-#EXTINF:-1 tvg-id="3278" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/153/1.1",Первый HD
+#EXTINF:-1 tvg-id="3278" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/153/1.1",Первый канал
 http://tv.lamro.workers.dev/?ID=3278
+#EXTINF:-1 tvg-id="3151" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/154/1.1",Россия 1 
+http://tv.lamro.workers.dev/?ID=3151
+#EXTINF:-1 tvg-id="3234" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/64/1.1",РТР Планета
+http://tv.lamro.workers.dev/?ID=3234
+#EXTINF:-1 tvg-id="3194" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/7/1.1",Россия К
+http://tv.lamro.workers.dev/?ID=3194
+#EXTINF:-1 tvg-id="3190" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/8/1.1",Россия 24
+http://tv.lamro.workers.dev/?ID=3190
+#EXTINF:-1 tvg-id="3196" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/32/1.1",РБК 
+http://tv.lamro.workers.dev/?ID=3196
 #EXTINF:-1 tvg-id="3138" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/543/1.1",Грозный ТВ
 http://tv.lamro.workers.dev/?ID=3138
 #EXTINF:-1 tvg-id="3247" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/538/1.1",Магас ТВ
@@ -11,12 +21,6 @@ http://tv.lamro.workers.dev/?ID=3247
 http://tv.lamro.workers.dev/?ID=4947
 #EXTINF:-1 tvg-id="5241" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1082/1082.jpeg",ИЛЛИ
 http://tv.lamro.workers.dev/?ID=5241
-#EXTINF:-1 tvg-id="3151" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/154/1.1",Россия 1 
-http://tv.lamro.workers.dev/?ID=3151
-#EXTINF:-1 tvg-id="3234" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/64/1.1",РТР Планета
-http://tv.lamro.workers.dev/?ID=3234
-#EXTINF:-1 tvg-id="3194" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/7/1.1",Россия К
-http://tv.lamro.workers.dev/?ID=3194
 #EXTINF:-1 tvg-id="5223" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1069/1.1",ТНТ 
 http://tv.lamro.workers.dev/?ID=5223
 #EXTINF:-1 tvg-id="4997" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/702/1.1",СТС 
@@ -33,7 +37,7 @@ http://tv.lamro.workers.dev/?ID=3343
 http://tv.lamro.workers.dev/?ID=4934
 #EXTINF:-1 tvg-id="4933" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/608/1.1",НТВ Право
 http://tv.lamro.workers.dev/?ID=4933
-#EXTINF:-1 tvg-id="4930" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/589/1.1",НТВ Сериал HD
+#EXTINF:-1 tvg-id="4930" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/589/1.1",НТВ Сериал 
 http://tv.lamro.workers.dev/?ID=4930
 #EXTINF:-1 tvg-id="3221" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/17/1.1",Че
 http://tv.lamro.workers.dev/?ID=3221
@@ -45,7 +49,7 @@ http://tv.lamro.workers.dev/?ID=4861
 http://tv.lamro.workers.dev/?ID=3248
 #EXTINF:-1 tvg-id="5016" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/712/1.1",Перец
 http://tv.lamro.workers.dev/?ID=5016
-#EXTINF:-1 tvg-id="5230" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1041/1.1",Большая Азия HD
+#EXTINF:-1 tvg-id="5230" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1041/1.1",Большая Азия 
 http://tv.lamro.workers.dev/?ID=5230
 #EXTINF:-1 tvg-id="3291" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/215/2.2",СТС love
 http://tv.lamro.workers.dev/?ID=3291
@@ -63,25 +67,21 @@ http://tv.lamro.workers.dev/?ID=3202
 http://tv.lamro.workers.dev/?ID=4126
 #EXTINF:-1 tvg-id="5100" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/906/1.1",Арсенал
 http://tv.lamro.workers.dev/?ID=5100
-#EXTINF:-1 tvg-id="3299" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/55/1.1",Пятница HD
+#EXTINF:-1 tvg-id="3299" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/55/1.1",Пятница 
 http://tv.lamro.workers.dev/?ID=3299
 #EXTINF:-1 tvg-id="3189" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/231/1.1",Сарафан
 http://tv.lamro.workers.dev/?ID=3189
-#EXTINF:-1 tvg-id="5106" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/817/1.1",Домашний HD
+#EXTINF:-1 tvg-id="5106" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/817/1.1",Домашний 
 http://tv.lamro.workers.dev/?ID=5106
-#EXTINF:-1 tvg-id="4121" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/210/1.1",Русский Экстрим HD
+#EXTINF:-1 tvg-id="4121" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/210/1.1",Русский Экстрим 
 http://tv.lamro.workers.dev/?ID=4121
 #EXTINF:-1 tvg-id="4879" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/524/1.1",AlJazeera
 http://tv.lamro.workers.dev/?ID=4879
-#EXTINF:-1 tvg-id="4583" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/217/1.1",Russia Today HD
+#EXTINF:-1 tvg-id="4583" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/217/1.1",Russia Today 
 http://tv.lamro.workers.dev/?ID=4583
 #EXTINF:-1 tvg-id="4943" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/614/1.1",Кавказ 24
 http://tv.lamro.workers.dev/?ID=4943
-#EXTINF:-1 tvg-id="3190" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/8/1.1",Россия 24
-http://tv.lamro.workers.dev/?ID=3190
-#EXTINF:-1 tvg-id="3196" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/32/1.1",РБК 
-http://tv.lamro.workers.dev/?ID=3196
-#EXTINF:-1 tvg-id="4978" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/677/1.1",Известия HD
+#EXTINF:-1 tvg-id="4978" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/677/1.1",Известия 
 http://tv.lamro.workers.dev/?ID=4978
 #EXTINF:-1 tvg-id="4852" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/498/1.1",Москва 24
 http://tv.lamro.workers.dev/?ID=4852
@@ -93,9 +93,9 @@ http://tv.lamro.workers.dev/?ID=3211
 http://tv.lamro.workers.dev/?ID=3721
 #EXTINF:-1 tvg-id="3205" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/89/1.1",Авто Плюс
 http://tv.lamro.workers.dev/?ID=3205
-#EXTINF:-1 tvg-id="5091" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/914/1.1",Мужской HD
+#EXTINF:-1 tvg-id="5091" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/914/1.1",Мужской 
 http://tv.lamro.workers.dev/?ID=5091
-#EXTINF:-1 tvg-id="5065" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/787/1.1",Fashion TV HD
+#EXTINF:-1 tvg-id="5065" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/787/1.1",Fashion TV 
 http://tv.lamro.workers.dev/?ID=5065
 #EXTINF:-1 tvg-id="3798" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/170/1.1",МИР 24
 http://tv.lamro.workers.dev/?ID=3798
@@ -121,77 +121,77 @@ http://tv.lamro.workers.dev/?ID=4648
 http://tv.lamro.workers.dev/?ID=4995
 #EXTINF:-1 tvg-id="3193" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/88/1.1",Матч! Боец
 http://tv.lamro.workers.dev/?ID=3193
-#EXTINF:-1 tvg-id="5002" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/88/1.1",Матч! Боец HD
+#EXTINF:-1 tvg-id="5002" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/88/1.1",Матч! Боец 
 http://tv.lamro.workers.dev/?ID=5002
 #EXTINF:-1 tvg-id="4935" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1071/1071.jpeg",UFC 24/7
 http://tv.lamro.workers.dev/?ID=4935
 #EXTINF:-1 tvg-id="5071" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/831/1.1",MMA-TV
 http://tv.lamro.workers.dev/?ID=5071
-#EXTINF:-1 tvg-id="4996" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/706/1.1",UDAR HD
+#EXTINF:-1 tvg-id="4996" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/706/1.1",UDAR 
 http://tv.lamro.workers.dev/?ID=4996
 #EXTINF:-1 tvg-id="3337" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/349/1.1",Бокс ТВ
 http://tv.lamro.workers.dev/?ID=3337
-#EXTINF:-1 tvg-id="4955" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/10/1.1",Матч! ТВ HD
+#EXTINF:-1 tvg-id="4955" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/10/1.1",Матч! ТВ 
 http://tv.lamro.workers.dev/?ID=4955
-#EXTINF:-1 tvg-id="3739" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/141/1.1",Матч! Арена HD
+#EXTINF:-1 tvg-id="3739" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/141/1.1",Матч! Арена 
 http://tv.lamro.workers.dev/?ID=3739
-#EXTINF:-1 tvg-id="4878" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1072/1072.jpeg",viju+ Sport HD
+#EXTINF:-1 tvg-id="4878" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1072/1072.jpeg",viju+ Sport 
 http://tv.lamro.workers.dev/?ID=4878
-#EXTINF:-1 tvg-id="4657" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/144/1.1",Матч! Игра HD
+#EXTINF:-1 tvg-id="4657" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/144/1.1",Матч! Игра 
 http://tv.lamro.workers.dev/?ID=4657
-#EXTINF:-1 tvg-id="3737" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/275/1.1",Матч! Премьер HD
+#EXTINF:-1 tvg-id="3737" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/275/1.1",Матч! Премьер 
 http://tv.lamro.workers.dev/?ID=3737
 #EXTINF:-1 tvg-id="3236" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/122/1.1",Матч! Страна
 http://tv.lamro.workers.dev/?ID=3236
 #EXTINF:-1 tvg-id="3717" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/707/1.1",Матч! Планета
 http://tv.lamro.workers.dev/?ID=3717
-#EXTINF:-1 tvg-id="4992" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/901/1.1",TV2 Sport Premium HD
+#EXTINF:-1 tvg-id="4992" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/901/1.1",TV2 Sport Premium 
 http://tv.lamro.workers.dev/?ID=4992
-#EXTINF:-1 tvg-id="4993" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/902/1.1",TV2 Sport Premium 2 HD
+#EXTINF:-1 tvg-id="4993" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/902/1.1",TV2 Sport Premium 2 
 http://tv.lamro.workers.dev/?ID=4993
-#EXTINF:-1 tvg-id="5084" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/807/1.1",Trace Sport Stars HD
+#EXTINF:-1 tvg-id="5084" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/807/1.1",Trace Sport Stars 
 http://tv.lamro.workers.dev/?ID=5084
 #EXTINF:-1 tvg-id="3257" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/393/1.1",КХЛ
 http://tv.lamro.workers.dev/?ID=3257
-#EXTINF:-1 tvg-id="4871" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/126/1.1",КХЛ ТВ HD
+#EXTINF:-1 tvg-id="4871" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/126/1.1",КХЛ ТВ 
 http://tv.lamro.workers.dev/?ID=4871
-#EXTINF:-1 tvg-id="4926" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/586/1.1",Setanta Sport HD
+#EXTINF:-1 tvg-id="4926" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/586/1.1",Setanta Sport 
 http://tv.lamro.workers.dev/?ID=4926
-#EXTINF:-1 tvg-id="4931" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/605/1.1",Setanta sport 1 HD
+#EXTINF:-1 tvg-id="4931" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/605/1.1",Setanta sport 1 
 http://tv.lamro.workers.dev/?ID=4931
-#EXTINF:-1 tvg-id="4932" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/968/1.1",Setanta sport 2 HD
+#EXTINF:-1 tvg-id="4932" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/968/1.1",Setanta sport 2 
 http://tv.lamro.workers.dev/?ID=4932
-#EXTINF:-1 tvg-id="5227" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1034/1.1",Setanta Sports 1 HD PREMIUM+
+#EXTINF:-1 tvg-id="5227" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1034/1.1",Setanta Sports 1  PREMIUM+
 http://tv.lamro.workers.dev/?ID=5227
-#EXTINF:-1 tvg-id="5228" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1035/1.1",Setanta Sports 2 HD PREMIUM+
+#EXTINF:-1 tvg-id="5228" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1035/1.1",Setanta Sports 2  PREMIUM+
 http://tv.lamro.workers.dev/?ID=5228
-#EXTINF:-1 tvg-id="5192" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1037/1.1",Setanta Qazaqstan HD
+#EXTINF:-1 tvg-id="5192" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1037/1.1",Setanta Qazaqstan 
 http://tv.lamro.workers.dev/?ID=5192
-#EXTINF:-1 tvg-id="5225" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1030/1.1",Setanta Lietuva HD
+#EXTINF:-1 tvg-id="5225" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1030/1.1",Setanta Lietuva 
 http://tv.lamro.workers.dev/?ID=5225
-#EXTINF:-1 tvg-id="5226" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1033/1.1",Setanta Sports HD PREMIUM+
+#EXTINF:-1 tvg-id="5226" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1033/1.1",Setanta Sports  PREMIUM+
 http://tv.lamro.workers.dev/?ID=5226
-#EXTINF:-1 tvg-id="5238" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1062/1.1",Окко Спорт HD
+#EXTINF:-1 tvg-id="5238" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1062/1.1",Окко Спорт 
 http://tv.lamro.workers.dev/?ID=5238
-#EXTINF:-1 tvg-id="5025" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1005/1.1",TNT Sport 1 HD
+#EXTINF:-1 tvg-id="5025" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1005/1.1",TNT Sport 1 
 http://tv.lamro.workers.dev/?ID=5025
-#EXTINF:-1 tvg-id="5026" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1006/1.1",TNT Sport 2 HD
+#EXTINF:-1 tvg-id="5026" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1006/1.1",TNT Sport 2 
 http://tv.lamro.workers.dev/?ID=5026
-#EXTINF:-1 tvg-id="5027" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1007/1.1",TNT Sport 3 HD
+#EXTINF:-1 tvg-id="5027" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1007/1.1",TNT Sport 3 
 http://tv.lamro.workers.dev/?ID=5027
-#EXTINF:-1 tvg-id="5028" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1009/1.1",TNT Sport 4 HD
+#EXTINF:-1 tvg-id="5028" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1009/1.1",TNT Sport 4 
 http://tv.lamro.workers.dev/?ID=5028
-#EXTINF:-1 tvg-id="4741" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/146/1.1",Матч! Футбол 1 HD
+#EXTINF:-1 tvg-id="4741" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/146/1.1",Матч! Футбол 1 
 http://tv.lamro.workers.dev/?ID=4741
-#EXTINF:-1 tvg-id="3728" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/372/1.1",Матч! футбол 2 HD
+#EXTINF:-1 tvg-id="3728" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/372/1.1",Матч! футбол 2 
 http://tv.lamro.workers.dev/?ID=3728
-#EXTINF:-1 tvg-id="4742" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/373/1.1",Матч! Футбол 3 HD
+#EXTINF:-1 tvg-id="4742" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/373/1.1",Матч! Футбол 3 
 http://tv.lamro.workers.dev/?ID=4742
-#EXTINF:-1 tvg-id="4114" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/51/1.1",Eurosport HD
+#EXTINF:-1 tvg-id="4114" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/51/1.1",Eurosport 
 http://tv.lamro.workers.dev/?ID=4114
-#EXTINF:-1 tvg-id="3261" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/72/1.1",Eurosport 2 HD
+#EXTINF:-1 tvg-id="3261" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/72/1.1",Eurosport 2 
 http://tv.lamro.workers.dev/?ID=3261
-#EXTINF:-1 tvg-id="5063" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/913/2.2",Extreme Sports HD
+#EXTINF:-1 tvg-id="5063" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/913/2.2",Extreme Sports 
 http://tv.lamro.workers.dev/?ID=5063
 #EXTINF:-1 tvg-id="4987" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/12/1.1",ОТР
 http://tv.lamro.workers.dev/?ID=4987
@@ -199,9 +199,9 @@ http://tv.lamro.workers.dev/?ID=4987
 http://tv.lamro.workers.dev/?ID=4952
 #EXTINF:-1 tvg-id="3275" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/98/1.1",Кухня
 http://tv.lamro.workers.dev/?ID=3275
-#EXTINF:-1 tvg-id="4944" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/150/1.1",Еда HD
+#EXTINF:-1 tvg-id="4944" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/150/1.1",Еда 
 http://tv.lamro.workers.dev/?ID=4944
-#EXTINF:-1 tvg-id="3724" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/420/1.1",Food Network HD
+#EXTINF:-1 tvg-id="3724" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/420/1.1",Food Network 
 http://tv.lamro.workers.dev/?ID=3724
 #EXTINF:-1 tvg-id="3272" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/105/1.1",ТелеКафе
 http://tv.lamro.workers.dev/?ID=3272
@@ -219,9 +219,9 @@ http://tv.lamro.workers.dev/?ID=4910
 http://tv.lamro.workers.dev/?ID=4986
 #EXTINF:-1 tvg-id="3157" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/250/1.1",Da Vinci
 http://tv.lamro.workers.dev/?ID=3157
-#EXTINF:-1 tvg-id="5104" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1058/1.1",Доктор HD
+#EXTINF:-1 tvg-id="5104" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1058/1.1",Доктор 
 http://tv.lamro.workers.dev/?ID=5104
-#EXTINF:-1 tvg-id="5112" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/840/1.1",Ключ HD
+#EXTINF:-1 tvg-id="5112" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/840/1.1",Ключ 
 http://tv.lamro.workers.dev/?ID=5112
 #EXTINF:-1 tvg-id="5117" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/846/1.1",Радость моя
 http://tv.lamro.workers.dev/?ID=5117
@@ -233,11 +233,11 @@ http://tv.lamro.workers.dev/?ID=5097
 http://tv.lamro.workers.dev/?ID=5098
 #EXTINF:-1 tvg-id="5083" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/806/1.1",TERRA
 http://tv.lamro.workers.dev/?ID=5083
-#EXTINF:-1 tvg-id="5070" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/792/1.1",Luxury HD
+#EXTINF:-1 tvg-id="5070" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/792/1.1",Luxury 
 http://tv.lamro.workers.dev/?ID=5070
-#EXTINF:-1 tvg-id="5107" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/893/1.1",Дорама HD
+#EXTINF:-1 tvg-id="5107" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/893/1.1",Дорама 
 http://tv.lamro.workers.dev/?ID=5107
-#EXTINF:-1 tvg-id="5108" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1063/1.1",Жара! HD
+#EXTINF:-1 tvg-id="5108" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1063/1.1",Жара! 
 http://tv.lamro.workers.dev/?ID=5108
 #EXTINF:-1 tvg-id="3271" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/212/1.1",Живи!
 http://tv.lamro.workers.dev/?ID=3271
@@ -247,41 +247,41 @@ http://tv.lamro.workers.dev/?ID=3340
 http://tv.lamro.workers.dev/?ID=3288
 #EXTINF:-1 tvg-id="3279" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/442/1.1",Бобёр
 http://tv.lamro.workers.dev/?ID=3279
-#EXTINF:-1 tvg-id="5115" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/896/2.2",Наука HD
+#EXTINF:-1 tvg-id="5115" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/896/2.2",Наука 
 http://tv.lamro.workers.dev/?ID=5115
 #EXTINF:-1 tvg-id="3333" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/383/1.1",24 ДОК
 http://tv.lamro.workers.dev/?ID=3333
 #EXTINF:-1 tvg-id="3345" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/282/1.1",Загородная жизнь
 http://tv.lamro.workers.dev/?ID=3345
-#EXTINF:-1 tvg-id="5056" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/781/1.1",CGTN Русский HD
+#EXTINF:-1 tvg-id="5056" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/781/1.1",CGTN Русский 
 http://tv.lamro.workers.dev/?ID=5056
 #EXTINF:-1 tvg-id="3716" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/155/1.1",История
 http://tv.lamro.workers.dev/?ID=3716
-#EXTINF:-1 tvg-id="4985" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/686/1.1",HGTV HD
+#EXTINF:-1 tvg-id="4985" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/686/1.1",HGTV 
 http://tv.lamro.workers.dev/?ID=4985
-#EXTINF:-1 tvg-id="3735" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/392/1.1",History HD
+#EXTINF:-1 tvg-id="3735" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/392/1.1",History 
 http://tv.lamro.workers.dev/?ID=3735
-#EXTINF:-1 tvg-id="4982" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/683/1.1",History 2 HD
+#EXTINF:-1 tvg-id="4982" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/683/1.1",History 2 
 http://tv.lamro.workers.dev/?ID=4982
 #EXTINF:-1 tvg-id="3319" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/25/1.1",Discovery
 http://tv.lamro.workers.dev/?ID=3319
-#EXTINF:-1 tvg-id="3200" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/124/1.1",Discovery HD
+#EXTINF:-1 tvg-id="3200" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/124/1.1",Discovery 
 http://tv.lamro.workers.dev/?ID=3200
-#EXTINF:-1 tvg-id="4893" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/555/1.1",Глазами туриста HD
+#EXTINF:-1 tvg-id="4893" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/555/1.1",Глазами туриста 
 http://tv.lamro.workers.dev/?ID=4893
-#EXTINF:-1 tvg-id="4885" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/547/1.1",HDL HD
+#EXTINF:-1 tvg-id="4885" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/547/1.1",L 
 http://tv.lamro.workers.dev/?ID=4885
 #EXTINF:-1 tvg-id="3336" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/20/1.1",National Geographic
 http://tv.lamro.workers.dev/?ID=3336
-#EXTINF:-1 tvg-id="3232" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/258/1.1",National Geographic HD
+#EXTINF:-1 tvg-id="3232" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/258/1.1",National Geographic 
 http://tv.lamro.workers.dev/?ID=3232
-#EXTINF:-1 tvg-id="5102" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/813/1.1",Дикая охота HD
+#EXTINF:-1 tvg-id="5102" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/813/1.1",Дикая охота 
 http://tv.lamro.workers.dev/?ID=5102
-#EXTINF:-1 tvg-id="5103" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/814/1.1",Дикая рыбалка HD
+#EXTINF:-1 tvg-id="5103" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/814/1.1",Дикая рыбалка 
 http://tv.lamro.workers.dev/?ID=5103
-#EXTINF:-1 tvg-id="5109" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1064/1.1",Живая природа HD
+#EXTINF:-1 tvg-id="5109" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1064/1.1",Живая природа 
 http://tv.lamro.workers.dev/?ID=5109
-#EXTINF:-1 tvg-id="5110" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/822/1.1",Живи Активно HD
+#EXTINF:-1 tvg-id="5110" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/822/1.1",Живи Активно 
 http://tv.lamro.workers.dev/?ID=5110
 #EXTINF:-1 tvg-id="5111" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/824/1.1",Зоо ТВ
 http://tv.lamro.workers.dev/?ID=5111
@@ -289,35 +289,35 @@ http://tv.lamro.workers.dev/?ID=5111
 http://tv.lamro.workers.dev/?ID=5105
 #EXTINF:-1 tvg-id="4891" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/553/1.1",Galaxy
 http://tv.lamro.workers.dev/?ID=4891
-#EXTINF:-1 tvg-id="4984" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/685/1.1",Океан HD
+#EXTINF:-1 tvg-id="4984" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/685/1.1",Океан 
 http://tv.lamro.workers.dev/?ID=4984
 #EXTINF:-1 tvg-id="4123" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/473/1.1",Живая планета
 http://tv.lamro.workers.dev/?ID=4123
-#EXTINF:-1 tvg-id="3733" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/699/1.1",Nat Geo Wild HD
+#EXTINF:-1 tvg-id="3733" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/699/1.1",Nat Geo Wild 
 http://tv.lamro.workers.dev/?ID=3733
-#EXTINF:-1 tvg-id="4591" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/489/1.1",DocuBox HD
+#EXTINF:-1 tvg-id="4591" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/489/1.1",DocuBox 
 http://tv.lamro.workers.dev/?ID=4591
-#EXTINF:-1 tvg-id="5001" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/708/1.1",Первый Космический HD
+#EXTINF:-1 tvg-id="5001" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/708/1.1",Первый Космический 
 http://tv.lamro.workers.dev/?ID=5001
-#EXTINF:-1 tvg-id="5120" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/850/1.1",Тайны Галактики HD
+#EXTINF:-1 tvg-id="5120" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/850/1.1",Тайны Галактики 
 http://tv.lamro.workers.dev/?ID=5120
-#EXTINF:-1 tvg-id="3220" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/490/1.1",Приключения HD
+#EXTINF:-1 tvg-id="3220" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/490/1.1",Приключения 
 http://tv.lamro.workers.dev/?ID=3220
 #EXTINF:-1 tvg-id="4960" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/673/1.1",Телепутешествия
 http://tv.lamro.workers.dev/?ID=4960
 #EXTINF:-1 tvg-id="3249" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/388/1.1",Travel Channel
 http://tv.lamro.workers.dev/?ID=3249
-#EXTINF:-1 tvg-id="4110" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/388/1.1",Travel Channel HD
+#EXTINF:-1 tvg-id="4110" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/388/1.1",Travel Channel 
 http://tv.lamro.workers.dev/?ID=4110
 #EXTINF:-1 tvg-id="3217" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/117/1.1",Animal Planet
 http://tv.lamro.workers.dev/?ID=3217
-#EXTINF:-1 tvg-id="3738" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/701/1.1",Animal Planet HD
+#EXTINF:-1 tvg-id="3738" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/701/1.1",Animal Planet 
 http://tv.lamro.workers.dev/?ID=3738
-#EXTINF:-1 tvg-id="4862" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/900/1.1",Travel+Adventure HD
+#EXTINF:-1 tvg-id="4862" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/900/1.1",Travel+Adventure 
 http://tv.lamro.workers.dev/?ID=4862
-#EXTINF:-1 tvg-id="4590" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/297/1.1",В мире животных HD
+#EXTINF:-1 tvg-id="4590" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/297/1.1",В мире животных 
 http://tv.lamro.workers.dev/?ID=4590
-#EXTINF:-1 tvg-id="3245" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/133/1.1",TLC HD
+#EXTINF:-1 tvg-id="3245" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/133/1.1",TLC 
 http://tv.lamro.workers.dev/?ID=3245
 #EXTINF:-1 tvg-id="3283" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/128/1.1",ID Xtra
 http://tv.lamro.workers.dev/?ID=3283
@@ -333,25 +333,25 @@ http://tv.lamro.workers.dev/?ID=3213
 http://tv.lamro.workers.dev/?ID=3147
 #EXTINF:-1 tvg-id="5229" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1039/1.1",Дикий
 http://tv.lamro.workers.dev/?ID=5229
-#EXTINF:-1 tvg-id="5101" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1057/1.1",Диалоги о рыбалке HD
+#EXTINF:-1 tvg-id="5101" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1057/1.1",Диалоги о рыбалке 
 http://tv.lamro.workers.dev/?ID=5101
 #EXTINF:-1 tvg-id="3325" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/209/1.1",RTG TV
 http://tv.lamro.workers.dev/?ID=3325
-#EXTINF:-1 tvg-id="3729" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/328/2.2",RTG HD
+#EXTINF:-1 tvg-id="3729" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/328/2.2",RTG 
 http://tv.lamro.workers.dev/?ID=3729
-#EXTINF:-1 tvg-id="5114" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/899/1.1",Моя Планета HD
+#EXTINF:-1 tvg-id="5114" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/899/1.1",Моя Планета 
 http://tv.lamro.workers.dev/?ID=5114
-#EXTINF:-1 tvg-id="5116" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/845/1.1",Первый вегетарианский HD
+#EXTINF:-1 tvg-id="5116" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/845/1.1",Первый вегетарианский 
 http://tv.lamro.workers.dev/?ID=5116
 #EXTINF:-1 tvg-id="3148" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/123/1.1",TiJi
 http://tv.lamro.workers.dev/?ID=3148
-#EXTINF:-1 tvg-id="5166" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/945/1.1",BCU Мультсериал HD
+#EXTINF:-1 tvg-id="5166" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/945/1.1",BCU Мультсериал 
 http://tv.lamro.workers.dev/?ID=5166
-#EXTINF:-1 tvg-id="5186" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/964/1.1",BCU Little HD
+#EXTINF:-1 tvg-id="5186" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/964/1.1",BCU Little 
 http://tv.lamro.workers.dev/?ID=5186
-#EXTINF:-1 tvg-id="5187" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/965/1.1",BCU Kids HD
+#EXTINF:-1 tvg-id="5187" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/965/1.1",BCU Kids 
 http://tv.lamro.workers.dev/?ID=5187
-#EXTINF:-1 tvg-id="5188" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/966/1.1",BCU Kids+ HD
+#EXTINF:-1 tvg-id="5188" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/966/1.1",BCU Kids+ 
 http://tv.lamro.workers.dev/?ID=5188
 #EXTINF:-1 tvg-id="5189" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/967/1.1",BCU Kids 4K
 http://tv.lamro.workers.dev/?ID=5189
@@ -363,15 +363,15 @@ http://tv.lamro.workers.dev/?ID=3312
 http://tv.lamro.workers.dev/?ID=5221
 #EXTINF:-1 tvg-id="4990" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1027/1027.jpeg",Учим Коран NUR
 http://tv.lamro.workers.dev/?ID=4990
-#EXTINF:-1 tvg-id="4125" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/602/602.jpeg",Коран для детей HD
+#EXTINF:-1 tvg-id="4125" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/602/602.jpeg",Коран для детей 
 http://tv.lamro.workers.dev/?ID=4125
 #EXTINF:-1 tvg-id="5121" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/851/1.1",ТипТоп
 http://tv.lamro.workers.dev/?ID=5121
 #EXTINF:-1 tvg-id="4889" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/551/1.1",Baby TV
 http://tv.lamro.workers.dev/?ID=4889
-#EXTINF:-1 tvg-id="3269" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/216/1.1",Мульт HD
+#EXTINF:-1 tvg-id="3269" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/216/1.1",Мульт 
 http://tv.lamro.workers.dev/?ID=3269
-#EXTINF:-1 tvg-id="5060" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/894/1.1",ducktv HD
+#EXTINF:-1 tvg-id="5060" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/894/1.1",ducktv 
 http://tv.lamro.workers.dev/?ID=5060
 #EXTINF:-1 tvg-id="4894" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/556/1.1",Малыш ТВ
 http://tv.lamro.workers.dev/?ID=4894
@@ -383,7 +383,7 @@ http://tv.lamro.workers.dev/?ID=3339
 http://tv.lamro.workers.dev/?ID=3270
 #EXTINF:-1 tvg-id="4882" tvg-logo="http://smarty.lamro.tv/tvmiddleware/media/img/logo/default/skazki.png",В гостях у сказки
 http://tv.lamro.workers.dev/?ID=4882
-#EXTINF:-1 tvg-id="4745" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/469/1.1",Капитан Фантастика HD
+#EXTINF:-1 tvg-id="4745" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/469/1.1",Капитан Фантастика 
 http://tv.lamro.workers.dev/?ID=4745
 #EXTINF:-1 tvg-id="4876" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/468/1.1",О!
 http://tv.lamro.workers.dev/?ID=4876
@@ -395,15 +395,15 @@ http://tv.lamro.workers.dev/?ID=3265
 http://tv.lamro.workers.dev/?ID=3267
 #EXTINF:-1 tvg-id="3266" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/293/1.1",Gulli Girl
 http://tv.lamro.workers.dev/?ID=3266
-#EXTINF:-1 tvg-id="5095" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/839/1.1",Лева HD
+#EXTINF:-1 tvg-id="5095" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/839/1.1",Лева 
 http://tv.lamro.workers.dev/?ID=5095
 #EXTINF:-1 tvg-id="3210" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/5/1.1",Карусель
 http://tv.lamro.workers.dev/?ID=3210
 #EXTINF:-1 tvg-id="3215" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/54/1.1",Nickelodeon
 http://tv.lamro.workers.dev/?ID=3215
-#EXTINF:-1 tvg-id="3742" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/395/1.1",Nickelodeon HD
+#EXTINF:-1 tvg-id="3742" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/395/1.1",Nickelodeon 
 http://tv.lamro.workers.dev/?ID=3742
-#EXTINF:-1 tvg-id="5118" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/848/1.1",Смайлик ТВ HD
+#EXTINF:-1 tvg-id="5118" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/848/1.1",Смайлик ТВ 
 http://tv.lamro.workers.dev/?ID=5118
 #EXTINF:-1 tvg-id="3199" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/93/1.1",2x2
 http://tv.lamro.workers.dev/?ID=3199
@@ -415,11 +415,11 @@ http://tv.lamro.workers.dev/?ID=3268
 http://tv.lamro.workers.dev/?ID=4650
 #EXTINF:-1 tvg-id="3324" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/604/604.jpeg",ИсламФильм
 http://tv.lamro.workers.dev/?ID=3324
-#EXTINF:-1 tvg-id="4937" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/610/1.1",Любимое HD
+#EXTINF:-1 tvg-id="4937" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/610/1.1",Любимое 
 http://tv.lamro.workers.dev/?ID=4937
 #EXTINF:-1 tvg-id="4853" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/505/1.1",Индия
 http://tv.lamro.workers.dev/?ID=4853
-#EXTINF:-1 tvg-id="4730" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/487/1.1",Bollywood HD
+#EXTINF:-1 tvg-id="4730" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/487/1.1",Bollywood 
 http://tv.lamro.workers.dev/?ID=4730
 #EXTINF:-1 tvg-id="3209" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/83/2.2",Индийское кино
 http://tv.lamro.workers.dev/?ID=3209
@@ -427,27 +427,27 @@ http://tv.lamro.workers.dev/?ID=3209
 http://tv.lamro.workers.dev/?ID=3301
 #EXTINF:-1 tvg-id="4883" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/530/1.1",Киносерия
 http://tv.lamro.workers.dev/?ID=4883
-#EXTINF:-1 tvg-id="5089" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/829/2.2",Кинохит HD
+#EXTINF:-1 tvg-id="5089" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/829/2.2",Кинохит 
 http://tv.lamro.workers.dev/?ID=5089
 #EXTINF:-1 tvg-id="3208" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/394/2.2",Родное кино
 http://tv.lamro.workers.dev/?ID=3208
-#EXTINF:-1 tvg-id="4966" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/659/2.2",Киноужас HD
+#EXTINF:-1 tvg-id="4966" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/659/2.2",Киноужас 
 http://tv.lamro.workers.dev/?ID=4966
-#EXTINF:-1 tvg-id="5088" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/49/1.1",Киносемья HD
+#EXTINF:-1 tvg-id="5088" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/49/1.1",Киносемья 
 http://tv.lamro.workers.dev/?ID=5088
-#EXTINF:-1 tvg-id="5090" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/84/2.2",Кинокомедия HD
+#EXTINF:-1 tvg-id="5090" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/84/2.2",Кинокомедия 
 http://tv.lamro.workers.dev/?ID=5090
-#EXTINF:-1 tvg-id="5087" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/47/2.2",Киносвидание HD
+#EXTINF:-1 tvg-id="5087" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/47/2.2",Киносвидание 
 http://tv.lamro.workers.dev/?ID=5087
-#EXTINF:-1 tvg-id="3374" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/99/2.2",Мужское Кино HD
+#EXTINF:-1 tvg-id="3374" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/99/2.2",Мужское Кино 
 http://tv.lamro.workers.dev/?ID=3374
-#EXTINF:-1 tvg-id="3791" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/121/2.2",Кинопремьера HD
+#EXTINF:-1 tvg-id="3791" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/121/2.2",Кинопремьера 
 http://tv.lamro.workers.dev/?ID=3791
 #EXTINF:-1 tvg-id="3794" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/391/1.1",НСТ
 http://tv.lamro.workers.dev/?ID=3794
-#EXTINF:-1 tvg-id="4920" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/580/1.1",A1 HD
+#EXTINF:-1 tvg-id="4920" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/580/1.1",A1 
 http://tv.lamro.workers.dev/?ID=4920
-#EXTINF:-1 tvg-id="4927" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/587/1.1",A2 HD
+#EXTINF:-1 tvg-id="4927" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/587/1.1",A2 
 http://tv.lamro.workers.dev/?ID=4927
 #EXTINF:-1 tvg-id="3186" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/243/1.1",viju TV1000
 http://tv.lamro.workers.dev/?ID=3186
@@ -455,31 +455,31 @@ http://tv.lamro.workers.dev/?ID=3186
 http://tv.lamro.workers.dev/?ID=3720
 #EXTINF:-1 tvg-id="4053" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/110/1.1",Кинопоказ
 http://tv.lamro.workers.dev/?ID=4053
-#EXTINF:-1 tvg-id="5057" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/640/2.2",Cinema HD
+#EXTINF:-1 tvg-id="5057" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/640/2.2",Cinema 
 http://tv.lamro.workers.dev/?ID=5057
 #EXTINF:-1 tvg-id="3207" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/278/1.1",viju TV1000 action
 http://tv.lamro.workers.dev/?ID=3207
-#EXTINF:-1 tvg-id="5092" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/833/2.2",Мир сериала HD
+#EXTINF:-1 tvg-id="5092" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/833/2.2",Мир сериала 
 http://tv.lamro.workers.dev/?ID=5092
 #EXTINF:-1 tvg-id="4923" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/77/1.1",viju TV1000 русское
 http://tv.lamro.workers.dev/?ID=4923
-#EXTINF:-1 tvg-id="4921" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/581/1.1",Hit HD
+#EXTINF:-1 tvg-id="4921" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/581/1.1",Hit 
 http://tv.lamro.workers.dev/?ID=4921
-#EXTINF:-1 tvg-id="4892" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/554/1.1",FOX HD
+#EXTINF:-1 tvg-id="4892" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/554/1.1",FOX 
 http://tv.lamro.workers.dev/?ID=4892
 #EXTINF:-1 tvg-id="4116" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/118/1.1",ЕвроКино
 http://tv.lamro.workers.dev/?ID=4116
 #EXTINF:-1 tvg-id="3188" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/15/1.1",Дом Кино
 http://tv.lamro.workers.dev/?ID=3188
-#EXTINF:-1 tvg-id="3718" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/142/1.1",Premium HD
+#EXTINF:-1 tvg-id="3718" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/142/1.1",Premium 
 http://tv.lamro.workers.dev/?ID=3718
-#EXTINF:-1 tvg-id="4962" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/651/1.1",viju+ Serial HD
+#EXTINF:-1 tvg-id="4962" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/651/1.1",viju+ Serial 
 http://tv.lamro.workers.dev/?ID=4962
 #EXTINF:-1 tvg-id="4051" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/436/1.1",viju+ Megahit
 http://tv.lamro.workers.dev/?ID=4051
 #EXTINF:-1 tvg-id="4111" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/583/1.1",viju+ Comedy
 http://tv.lamro.workers.dev/?ID=4111
-#EXTINF:-1 tvg-id="4117" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/437/1.1",viju+ Premiere HD
+#EXTINF:-1 tvg-id="4117" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/437/1.1",viju+ Premiere 
 http://tv.lamro.workers.dev/?ID=4117
 #EXTINF:-1 tvg-id="4922" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/582/1.1",Comedy Central
 http://tv.lamro.workers.dev/?ID=4922
@@ -487,121 +487,121 @@ http://tv.lamro.workers.dev/?ID=4922
 http://tv.lamro.workers.dev/?ID=4969
 #EXTINF:-1 tvg-id="4968" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/661/1.1",Мосфильм
 http://tv.lamro.workers.dev/?ID=4968
-#EXTINF:-1 tvg-id="4941" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/613/1.1",Fox Life HD
+#EXTINF:-1 tvg-id="4941" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/613/1.1",Fox Life 
 http://tv.lamro.workers.dev/?ID=4941
-#EXTINF:-1 tvg-id="4965" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/657/1.1",Камеди HD
+#EXTINF:-1 tvg-id="4965" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/657/1.1",Камеди 
 http://tv.lamro.workers.dev/?ID=4965
-#EXTINF:-1 tvg-id="4917" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/576/1.1",Кино ТВ HD
+#EXTINF:-1 tvg-id="4917" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/576/1.1",КиноТВ 
 http://tv.lamro.workers.dev/?ID=4917
-#EXTINF:-1 tvg-id="4589" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/575/1.1",Hollywood HD
+#EXTINF:-1 tvg-id="4589" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/575/1.1",Hollywood 
 http://tv.lamro.workers.dev/?ID=4589
-#EXTINF:-1 tvg-id="4963" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/653/1.1",Блокбастер HD
+#EXTINF:-1 tvg-id="4963" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/653/1.1",Блокбастер 
 http://tv.lamro.workers.dev/?ID=4963
-#EXTINF:-1 tvg-id="4860" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/573/1.1",Комедийное HD
+#EXTINF:-1 tvg-id="4860" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/573/1.1",Комедийное 
 http://tv.lamro.workers.dev/?ID=4860
-#EXTINF:-1 tvg-id="4961" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/649/1.1",Шокирующее HD
+#EXTINF:-1 tvg-id="4961" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/649/1.1",Шокирующее 
 http://tv.lamro.workers.dev/?ID=4961
-#EXTINF:-1 tvg-id="4748" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/266/1.1",Остросюжетное HD
+#EXTINF:-1 tvg-id="4748" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/266/1.1",Остросюжетное 
 http://tv.lamro.workers.dev/?ID=4748
-#EXTINF:-1 tvg-id="4970" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/276/1.1",Наше HD
+#EXTINF:-1 tvg-id="4970" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/276/1.1",Наше 
 http://tv.lamro.workers.dev/?ID=4970
 #EXTINF:-1 tvg-id="4122" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/486/1.1",Наш Детектив
 http://tv.lamro.workers.dev/?ID=4122
 #EXTINF:-1 tvg-id="3792" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/78/1.1",Наше новое кино
 http://tv.lamro.workers.dev/?ID=3792
-#EXTINF:-1 tvg-id="4971" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/665/1.1",Наше Мужское HD
+#EXTINF:-1 tvg-id="4971" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/665/1.1",Наше Мужское 
 http://tv.lamro.workers.dev/?ID=4971
-#EXTINF:-1 tvg-id="4967" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/663/1.1",Наш Кинопоказ HD
+#EXTINF:-1 tvg-id="4967" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/663/1.1",Наш Кинопоказ 
 http://tv.lamro.workers.dev/?ID=4967
-#EXTINF:-1 tvg-id="4729" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/480/1.1",Наш Кинороман HD
+#EXTINF:-1 tvg-id="4729" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/480/1.1",Наш Кинороман 
 http://tv.lamro.workers.dev/?ID=4729
-#EXTINF:-1 tvg-id="4612" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/158/1.1",Русский роман HD
+#EXTINF:-1 tvg-id="4612" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/158/1.1",Русский роман 
 http://tv.lamro.workers.dev/?ID=4612
 #EXTINF:-1 tvg-id="3184" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/68/1.1",Русский Иллюзион
 http://tv.lamro.workers.dev/?ID=3184
 #EXTINF:-1 tvg-id="4115" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/152/1.1",Русский бестселлер
 http://tv.lamro.workers.dev/?ID=4115
-#EXTINF:-1 tvg-id="4964" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/655/1.1",Дом кино премиум HD
+#EXTINF:-1 tvg-id="4964" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/655/1.1",Дом кино премиум 
 http://tv.lamro.workers.dev/?ID=4964
-#EXTINF:-1 tvg-id="4972" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/671/1.1",Хит HD
+#EXTINF:-1 tvg-id="4972" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/671/1.1",Хит 
 http://tv.lamro.workers.dev/?ID=4972
-#EXTINF:-1 tvg-id="4918" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/911/1.1",.red HD
+#EXTINF:-1 tvg-id="4918" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/911/1.1",.red 
 http://tv.lamro.workers.dev/?ID=4918
-#EXTINF:-1 tvg-id="5055" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/892/1.1",.black HD
+#EXTINF:-1 tvg-id="5055" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/892/1.1",.black 
 http://tv.lamro.workers.dev/?ID=5055
-#EXTINF:-1 tvg-id="5017" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/711/1.1",Plan B HD
+#EXTINF:-1 tvg-id="5017" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/711/1.1",Plan B 
 http://tv.lamro.workers.dev/?ID=5017
-#EXTINF:-1 tvg-id="5119" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/849/1.1",Суббота HD
+#EXTINF:-1 tvg-id="5119" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/849/1.1",Суббота 
 http://tv.lamro.workers.dev/?ID=5119
-#EXTINF:-1 tvg-id="5066" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/788/1.1",Flix Snip HD
+#EXTINF:-1 tvg-id="5066" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/788/1.1",Flix Snip 
 http://tv.lamro.workers.dev/?ID=5066
-#EXTINF:-1 tvg-id="5067" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/789/1.1",KinoJam 1 HD
+#EXTINF:-1 tvg-id="5067" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/789/1.1",KinoJam 1 
 http://tv.lamro.workers.dev/?ID=5067
-#EXTINF:-1 tvg-id="5068" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/790/1.1",KinoJam 2 HD
+#EXTINF:-1 tvg-id="5068" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/790/1.1",KinoJam 2 
 http://tv.lamro.workers.dev/?ID=5068
-#EXTINF:-1 tvg-id="4973" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/669/1.1",Про Любовь HD
+#EXTINF:-1 tvg-id="4973" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/669/1.1",Про Любовь 
 http://tv.lamro.workers.dev/?ID=4973
-#EXTINF:-1 tvg-id="4988" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/688/1.1",Премиальное HD
+#EXTINF:-1 tvg-id="4988" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/688/1.1",Премиальное 
 http://tv.lamro.workers.dev/?ID=4988
 #EXTINF:-1 tvg-id="5078" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/801/1.1",Shot TV
 http://tv.lamro.workers.dev/?ID=5078
-#EXTINF:-1 tvg-id="5064" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/786/1.1",FAN HD
+#EXTINF:-1 tvg-id="5064" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/786/1.1",FAN 
 http://tv.lamro.workers.dev/?ID=5064
 #EXTINF:-1 tvg-id="5081" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/804/1.1",Start Air
 http://tv.lamro.workers.dev/?ID=5081
-#EXTINF:-1 tvg-id="5073" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/910/1.1",.sci-fi HD
+#EXTINF:-1 tvg-id="5073" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/910/1.1",.sci-fi 
 http://tv.lamro.workers.dev/?ID=5073
 #EXTINF:-1 tvg-id="5086" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/826/1.1",Киноман
 http://tv.lamro.workers.dev/?ID=5086
-#EXTINF:-1 tvg-id="5085" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/825/1.1",Кинеко HD
+#EXTINF:-1 tvg-id="5085" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/825/1.1",Кинеко 
 http://tv.lamro.workers.dev/?ID=5085
-#EXTINF:-1 tvg-id="5074" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/795/1.1",Scream HD
+#EXTINF:-1 tvg-id="5074" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/795/1.1",Scream 
 http://tv.lamro.workers.dev/?ID=5074
 #EXTINF:-1 tvg-id="5082" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/805/1.1",Start World
 http://tv.lamro.workers.dev/?ID=5082
-#EXTINF:-1 tvg-id="5080" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/803/1.1",Star Family HD
+#EXTINF:-1 tvg-id="5080" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/803/1.1",Star Family 
 http://tv.lamro.workers.dev/?ID=5080
-#EXTINF:-1 tvg-id="5079" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/574/1.1",Star Cinema HD
+#EXTINF:-1 tvg-id="5079" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/574/1.1",Star Cinema 
 http://tv.lamro.workers.dev/?ID=5079
-#EXTINF:-1 tvg-id="5162" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/942/1.1",BCU Premiere 1 HD
+#EXTINF:-1 tvg-id="5162" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/942/1.1",BCU Premiere 1 
 http://tv.lamro.workers.dev/?ID=5162
-#EXTINF:-1 tvg-id="5163" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/943/1.1",BCU Premiere 2 HD
+#EXTINF:-1 tvg-id="5163" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/943/1.1",BCU Premiere 2 
 http://tv.lamro.workers.dev/?ID=5163
-#EXTINF:-1 tvg-id="5165" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/944/1.1",BCU Premiere 3 HD
+#EXTINF:-1 tvg-id="5165" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/944/1.1",BCU Premiere 3 
 http://tv.lamro.workers.dev/?ID=5165
-#EXTINF:-1 tvg-id="5167" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/946/1.1",BCU CCCP HD
+#EXTINF:-1 tvg-id="5167" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/946/1.1",BCU CCCP 
 http://tv.lamro.workers.dev/?ID=5167
-#EXTINF:-1 tvg-id="5168" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/947/1.1",BCU Action HD
+#EXTINF:-1 tvg-id="5168" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/947/1.1",BCU Action 
 http://tv.lamro.workers.dev/?ID=5168
-#EXTINF:-1 tvg-id="5169" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/948/1.1",BCU Catastrophe HD
+#EXTINF:-1 tvg-id="5169" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/948/1.1",BCU Catastrophe 
 http://tv.lamro.workers.dev/?ID=5169
-#EXTINF:-1 tvg-id="5171" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/950/1.1",BCU Fantastic HD
+#EXTINF:-1 tvg-id="5171" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/950/1.1",BCU Fantastic 
 http://tv.lamro.workers.dev/?ID=5171
-#EXTINF:-1 tvg-id="5172" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/951/1.1",BCU FilMystic HD
+#EXTINF:-1 tvg-id="5172" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/951/1.1",BCU FilMystic 
 http://tv.lamro.workers.dev/?ID=5172
-#EXTINF:-1 tvg-id="5173" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/952/1.1",BCU History HD
+#EXTINF:-1 tvg-id="5173" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/952/1.1",BCU History 
 http://tv.lamro.workers.dev/?ID=5173
-#EXTINF:-1 tvg-id="5175" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/953/1.1",BCU Premiere HD
+#EXTINF:-1 tvg-id="5175" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/953/1.1",BCU Premiere 
 http://tv.lamro.workers.dev/?ID=5175
-#EXTINF:-1 tvg-id="5177" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/955/1.1",BCU Stars HD
+#EXTINF:-1 tvg-id="5177" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/955/1.1",BCU Stars 
 http://tv.lamro.workers.dev/?ID=5177
-#EXTINF:-1 tvg-id="5180" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/958/1.1",BCU RUSERIAL HD
+#EXTINF:-1 tvg-id="5180" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/958/1.1",BCU RUSERIAL 
 http://tv.lamro.workers.dev/?ID=5180
-#EXTINF:-1 tvg-id="5181" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/959/1.1",BCU Сваты HD
+#EXTINF:-1 tvg-id="5181" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/959/1.1",BCU Сваты 
 http://tv.lamro.workers.dev/?ID=5181
-#EXTINF:-1 tvg-id="5182" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/960/1.1",BCU Criminal HD
+#EXTINF:-1 tvg-id="5182" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/960/1.1",BCU Criminal 
 http://tv.lamro.workers.dev/?ID=5182
-#EXTINF:-1 tvg-id="5183" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/961/1.1",BCU Cinema HD
+#EXTINF:-1 tvg-id="5183" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/961/1.1",BCU Cinema 
 http://tv.lamro.workers.dev/?ID=5183
-#EXTINF:-1 tvg-id="5184" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/962/1.1",BCU Kinorating HD
+#EXTINF:-1 tvg-id="5184" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/962/1.1",BCU Kinorating 
 http://tv.lamro.workers.dev/?ID=5184
-#EXTINF:-1 tvg-id="5237" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1055/1.1",BCU Cosmo HD
+#EXTINF:-1 tvg-id="5237" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1055/1.1",BCU Cosmo 
 http://tv.lamro.workers.dev/?ID=5237
 #EXTINF:-1 tvg-id="5224" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1029/1.1",DIZI
 http://tv.lamro.workers.dev/?ID=5224
-#EXTINF:-1 tvg-id="5232" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1045/1.1",Сапфир HD
+#EXTINF:-1 tvg-id="5232" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1045/1.1",Сапфир 
 http://tv.lamro.workers.dev/?ID=5232
-#EXTINF:-1 tvg-id="5231" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1043/1.1",Душевное HD
+#EXTINF:-1 tvg-id="5231" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1043/1.1",Душевное 
 http://tv.lamro.workers.dev/?ID=5231
-#EXTINF:-1 tvg-id="5233" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1047/1.1",Романтичное HD
+#EXTINF:-1 tvg-id="5233" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1047/1.1",Романтичное 
 http://tv.lamro.workers.dev/?ID=5233
