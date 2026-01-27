@@ -15,14 +15,10 @@ http://85.192.10.131/hls/tnt/playlist.m3u8
 http://85.192.10.131/hls/NtvRuM9/playlist.m3u8
 #EXTINF:-1,Пятый канал
 http://85.192.10.131/hls/5kanal/playlist.m3u8
-#EXTINF:-1,Кино 24
-http://85.192.10.131/hls/Kino24Ru/playlist.m3u8
 #EXTINF:-1,ОТР
 http://85.192.10.131/hls/OTR/playlist.m3u8
-#EXTINF:-1,Пятница
+#EXTINF:-1,Пятница!
 http://85.192.10.131/hls/pjatnica/playlist.m3u8
-#EXTINF:-1,Про100 ТВ
-http://85.192.10.131/hls/Pro100tvRu/playlist.m3u8
 #EXTINF:-1,ТВ3
 http://85.192.10.131/hls/tv3/playlist.m3u8
 #EXTINF:-1,ТВ Центр
@@ -39,3 +35,7 @@ http://85.192.10.131/hls/Karusel/playlist.m3u8
 http://85.192.10.131/hls/pingvinru/playlist.m3u8
 #EXTINF:-1,Матч!
 http://85.192.10.131/hls/matchtvrum9/playlist.m3u8
+#EXTINF:-1,Кино 24
+http://85.192.10.131/hls/Kino24Ru/playlist.m3u8
+#EXTINF:-1,Про100 ТВ
+http://85.192.10.131/hls/Pro100tvRu/playlist.m3u8
