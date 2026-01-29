@@ -1,56 +1,12 @@
 #EXTM3U
 #EXTINF:-1 group-title="-",Первый канал
 http://194.8.128.38:8080/ort/playlist.m3u8
-#EXTINF:-1,Россия 1
-http://85.192.10.131/hls/RossijaM9/playlist.m3u8
-#EXTINF:-1,Россия 24
-http://85.192.10.131/hls/ortrum9/playlist.m3u8
-#EXTINF:-1,Рен ТВ
-http://85.192.10.131/hls/rentv/playlist.m3u8
-#EXTINF:-1,Россия К
-http://85.192.10.131/hls/kultura/playlist.m3u8
-#EXTINF:-1,ТНТ
-http://85.192.10.131/hls/tnt/playlist.m3u8
-#EXTINF:-1,НТВ
-http://85.192.10.131/hls/NtvRuM9/playlist.m3u8
-#EXTINF:-1,Пятый канал
-http://85.192.10.131/hls/5kanal/playlist.m3u8
-#EXTINF:-1,ОТР
-http://85.192.10.131/hls/OTR/playlist.m3u8
-#EXTINF:-1,Пятница!
-http://85.192.10.131/hls/pjatnica/playlist.m3u8
-#EXTINF:-1,ТВ3
-http://85.192.10.131/hls/tv3/playlist.m3u8
-#EXTINF:-1,ТВ Центр
-http://85.192.10.131/hls/TvciRu/playlist.m3u8
-#EXTINF:-1,Звезда
-http://85.192.10.131/hls/zvezda/playlist.m3u8
-#EXTINF:-1,Мамонтёнок
-http://85.192.10.131/hls/MamonRu/playlist.m3u8
-#EXTINF:-1,Мультимания
-http://85.192.10.131/hls/MultimaniaRu/playlist.m3u8
-#EXTINF:-1,Карусель
-http://85.192.10.131/hls/Karusel/playlist.m3u8
-#EXTINF:-1,Пингвин Лоло
-http://85.192.10.131/hls/pingvinru/playlist.m3u8
-#EXTINF:-1,Матч!
-http://85.192.10.131/hls/matchtvrum9/playlist.m3u8
-#EXTINF:-1,Кино 24
-http://85.192.10.131/hls/Kino24Ru/playlist.m3u8
-#EXTINF:-1,Про100 ТВ
-http://85.192.10.131/hls/Pro100tvRu/playlist.m3u8
-
-
-
-
 #EXTINF:0 group-title="Общие" tvg-id="146" tvg-logo="http://epg.one/img2/146.png" tvg-rec="7",Первый канал
 https://tinyurl.com/aleks-u-romki-47/127/index.m3u8
 #EXTINF:-1 group-title="Общие",Первый канал
 http://194.8.128.38:8080/ort/playlist.m3u8
-
 #EXTINF:-1 group-title="С сайтов (VPN)",Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-
 #EXTINF:-1 ,Россия 1 (Ульяновск) 
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ulyanovsk/russia1-sd/index.m3u8
 #EXTINF:-1 group-title="Разное" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png",Россия 1 (Вологда)
