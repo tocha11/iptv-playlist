@@ -7,10 +7,67 @@ https://tinyurl.com/aleks-u-romki-47/127/index.m3u8
 http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)",Россия 1 
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1  tvg-id="rossia-24" ,Россия 24
+#EXTGRP:2.НОВОСТИ 👁‍🗨
+http://193.25.8.59:8000/rossia24
+#EXTINF:-1  tvg-id="rossia-24" ,Россия 24
+#EXTGRP:2.НОВОСТИ 👁‍🗨
+http://91.210.192.13:1000/russia-24
+#EXTINF:-1  tvg-id="rossia-24" ,Россия 24
+#EXTGRP:2.НОВОСТИ 👁‍🗨
+http://5.57.74.130/Rusija24/mono.m3u8
+#EXTINF:-1  tvg-id="rossia-24"   tvg-name="Россия 24",Россия 24
+#EXTGRP:2.НОВОСТИ 👁‍🗨
+https://flussonic.salomtv.uz/ROSSIYA_24/video.m3u8
+#EXTINF:-1  tvg-id="rossia-24" ,Россия 24
+#EXTGRP:2.НОВОСТИ 👁‍🗨
+http://185.46.16.239:8000/Rossiya_24
+#EXTINF:-1  tvg-id="rossia-24" ,Россия 24
+#EXTGRP:2.НОВОСТИ 👁‍🗨
+http://31.148.48.15:80/Rossiya_24/index.m3u8?token=test
+#EXTINF:-1  tvg-id="rossia-24" ,Россия 24
+#EXTGRP:2.НОВОСТИ 👁‍🗨
+http://31.148.48.15:80/Rossiya_24/index.m3u8
 #EXTINF:-1 ,Твое ТВ Юмор
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 ,НТВ
 http://cdn.ntv.ru/ntv0_hd/index.m3u8
+#EXTINF:-1  tvg-id="360-podmoskovie"   tvg-name="360° HD",360° 
+#EXTGRP:2.НОВОСТИ 👁‍🗨
+http://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
+#EXTINF:-1  tvg-id="360-news" ,360°
+#EXTGRP:2.НОВОСТИ 👁‍🗨
+https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/2.m3u8
+#EXTINF:-1  tvg-id="moskva-24" ,МОСКВА 24
+#EXTGRP:2.НОВОСТИ 👁‍🗨
+http://193.25.8.59:8000/moskva24
+#EXTINF:-1  tvg-id="moskva-24" ,МОСКВА 24
+#EXTGRP:2.НОВОСТИ 👁‍🗨
+http://31.210.208.171:8080/moskva_24/index.m3u8?token=+W2MSER
+#EXTINF:-1  tvg-id="rbk" ,РБК
+#EXTGRP:2.НОВОСТИ 👁‍🗨
+http://92.50.128.180/utv/1358/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1  tvg-id="rbk" , РБК
+#EXTGRP:2.НОВОСТИ 👁‍🗨
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1  tvg-id="rbk" ,РБК
+#EXTGRP:2.НОВОСТИ 👁‍🗨
+http://92.50.128.180/utv/1358/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1  tvg-id="rbk" ,РБК
+#EXTGRP:2.НОВОСТИ 👁‍🗨
+http://31.148.48.15:80/RBK/index.m3u8?token=test
+#EXTINF:-1  tvg-id="rbk" ,РБК
+#EXTGRP:2.НОВОСТИ 👁‍🗨
+http://31.148.48.15:80/RBK/index.m3u8
+#EXTINF:-1  tvg-id="rbk" ,РБК
+#EXTGRP:2.НОВОСТИ 👁‍🗨
+http://online-video.rbc.ru/online/rbctv_480p/index.m3u8?e=e8&t=IbzcGc&checkedby:iptvcat.com
+#EXTINF:-1  tvg-id="rbk" ,РБК
+#EXTGRP:2.НОВОСТИ 👁‍🗨
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+#EXTINF:-1  tvg-id="rbk" ,РБК
+#EXTGRP:2.НОВОСТИ 👁‍🗨
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8?
 #EXTINF:-1 ,СТВ
 http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов",Беларусь 24
