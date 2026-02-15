@@ -1,4 +1,88 @@
 #EXTM3U
+
+#EXTINF:-1 group-title="Общие", Первый канал
+http://194.8.128.38:8080/ort/playlist.m3u8
+#EXTINF:-1 group-title="Общие", Россия 1
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO3gcQAHbok/russia1-sd/index.m3u8 
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" 
+#EXTINF:-1 group-title="Общие", Россия 1 
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
+#EXTINF:-1 group-title="Общие", Planeta RTR
+https://streaming.goodstream.cyou/live/211.m3u8
+#EXTINF:-1 group-title="Общие", НТВ
+http://cdn.ntv.ru/ntv0/tracks-v3a1/mono.m3u8 
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" 
+#EXTINF:-1 group-title="Общие", НТВ HD
+http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
+#EXTINF:-1 group-title="Общие", НТВ-America
+http://4.59.210.197:8815/udp/127.0.0.1:6003
+#EXTINF:-1 group-title="Общие", НТВ-Беларусь
+http://194.158.222.36:6107
+#EXTINF:-1 group-title="Общие" tvg-id="ntv-mir", НТВ-Мир
+https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Общие", Пятый канал
+https://streaming.televizor-24-tochka.ru/live/8-req_offset_28000000-req_window_0-1k_v5.m3u8 
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" 
+#EXTINF:-1 group-title="Общие", Пятый канал Int.
+http://178.134.1.158:8081/5channel/index.m3u8
+#EXTINF:-1 group-title="Общие", ОТР
+http://178.217.72.66:8080/OTR/index.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" 
+#EXTINF:-1 group-title="Общие", ТВ Центр
+https://streaming.televizor-24-tochka.ru/live/13-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие"  
+#EXTINF:-1 group-title="Общие", Рен ТВ
+http://31.210.208.171:8080/ren/index.m3u8?token=+W2MSER 
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rentv-pl7" 
+#EXTINF:-1 group-title="Общие", Рен ТВ HD
+http://178.217.72.66:8080/REN_TV/index.m3u8
+#EXTINF:-1 group-title="Общие", Рен ТВ Int.
+http://85.117.61.97:8000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="Общие", Звезда
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="zvezda", Звезда (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" 
+#EXTINF:-1 group-title="Общие", Звезда HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Общие", Мир
+http://185.46.16.239:8000/Mir
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
+#EXTINF:-1 group-title="Общие", Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="Общие", БелРос
+http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
+#EXTINF:-1 group-title="Общие", БСТ
+http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="Общие", Вместе-РФ HD
+https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
+#EXTINF:-1 group-title="Общие", Новгородское областное телевидение
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
+#EXTINF:-1 group-title="Общие", НТК
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
+#EXTINF:-1 group-title="Общие", ОНТ
+http://194.158.222.36:6102
+#EXTINF:-1 group-title="Общие", ОНТ HD
+https://edge50.dc.beltelecom.by/ont/ont/chunklist_b5160000_sleng.m3u8
+#EXTINF:-1 group-title="Общие", СТВ Беларусь
+http://194.158.222.36:6103
+#EXTINF:-1 group-title="Общие", СТВ Беларусь HD
+http://158.160.149.81:8080/763/index.m3u8
+#EXTINF:-1 group-title="Общие", ТСВ Приднестровье HD
+https://tsv.md/stream/hls/tsv-online/index.m3u8
+#EXTINF:-1 group-title="Общие", ТНВ Планета
+http://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8
+#EXTINF:-1 group-title="Общие", ТНВ Татарстан
+http://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
+#EXTINF:-1 group-title="Общие", CGTN Русский HD
+http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+#EXTINF:-1 group-title="Общие", RTVi
+http://178.134.1.158:8081/rtvi/index.m3u8
+
+
 #EXTINF:-1 ,Первый канал
 http://185.229.235.30:8005/udp/225.15.3.160:2345
 #EXTINF:-1 ,Россия 1
