@@ -617,3 +617,153 @@ http://46.8.46.14/Ryzhiy/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Уникум.png" group-title="ДЕТСКИЕ",Уникум
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://46.8.46.14/detskiy/index.m3u8
+
+
+#EXTINF:-1 ,Мир
+http://193.25.8.59:8000/mir
+#EXTINF:-1 ,Мир 24
+http://193.25.8.59:8000/mir24
+#EXTINF:-1 ,Мир сериала
+http://193.25.8.59:8000/mirseriala
+#EXTINF:-1 ,Москва 24
+http://193.25.8.59:8000/moskva24
+#EXTINF:-1 ,Мосфильм. Золотая коллекция
+http://193.25.8.59:8000/tnv
+#EXTINF:-1 ,Мужской
+http://193.25.8.59:8000/muzhskoy
+#EXTINF:-1 ,Наука 2.0
+http://193.25.8.59:8000/nauka
+#EXTINF:-1 ,НСТ
+http://193.25.8.59:8000/nst
+#EXTINF:-1 ,НТВ Хит
+http://193.25.8.59:8000/Paramount
+#EXTINF:-1 ,ОТР
+http://193.25.8.59:8000/otr
+#EXTINF:-1 ,Охота и рыбалка
+http://193.25.8.59:8000/ohota
+#EXTINF:-1 ,Победа
+http://193.25.8.59:8000/tochka
+#EXTINF:-1 ,Поехали!
+http://193.25.8.59:8000/360
+#EXTINF:-1 ,Пятница
+http://193.25.8.59:8000/pyatnitsa
+#EXTINF:-1 ,Пятый канал
+http://193.25.8.59:8000/5
+#EXTINF:-1 ,РБК
+http://193.25.8.59:8000/RBK
+#EXTINF:-1 ,Рен ТВ
+http://193.25.8.59:8000/ren
+#EXTINF:-1 ,Ретро
+http://193.25.8.59:8000/retro
+#EXTINF:-1 ,Россия К
+http://193.25.8.59:8000/rossiak
+#EXTINF:-1 ,Русский роман
+http://193.25.8.59:8000/rusroman
+#EXTINF:-1 ,Союз
+http://193.25.8.59:8000/soyuz
+#EXTINF:-1 ,Спас
+http://193.25.8.59:8000/spas
+#EXTINF:-1 ,СТС
+http://193.25.8.59:8000/ESPN
+#EXTINF:-1 ,ТВ3
+http://193.25.8.59:8000/tv3
+#EXTINF:-1 ,ТВ Центр
+http://193.25.8.59:8000/tvc
+#EXTINF:-1 ,Театр
+http://193.25.8.59:8000/teatr
+#EXTINF:-1 ,Телекафе
+http://193.25.8.59:8000/telecafe
+#EXTINF:-1 ,ТНТ4
+http://193.25.8.59:8000/tntcomedy
+#EXTINF:-1 ,Усадьба
+http://193.25.8.59:8000/usadba
+#EXTINF:-1 ,Че
+http://193.25.8.59:8000/perec
+#EXTINF:-1 ,Шансон ТВ
+http://193.25.8.59:8000/shanson
+#EXTINF:-1 ,Ю
+http://193.25.8.59:8000/u
+#EXTINF:-1 ,.Red
+http://193.25.8.59:8000/set
+#EXTINF:-1 ,.Sci-Fi
+http://193.25.8.59:8000/axn
+#EXTINF:-1 ,2x2
+http://193.25.8.59:8000/2x2
+#EXTINF:-1 ,Amedia 1
+http://193.25.8.59:8000/amedia1
+#EXTINF:-1 ,Amedia 2
+http://193.25.8.59:8000/amedia2
+#EXTINF:-1 ,Bridge TV Русский Xит HD
+http://193.25.8.59:8000/rusong
+#EXTINF:-1 ,Bridge TV Русский Хит
+http://193.25.8.59:8000/rusong
+#EXTINF:-1 ,Bridge TV Шлягер
+http://193.25.8.59:8000/mtv
+#EXTINF:-1 ,DocuBox
+http://193.25.8.59:8000/24Doc
+#EXTINF:-1 ,Fast & FunBox
+http://193.25.8.59:8000/Avto24
+#EXTINF:-1 ,FightBox
+http://193.25.8.59:8000/box
+#EXTINF:-1 ,FightBox
+http://193.25.8.59:8000/box
+#EXTINF:-1 ,Galaxy
+http://193.25.8.59:8000/galaxy
+#EXTINF:-1 ,Hollywood
+http://193.25.8.59:8000/interaz
+#EXTINF:-1 ,KHL HD
+http://193.25.8.59:8000/khl
+#EXTINF:-1 ,KHL HD
+http://193.25.8.59:8000/khl
+#EXTINF:-1 ,Outdoor
+http://193.25.8.59:8000/outdoor
+#EXTINF:-1 ,RTG HD
+http://193.25.8.59:8000/rtg
+#EXTINF:-1 ,Terra
+http://193.25.8.59:8000/natgeo
+#EXTINF:-1 ,Timeless Dizi Channel
+http://193.25.8.59:8000/tlc
+#EXTINF:-1 ,TV XXI
+http://193.25.8.59:8000/XXI
+#EXTINF:-1 ,TV1000
+http://193.25.8.59:8000/TV1000
+#EXTINF:-1 ,TV1000 Русское кино
+http://193.25.8.59:8000/TV1000RU
+#EXTINF:-1 ,Viasat Nature
+http://193.25.8.59:8000/nature
+#EXTINF:-1 ,Viasat Sport
+http://193.25.8.59:8000/viasatsport
+#EXTINF:-1 ,Беларусь 24
+http://193.25.8.59:8000/belarus24
+#EXTINF:-1 ,Бобёр
+http://193.25.8.59:8000/bober
+#EXTINF:-1 ,Время
+http://193.25.8.59:8000/vremya
+#EXTINF:-1 ,Дом Кино
+http://193.25.8.59:8000/domkino
+#EXTINF:-1 ,Домашний
+http://193.25.8.59:8000/dom
+#EXTINF:-1 ,Драйв
+http://193.25.8.59:8000/drive
+#EXTINF:-1 ,Еврокино
+http://193.25.8.59:8000/eurokino
+#EXTINF:-1 ,Европа плюс ТВ
+http://193.25.8.59:8000/vh1
+#EXTINF:-1 ,Звезда
+http://193.25.8.59:8000/zvezda
+#EXTINF:-1 ,Зоопарк
+http://193.25.8.59:8000/zoo
+#EXTINF:-1 ,История
+http://193.25.8.59:8000/History
+#EXTINF:-1 ,Карусель
+http://193.25.8.59:8000/karusel
+#EXTINF:-1 ,Кинеко
+http://193.25.8.59:8000/fox
+#EXTINF:-1 ,Матч! Арена
+http://193.25.8.59:8000/sport1
+#EXTINF:-1 ,Матч! Футбол 1
+http://193.25.8.59:8000/fut
+#EXTINF:-1 ,Матч! Футбол 2
+http://193.25.8.59:8000/fut
+#EXTINF:-1 ,Матч! Футбол 3
+http://193.25.8.59:8000/fut3
