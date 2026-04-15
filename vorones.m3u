@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="-",Первый канал
-http://194.8.128.38:8080/ort/playlist.m3u8
-#EXTINF:-1 group-title="Общие",Первый канал
-http://194.8.128.38:8080/ort/playlist.m3u8
+#EXTINF:-1 ,Первый канал
+http://31.131.141.195:8000/play/1010/index.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)",Россия 1 
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1  tvg-id="rossia-24" ,Россия 24
