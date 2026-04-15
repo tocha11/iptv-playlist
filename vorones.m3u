@@ -62,7 +62,42 @@ http://online-video.rbc.ru/online/rbctv_480p/index.m3u8?e=e8&t=IbzcGc&checkedby:
 #EXTGRP:2.НОВОСТИ 👁‍🗨
 http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
 #EXTINF:-1  tvg-id="rbk" ,РБК
-
+#EXTINF:-1,Bollywood HD
+http://176.118.197.101/Bollywood_HD/index.m3u8
+#EXTINF:-1,Cinema
+http://176.118.197.101/Cinema/index.m3u8
+#EXTINF:-1,Дом Кино
+http://176.118.197.101/Dom_kino/index.m3u8
+#EXTINF:-1,НСТ
+http://176.118.197.101/HCT/index.m3u8
+#EXTINF:-1,Иллюзион+
+http://176.118.197.101/Illuzion+/index.m3u8
+#EXTINF:-1,Кинокомедия
+http://176.118.197.101/Kinokomediya/index.m3u8
+#EXTINF:-1,Киномикс
+http://176.118.197.101/Kinomix/index.m3u8
+#EXTINF:-1,Родное кино
+http://176.118.197.101/RodnoeKino/index.m3u8
+#EXTINF:-1,Кинопоказ
+http://176.118.197.101/Kinopokaz/index.m3u8
+#EXTINF:-1,Киносерия
+http://176.118.197.101/Kinoseria/index.m3u8
+#EXTINF:-1,Комедия
+http://176.118.197.101/Komediya/index.m3u8
+#EXTINF:-1,Любимое кино
+http://176.118.197.101/LubimoeKino/index.m3u8
+#EXTINF:-1,Мир сериала
+http://176.118.197.101/MirSeriala/index.m3u8
+#EXTINF:-1,2x2
+http://176.118.197.101/2x2/index.m3u8
+#EXTINF:-1,СТС
+http://176.118.197.101/CTC/index.m3u8
+#EXTINF:-1,Ностальгия
+http://176.118.197.101/Nostalgiya/index.m3u8
+#EXTINF:-1,Ретро
+http://176.118.197.101/Retro/index.m3u8
+#EXTINF:-1,KHL
+http://176.118.197.101/KHL/index.m3u8
 #EXTINF:-1 ,ОСН
 https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
 #EXTINF:-1 ,12 КАНАЛ (ОМСК)
@@ -73,28 +108,118 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 #EXTINF:-1 ,КТК
 https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/chunklist.m3u8
-#EXTINF:-1 ,Неизвестная Россия
-https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ,НТВ HD
-https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ,НТВ HD
-https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ,НТВ +1
-https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ,НТВ +2
-https://cdn.ntv.ru/ntv2/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ,НТВ +4
-https://cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ,НТВ +7
-https://cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ,НТВ Хит
-https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ,НТВ Сериал
-https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ,НТВ Право
-https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ,НТВ Стиль
-https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
+#EXTINF:-1,Amedia 1
+https://a3569457567-s70378.cdn.ngenix.net/amedia_1/2/index.m3u8
+#EXTINF:-1,Amedia 2
+https://a3569457567-s70378.cdn.ngenix.net/amedia_2/2/index.m3u8
+#EXTINF:-1,Amedia Hit
+https://a3569457567-s70378.cdn.ngenix.net/amedia_hit/2/index.m3u8
+#EXTINF:-1,Amedia Premium HD
+https://a3569457567-s70378.cdn.ngenix.net/amedia_premium_hd/2/index.m3u8
+#EXTINF:-1,Bloomberg
+https://a3569457567-s70378.cdn.ngenix.net/bloomberg/2/index.m3u8
+#EXTINF:-1,.sci-fi
+https://a3569457567-s70378.cdn.ngenix.net/sony_sci_fi/2/index.m3u8
+#EXTINF:-1,.Black
+https://a3569457567-s70378.cdn.ngenix.net/sony_turbo/2/index.m3u8
+#EXTINF:-1,Индийское кино
+https://a3569457567-s70378.cdn.ngenix.net/india_tv/1/index.m3u8
+#EXTINF:-1,Индия
+https://a3569457567-s70378.cdn.ngenix.net/zee_tv/2/index.m3u8
+#EXTINF:-1,Наше новое кино
+https://a3569457567-s70378.cdn.ngenix.net/nashe_novoe_kino/1/index.m3u8
+#EXTINF:-1,Киноужас
+https://a3569457567-s70378.cdn.ngenix.net/kinouzhas/1/index.m3u8
+#EXTINF:-1,Киносерия
+https://a3569457567-s70378.cdn.ngenix.net/mnogo_tv/1/index.m3u8
+#EXTINF:-1,Киносвидание
+https://a3569457567-s70378.cdn.ngenix.net/kinoklub/1/index.m3u8
+#EXTINF:-1,Дом Кино Премиум
+https://a3569457567-s70378.cdn.ngenix.net/dom_kino_premium_hd/3/index.m3u8
+#EXTINF:-1,ТВ3
+https://a3569457567-s70378.cdn.ngenix.net/tv_3/2/index.m3u8
+#EXTINF:-1,TV XXI
+https://a3569457567-s70378.cdn.ngenix.net/tv_xxi/2/index.m3u8
+#EXTINF:-1,VIP Comedy
+https://a3569457567-s70378.cdn.ngenix.net/vip_comedy/2/index.m3u8
+#EXTINF:-1,VIP Megahit
+https://a3569457567-s70378.cdn.ngenix.net/vip_megahit/2/index.m3u8
+#EXTINF:-1,VIP Premiere
+https://a3569457567-s70378.cdn.ngenix.net/vip_premiere/2/index.m3u8
+#EXTINF:-1,VIP Serial
+https://a3569457567-s70378.cdn.ngenix.net/vip_serial/2/index.m3u8
+#EXTINF:-1,Дом Кино
+https://a3569457567-s70378.cdn.ngenix.net/dom_kino/1/index.m3u8
+#EXTINF:-1,Euronews
+https://a3569457567-s70378.cdn.ngenix.net/euronews/1/index.m3u8
+#EXTINF:-1,Еврокино
+https://a3569457567-s70378.cdn.ngenix.net/evrokino/1/index.m3u8
+#EXTINF:-1,Мир сериала
+https://a3569457567-s70378.cdn.ngenix.net/mir_seriala/1/index.m3u8
+#EXTINF:-1,Filmbox
+https://a3569457567-s70378.cdn.ngenix.net/filmbox/1/index.m3u8
+#EXTINF:-1,Filmbox Arthouse
+https://a3569457567-s70378.cdn.ngenix.net/filmbox_arthouse/1/index.m3u8
+#EXTINF:-1,Fox life
+https://a3569457567-s70378.cdn.ngenix.net/fox_life/1/index.m3u8
+#EXTINF:-1,Иллюзион+
+https://a3569457567-s70378.cdn.ngenix.net/illusion_plus/1/index.m3u8
+#EXTINF:-1,kinoman
+https://a3569457567-s70378.cdn.ngenix.net/kinoman/1/index.m3u8
+#EXTINF:-1,Ностальгия
+https://a3569457567-s70378.cdn.ngenix.net/nostalgia/1/index.m3u8
+#EXTINF:-1,National geographic
+https://a3569457567-s70378.cdn.ngenix.net/national_geographic/1/index.m3u8
+#EXTINF:-1,Terra
+https://a3569457567-s70378.cdn.ngenix.net/terra/2/index.m3u8
+#EXTINF:-1,Ocean TV
+https://a3569457567-s70378.cdn.ngenix.net/ocean_tv/1/index.m3u8
+#EXTINF:-1,History
+https://a3569457567-s70378.cdn.ngenix.net/history/1/index.m3u8
+#EXTINF:-1,H2
+https://a3569457567-s70378.cdn.ngenix.net/history_2/1/index.m3u8
+#EXTINF:-1,Дикий
+https://a3569457567-s70378.cdn.ngenix.net/dikiy/1/index.m3u8
+#EXTINF:-1,RTG HD
+https://a3569457567-s70378.cdn.ngenix.net/rtg_hd/1/index.m3u8
+#EXTINF:-1,Зоопарк
+https://a3569457567-s70378.cdn.ngenix.net/zoopark/2/index.m3u8
+#EXTINF:-1,DocuBox
+https://a3569457567-s70378.cdn.ngenix.net/docubox/1/index.m3u8
+#EXTINF:-1,Galaxy
+https://a3569457567-s70378.cdn.ngenix.net/galaxy/1/index.m3u8
+#EXTINF:-1,Глазами туриста
+https://a3569457567-s70378.cdn.ngenix.net/glazami_turista/1/index.m3u8
+#EXTINF:-1,Travel+Adventure
+https://a3569457567-s70378.cdn.ngenix.net/travel_and_adventure/2/index.m3u8
+#EXTINF:-1,The explorers
+https://a3569457567-s70378.cdn.ngenix.net/the_explorers/2/index.m3u8
+#EXTINF:-1,Viasat Explore
+https://a3569457567-s70378.cdn.ngenix.net/viasat_explore/2/index.m3u8
+#EXTINF:-1,Viasat History
+https://a3569457567-s70378.cdn.ngenix.net/viasat_history/2/index.m3u8
+#EXTINF:-1,Viasat Nature
+https://a3569457567-s70378.cdn.ngenix.net/viasat_nature/2/index.m3u8
+#EXTINF:-1,Baby TV
+https://a3569457567-s70378.cdn.ngenix.net/baby_tv/2/index.m3u8
+#EXTINF:-1,Tiji
+https://a3569457567-s70378.cdn.ngenix.net/tiji/2/index.m3u8
+#EXTINF:-1,СТС Kids
+https://a3569457567-s70378.cdn.ngenix.net/ctc_kids/1/index.m3u8
+#EXTINF:-1,Nickelodeon
+https://a3569457567-s70378.cdn.ngenix.net/nickelodeon/1/index.m3u8
+#EXTINF:-1,Nicktoons
+https://a3569457567-s70378.cdn.ngenix.net/nicktoons/1/index.m3u8
+#EXTINF:-1,Малыш
+https://a3569457567-s70378.cdn.ngenix.net/malish/1/index.m3u8
+#EXTINF:-1,Gulli Girl
+https://a3569457567-s70378.cdn.ngenix.net/gulli/1/index.m3u8
+#EXTINF:-1,Карусель
+https://a3569457567-s70378.cdn.ngenix.net/karusel/1/index.m3u8
+#EXTINF:-1,Da Vinci
+https://a3569457567-s70378.cdn.ngenix.net/da_vinci/1/index.m3u8
+#EXTINF:-1,Детский мир
+https://a3569457567-s70378.cdn.ngenix.net/detskij_mir/1/index.m3u8
 #EXTINF:-1 ,Смотрим Кино и сериалы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 ,Тел+ Астрахань
