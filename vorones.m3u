@@ -2098,23 +2098,286 @@ http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=HD_Oh_Rbl.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTgwOTc5NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ1MjA0OTk1LCJzZXNzaW9uX2lkIjoiZmIzMzM1NmQyNmM3OTQ5NTU4NmRkMmI3ZWY4Mjc0MzMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.aFyzYCgM_oKjh2_Dg6FQYD6PyavjN_0NIUwZ6-lXrr0
 #EXTINF:-1 group-title="Познавательные",The Fishing and Hunting
 http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
-#EXTINF:-1 group-title="Симпсоны",Серия 8 (сезон 36)
-http://s6.lomont.site/vod/films/the.simpsons.s36e08.rezka.1080_855622/hls/index.m3u8
-#EXTINF:-1 group-title="Симпсоны",Серия 7 (сезон 36)
-http://s6.lomont.site/vod/films/simpsons.hdrezka.s36.e07_845732/hls/index.m3u8
-#EXTINF:-1 group-title="Симпсоны",Серия 6 (сезон 36)
-http://s6.lomont.site/content/stream/films/the.simpsons.s36e06.rezka.1080_835832/hls/1080/index.m3u8
-#EXTINF:-1 group-title="Симпсоны",Серия 5 (сезон 36)
-http://s6.lomont.site/content/stream/films/simpsons.hdrezka.s36.e05_830621/hls/1080/index.m3u8
-#EXTINF:-1 group-title="Симпсоны",Серия 4 (сезон 36)
-http://s6.lomont.site/content/stream/films/simpsons.hdrezka.s36.e04_824651/hls/1080/index.m3u8
-#EXTINF:-1 group-title="Симпсоны",Серия 11 (сезон 36)
-http://s6.lomont.site/vod/films/the.simpsons.hdrezka.s36.e11_871033/hls/index.m3u8
-#EXTINF:-1 group-title="Симпсоны",Серия 9 (сезон 36)
-http://s6.lomont.site/vod/films/the.simpsons.s36e09.rezka.1080_866173/hls/index.m3u8
-#EXTINF:-1 group-title="Симпсоны",Серия 10 (сезон 36)
-http://s6.lomont.site/vod/films/the.simpsons.s36e10.rezka.1080_867940/hls/index.m3u8
-#EXTINF:-1 group-title="Симпсоны",Серия 12 (сезон 36)
-http://s6.lomont.site/vod/films/the.simpsons.s36e12.rezka.1080_873771/hls/index.m3u8
-#EXTINF:-1 group-title="Симпсоны",Серия 13 (сезон 36)
-http://s1.lomont.site/vod/films/the.simpsons.s36.special.rezka.1080_889140/hls/index.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="Кинозалы (VPN)",Kinowalk_tv
+http://kinowalk.hopto.org/kinowalk_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",KinoJam
+http://kinowalk.hopto.org/kinojam_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",MovieToper
+http://kinowalk.hopto.org/movietoper_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",ZubrilomFilm
+http://kinowalk.hopto.org/zubrilomfilm_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",Scarface
+http://kinowalk.hopto.org/filmomania_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",KINOPRO
+http://kinowalk.hopto.org/kinopro_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",Мы из 90-х
+http://kinowalk.hopto.org/miiz90x_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",ScripachTV
+http://kinowalk.hopto.org/scripachtv_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",SeleCaoTV
+http://kinowalk.hopto.org/selecaotv_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",VideoArsenal
+http://kinowalk.hopto.org/videoarsenal_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",KinoMix Юрич
+http://kinowalk.hopto.org/yurich_kinomix_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",Alex.Films
+http://kinowalk.hopto.org/alex.films_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",SerialTV
+http://kinowalk.hopto.org/serialtv_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",serial4u
+http://kinowalk.hopto.org/serial4u_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",BOSSFILM
+http://kinowalk.hopto.org/bossfilm_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",VHS Forever
+http://kinowalk.hopto.org/vhs-forever_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",ROMEO Video
+http://kinowalk.hopto.org/romantic_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",КОМЕДИИ 24/7
+http://kinowalk.hopto.org/cmexye4ku_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",Serial Productions
+http://kinowalk.hopto.org/swat2k_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",Video Channel
+http://kinowalk.hopto.org/video_channel_live
+#EXTINF:-1 group-title="KINO+",КИНОХИТ
+http://158.101.222.193:88/georgia_play.php?id=kinohit
+#EXTINF:-1 group-title="KINO+",КИНОКОМЕДИЯ
+http://158.101.222.193:88/georgia_play.php?id=kinokomediya
+#EXTINF:-1 group-title="KINO+",Кинокомедия
+http://176.96.241.40/Kinokomediya/index.m3u8
+#EXTINF:-1 group-title="KINO+",kinomiks
+http://158.101.222.193:88/georgia_play.php?id=kinomiks
+#EXTINF:-1 group-title="KINO+",Киномикс HD
+http://93.170.254.17/Kinomiks/index.m3u8
+#EXTINF:-1 group-title="KINO+",КИНОСЕМЬЯ
+http://158.101.222.193:88/georgia_play.php?id=kinosemya
+#EXTINF:-1 group-title="KINO+",КИНОСЕРИЯ
+http://158.101.222.193:88/georgia_play.php?id=kinoseria
+#EXTINF:-1 group-title="KINO+",КИНОСВИДАНИЕ
+http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
+#EXTINF:-1 group-title="KINO+",Мужское Кино
+http://158.101.222.193:88/georgia_play.php?id=interesnoetv
+#EXTINF:-1 group-title="KINO+",viju+ Comedy HD
+http://185.46.16.239:8000/VIP_Comedy
+#EXTINF:-1 group-title="KINO+",viju+ Megahit HD
+http://185.46.16.239:8000/VIP_Megahit
+#EXTINF:-1 group-title="KINO+",viju+ Premiere HD
+http://185.46.16.239:8000/VIP_Premiere
+#EXTINF:-1 group-title="KINO+",Viju+ Megahit
+http://46.53.208.4/live/6002.m3u8?keytva.in.ua
+#EXTINF:-1 group-title="KINO+",Viju+ Premiere
+http://46.53.208.4/live/6001.m3u8?keytva.in.ua
+#EXTINF:-1 group-title="KINO+",Viju+ Comedy
+http://46.53.208.4/live/6003.m3u8?keytva.in.ua
+#EXTINF:-1 group-title="KINO+",Viju+ Serial
+http://46.53.208.4/live/6004.m3u8?keytva.in.ua
+#EXTINF:-1 group-title="KINO+",Viju TV1000
+http://46.53.208.4/live/5107.m3u8?keytva.in.ua
+#EXTINF:-1 group-title="KINO+",Viju TV1000 Action
+http://46.53.208.4/live/5106.m3u8?keytva.in.ua
+#EXTINF:-1 group-title="KINO+",viju TV1000 R Kino
+http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
+#EXTINF:-1 group-title="KINO+",viju TV1000
+http://45.145.32.13:20440/tv1000/index.m3u8?token=test
+#EXTINF:-1 group-title="KINO+",viju TV1000 action
+http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
+#EXTINF:-1 group-title="KINO+",viju TV1000
+http://178.134.1.158:8081/tv1000/index.m3u8?token=tva.in.ua
+#EXTINF:-1 group-title="KINO+",Viju TV1000
+http://176.96.241.40/TV1000/index.m3u8?token=tva.in.ua
+#EXTINF:-1 group-title="KINO+",Иллюзион+
+http://185.46.16.239:8000/Illyuzion+
+#EXTINF:-1 group-title="KINO+",illuzion plus
+http://158.101.222.193:88/georgia_play.php?id=illuzionplus
+#EXTINF:-1 group-title="KINO+",Иллюзион plus
+http://176.118.197.101/Illuzion+/index.m3u8
+#EXTINF:-1 group-title="KINO+",24 техно
+http://158.101.222.193:88/georgia_play.php?id=24techno
+#EXTINF:-1 group-title="KINO+",eurokino
+http://158.101.222.193:88/georgia_play.php?id=eurokino
+#EXTINF:-1 group-title="KINO+",Евро кино
+http://31.148.48.15/Evrokino/tracks-v1a1/mono.m3u8?token=iptv.org.ua
+#EXTINF:-1 group-title="KINO+",ЕВРОКИНО
+http://176.118.197.101/Evrokino/index.m3u8
+#EXTINF:-1 group-title="KINO+",Еврокино
+http://vod.tuva.ru/eurokino/index.m3u8
+#EXTINF:-1 group-title="KINO+",Kино TV
+http://vod.tuva.ru/kinotv/index.m3u8
+#EXTINF:-1 group-title="KINO+",Кино ТВ
+http://185.46.16.239:8000/Kino_TV
+#EXTINF:-1 group-title="KINO+",КИНОСАТ
+http://5.188.221.43:8080/play/kinosat
+#EXTINF:-1 group-title="KINO+",Kineko
+http://31.148.48.15/Kineko/index.m3u8?token=iptv.org.ua
+#EXTINF:-1 group-title="KINO+",VHS-KA
+http://46.53.208.4:80/live/1123.m3u8
+#EXTINF:-1 group-title="KINO+",START World
+http://46.53.208.4/live/9011.m3u8?keytva.in.ua
+#EXTINF:-1 group-title="KINO+",TV Синема
+http://46.53.208.4/live/3870.m3u8?keytva.in.ua
+#EXTINF:-1 group-title="KINO+",SUNSET 1 HD
+http://str-01.sunset-media.org/SunsetOne/index.m3u8
+#EXTINF:-1 group-title="KINO+",CINEMA
+http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+",Cinema SD
+http://catchup.videoline.ru/cinema/playlist.m3u8
+#EXTINF:-1 group-title="KINO+",Hollywood HD
+http://45.145.32.13:20440/hollywood_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="KINO+",Bollywood HD
+http://45.145.32.13:20440/bollywood_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="KINO+",Индия
+http://hls127.freeott.top:8080/Zee_Russia/video.m3u8
+#EXTINF:-1 group-title="KINO+",zeetv
+http://158.101.222.193:88/georgia_play.php?id=zeetv
+#EXTINF:-1 group-title="KINO+",TvBoom-ViP
+https://kb.catcast.tv/content/49702/index.m3u8
+#EXTINF:-1 group-title="KINO+",Bolt
+http://hls127.freeott.top:8080/Bolt/video.m3u8
+#EXTINF:-1 group-title="KINO+",Кино 1 International
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 group-title="KINO+",A1 720x576
+http://31.148.48.15/A1/index.m3u8
+#EXTINF:-1 group-title="KINO+",amedia1
+http://158.101.222.193:88/georgia_play.php?id=amedia
+#EXTINF:-1 group-title="KINO+",amedia2
+http://158.101.222.193:88/georgia_play.php?id=amedia2
+#EXTINF:-1 group-title="KINO+",Amedia Hit
+http://158.101.222.193:88/georgia_play.php?id=amediahit
+#EXTINF:-1 group-title="KINO+",Amedia Premium
+http://158.101.222.193:88/georgia_play.php?id=amediapremium
+#EXTINF:-1 group-title="KINO+",.sci-fi
+http://158.101.222.193:88/georgia_play.php?id=scifi
+#EXTINF:-1 group-title="KINO+",Black HD
+http://46.53.208.4/live/3001.m3u8?keytva.in.ua
+#EXTINF:-1 group-title="KINO+",black
+http://158.101.222.193:88/georgia_play.php?id=black
+#EXTINF:-1 group-title="KINO+",КИНОУЖАС
+http://158.101.222.193:88/georgia_play.php?id=kinoujas
+#EXTINF:-1 group-title="KINO+",НСТ
+http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
+#EXTINF:-1 group-title="KINO+",HCT r
+http://46.53.208.4/live/9011.m3u8?keytva.in.ua
+#EXTINF:-1 group-title="KINO+",НСТ SD
+http://vod.tuva.ru/nst/index.m3u8
+#EXTINF:-1 group-title="KINO+",TV-1 KG FHD Бишкек CITY
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+#EXTINF:-1 group-title="KINO+",Usba Кинозал 3
+https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+",Usba Кинозал 4
+https://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+",Usba Кинозал 6
+https://fl1001.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+",Usba Кинозал 7
+https://fl1001.bozztv.com/ushba-films-d/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+",Usba Кинозал 8
+https://fl1001.bozztv.com/ushba-films-e/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+",Usba Кинозал 9
+https://fl1001.bozztv.com/ushba-films-f/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+",Usba Кинозал 10
+https://fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+",Usba Кинозал 11
+https://fl1001.bozztv.com/ushba-films-h/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+",Usba Кинозал 12
+https://fl1001.bozztv.com/ushba-films-i/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+",Usba Кинозал 13
+https://fl1001.bozztv.com/ushba-films-j/index.m3u8
+#EXTINF:-1 group-title="KINO+",Usba Кинозал 14
+https://fl1001.bozztv.com/ushba-films-m/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+",Usba Кинозал 15
+https://fl1001.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+",Usba Кинозал 17
+https://fl1001.bozztv.com/ushba-films-yz/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+",Usba Кинозал 18
+https://fl1001.bozztv.com/ushba-films-n/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+",Usba Кинозал 19
+https://fl1001.bozztv.com/ushba-films-qr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+",Usba Кинозал 20
+https://fl1001.bozztv.com/ushba-films-uv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+",Usba Кинозал 21
+https://fl1001.bozztv.com/ushba-films-o/index.m3u8
+#EXTINF:-1 group-title="KINO+",Usba Кинозал 22
+https://fl1001.bozztv.com/ushba-films-s/index.m3u8
+#EXTINF:-1 group-title="KINO+",Usba Кинозал 23
+https://fl1001.bozztv.com/ushba-films-w/index.m3u8
+#EXTINF:-1 group-title="KINO+",Usba Кинозал 24
+https://fl1001.bozztv.com/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+",Usba Кинозал 25
+https://fl1001.bozztv.com/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+",Usba Кинозал 26
+https://fl1001.bozztv.com/ushba-rfilrms-b/index.m3u8
+#EXTINF:-1 group-title="KINO+",Usba Кинозал 27
+https://fl1001.bozztv.com/ushba-rfilrms-c/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+",Usba Кинозал 28
+https://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+",Usba Кинозал 29
+https://fl1001.bozztv.com/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+",Usba Кинозал 30
+https://fl1001.bozztv.com/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+",Usba Кинозал 31
+https://fl1001.bozztv.com/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+",Usba Кинозал 33
+https://fl1001.bozztv.com/ushba-rfilrms-p/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+",Usba Кинозал 34
+https://fl1001.bozztv.com/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+",Usba Кинозал 35
+https://fl1001.bozztv.com/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+",Usba Кинозал 36
+https://fl1001.bozztv.com/ushba64/index.m3u8
+#EXTINF:-1 group-title="KINO+",Usba Кинозал 37
+https://fl1001.bozztv.com/ushba65/index.m3u8
+#EXTINF:-1 group-title="KINO+",Наш Киномир
+http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8?token=tva.in.ua
+#EXTINF:-1 group-title="KINO+",К-ПОКАЗ
+https://stream.ushba.tv/akamaiushba/ushba-films-qr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+",nashanovoekino
+http://158.101.222.193:88/georgia_play.php?id=nashanovoekino
+#EXTINF:-1 group-title="KINO+",MirSeriala
+http://87.246.54.249:8080/MirSeriala/index.m3u8
+#EXTINF:-1 group-title="KINO+",фЕНИКС plus КИНО
+http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
+#EXTINF:-1 group-title="KINO+",СТС
+http://5.188.221.43:8080/play/sts
+#EXTINF:-1 group-title="KINO+",СТС 720x576
+http://31.131.141.195:8000/play/2030/index.m3u8
+#EXTINF:-1 group-title="KINO+",STS
+http://185.46.16.239:8000/STS
+#EXTINF:-1 group-title="KINO+",Домашний
+http://5.188.221.43:8080/play/domashniy
+#EXTINF:-1 group-title="KINO+",Домашний 720x576
+http://31.131.141.195:8000/play/a001/index.m3u8
+#EXTINF:-1 group-title="KINO+",Че
+http://176.118.197.101/Che/index.m3u8
+#EXTINF:-1 group-title="KINO+",Че!
+http://5.188.221.43:8080/play/che
+#EXTINF:-1 group-title="KINO+",ТV 3
+http://5.188.221.43:8080/play/tv3
+#EXTINF:-1 group-title="KINO+",ТV3
+http://176.118.197.101/TB3/index.m3u8
+#EXTINF:-1 group-title="KINO+",ТВ3
+http://31.131.141.195:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="KINO+",ТВ-3
+http://46.53.208.4/live/5127.m3u8?keytva.in.ua
+#EXTINF:-1 group-title="KINO+",Классика кино
+http://46.53.208.4/live/3006.m3u8?keytva.in.ua
+#EXTINF:-1 group-title="KINO+",Советское кино
+http://46.53.208.4/live/3018.m3u8?keytva.in.ua
+#EXTINF:-1 group-title="KINO+",РОМАН
+http://vod.tuva.ru/rusroman/index.m3u8
+#EXTINF:-1 group-title="KINO+",Иллюзион
+http://185.46.16.239:8000/Russkiy_Illyuzion
+#EXTINF:-1 group-title="KINO+",Пятница! International
+http://158.101.222.193:88/georgia_play.php?id=friday
+#EXTINF:-1 group-title="KINO+",Пятница
+http://5.188.221.43:8080/play/Pyatnica
+#EXTINF:-1 group-title="KINO+",Пятница 720x576
+http://31.131.141.195:8000/play/2060/index.m3u8
+#EXTINF:-1 group-title="KINO+",Золотая коллекция
+http://185.164.82.18:9010/ykMHqK_Fox
+#EXTINF:-1 group-title="KINO+",perec
+http://158.101.222.193:88/georgia_play.php?id=perec
+#EXTINF:-1 group-title="KINO+",Ретро sd
+http://176.118.197.101/Retro/index.m3u8
+#EXTINF:-1 group-title="KINO+",nostalgy
+http://158.101.222.193:88/georgia_play.php?id=nostalgy
+#EXTINF:-1 group-title="KINO+",Ностальгия
+http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
