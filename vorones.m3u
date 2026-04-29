@@ -1,24 +1,8 @@
 #EXTM3U
-#EXTINF:0 group-title="Общие" tvg-id="146" tvg-logo="http://epg.one/img/146.png" tvg-rec="0",Первый канал 
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/15323/index.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)",Россия 1 
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="711" tvg-logo="http://epg.one/img/711.png" tvg-rec="0",Россия 1 
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/15324/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="1003" tvg-logo="http://epg.one/img/1003.png" tvg-rec="0",Пятница! 
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/15325/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="427" tvg-logo="http://epg.one/img/427.png" tvg-rec="0",Пятый канал 
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/15326/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="18" tvg-logo="http://epg.one/img/18.png" tvg-rec="0",Рен ТВ 
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/15327/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="187" tvg-logo="http://epg.one/img/187.png" tvg-rec="0",Россия К 
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/15328/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="79" tvg-logo="http://epg.one/img/79.png" tvg-rec="0",СТС 
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/15330/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="698" tvg-logo="http://epg.one/img/698.png" tvg-rec="0",ТВ3 
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/15331/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="353" tvg-logo="http://epg.one/img/353.png" tvg-rec="0",ТНТ 
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/15332/index.m3u8
+#EXTINF:-1 ,Первый Канал
+http://195.26.83.96:7013/play/12/index.m3u8
+#EXTINF:-1 ,Россия 1
+http://195.26.83.96:7013/play/13/index.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)",Россия 1 
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1  tvg-id="rossia-24" ,Россия 24
