@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 ,Первый канал
 http://31.131.141.195:8000/play/1010/index.m3u8
-#EXTINF:-1 ,Россия 1
+#EXTINF:-1 ,Россия 
 http://31.131.141.195:8000/play/1020/index.m3u8
 #EXTINF:-1 ,Матч!
 http://31.131.141.195:8000/play/1030/index.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)",Россия 1 
+#EXTINF:-1 group-title="С сайтов (VPN)",Россия  
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1  tvg-id="rossia-24" ,Россия 24
 #EXTGRP:2.НОВОСТИ 👁‍🗨
