@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 #EXTINF:0 tvg-name=Первый_канал group-title="ТВ Вещание" tvg-logo="http://uiptv.do.am/img/logo/001.gif",Первый канал 
 http://178.163.31.224:4022/udp/234.0.0.200:2000
-#EXTINF:-1,Россия 1
+#EXTINF:-1,Россия 
 http://178.163.31.224:4022/udp/234.0.0.201:2000
 #EXTINF:-1,Россия 24 
 http://178.163.31.224:4022/udp/234.0.0.207:2000
