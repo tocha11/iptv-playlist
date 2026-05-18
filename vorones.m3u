@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общественные",Первый канал 
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 ,Первый Канал
+http://195.26.83.96:7013/play/12/index.m3u8
 #EXTINF:-1 ,Первый канал
 http://31.131.141.195:8000/play/1010/index.m3u8
 #EXTINF:-1 ,Россия 
