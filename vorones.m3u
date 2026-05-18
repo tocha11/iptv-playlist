@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Первый канал
+http://5.188.221.43:8080/play/ort
 #EXTINF:-1 ,Первый канал
 http://31.131.141.195:8000/play/1010/index.m3u8
 #EXTINF:-1 ,Россия 
