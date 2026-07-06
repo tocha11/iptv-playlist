@@ -22,12 +22,7 @@
 	<description><![CDATA[<center><font color="#a0a0a0" size="-1">iptv-Tolik</font><br><img src="http://monitor.zone-game.info/check.php?do=status&ip=178.163.38.73&port=34040&id=9"/><hr><h2>Tolik</font></center>]]></description>
 	<logo_30x30>https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/IPTV_NOW.png</logo_30x30>
 </channel>
-<channel>
-	<title><![CDATA[<font color="#00ccff">"Самара +1"</font>]]></title>
-	<playlist_url><![CDATA[https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/block.m3u]]></playlist_url>
-	<description><![CDATA[<center><font color="#a0a0a0" size="-1">iptv-Tolik</font><br><img src="http://monitor.zone-game.info/check.php?do=status&ip=178.163.25.246&port=4022&id=9"/><hr><h2>Tolik</font></center>]]></description>
-	<logo_30x30>https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/IPTV_NOW.png</logo_30x30>
-</channel>
+
 <channel>
 	<title><![CDATA[<font color="#00ccff">"Урал ТВ +2"</font>]]></title>
 	<playlist_url><![CDATA[https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/ural.m3u]]></playlist_url>
@@ -62,7 +57,7 @@
 
 <channel>
 	<title><![CDATA[Сборник]]></title>
-	<playlist_url><![CDATA[https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/moskua.m3u]]></playlist_url>
+	<playlist_url><![CDATA[https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/TV#group=27]]></playlist_url>
 	<description><![CDATA[<center><font color="#a0a0a0" size="-1">iptv-Tolik</font><br><img src="http://monitor.zone-game.info/check.php?do=status&ip=31.131.141.195&port=8000&id=9"/><hr><h2>Tolik</font></center>]]></description>
 	<logo_30x30>https://raw.githubusercontent.com/tocha11/iptv-playlist/refs/heads/main/IPTV_NOW.png</logo_30x30>
 </channel>
