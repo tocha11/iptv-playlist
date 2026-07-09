@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общественные",Первый канал 
-https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 ,Первый канал
-http://31.131.141.195:8000/play/1010/index.m3u8
-#EXTINF:-1 ,Россия 
-http://31.131.141.195:8000/play/1020/index.m3u8
+#EXTINF:-1 group-title="IZONE", Первый HD
+http://46.32.176.50/perviy/index.m3u8
+#EXTINF:-1 group-title="IZONE", Россия 1
+http://46.32.176.50/rossiya1/index.m3u8
+#EXTINF:-1 group-title="IZONE", Россия 1 HD
+http://46.32.176.50/RossiyaHD/index.m3u8
 #EXTINF:-1 ,Матч!
 http://31.131.141.195:8000/play/1030/index.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)",Россия  
