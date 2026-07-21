@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="IZONE", Первый HD
+#EXTINF:-1 group-title="IZONE", Первый канал
 http://46.32.176.50/perviy/index.m3u8
-#EXTINF:-1 group-title="IZONE", Россия 1
+#EXTINF:-1 group-title="IZONE", Россия 
 http://46.32.176.50/rossiya1/index.m3u8
-#EXTINF:-1 group-title="IZONE", Россия 1 HD
+#EXTINF:-1 group-title="IZONE", Россия 
 http://46.32.176.50/RossiyaHD/index.m3u8
 #EXTINF:-1 ,Матч!
 http://31.131.141.195:8000/play/1030/index.m3u8
