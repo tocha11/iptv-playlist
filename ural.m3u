@@ -45,16 +45,6 @@ http://83.217.8.171:9138/1001/live.m3u8
 http://83.217.8.171:9021/1001/live.m3u8
 #EXTINF:-1 group-title=\"Познавательный\" tvg-name=\"\",Cоловьев Live +2
 http://83.217.8.171:9173/1001/live.m3u8
-#EXTINF:-1 group-title=\"Познавательный\" tvg-name=\"<iptv>viasat-explore\",Viasat explore +2
-udp://239.1.1.186:1234
-#EXTINF:-1 group-title=\"Познавательный\" tvg-name=\"<iptv>viasat-history\",Viasat history +2
-udp://239.1.1.191:1234
-#EXTINF:-1 group-title=\"Познавательный\" tvg-name=\"<iptv>terra-ru\",Terra +2
-udp://239.1.1.213:1234
-#EXTINF:-1 group-title=\"Познавательный\" tvg-name=\"<iptv>v-mire-zhivotnyx-hd\",В Мире животных HD +2
-http://83.217.12.202:8888/udp/239.72.6.149:1234
-#EXTINF:-1 group-title=\"Познавательный\" tvg-name=\"\",Первый космический +2
-udp://239.1.1.134:5134
 #EXTINF:-1 group-title=\"Детям\" tvg-name=\"<iptv>detsky-mir\",Детский Мир +2
 http://83.217.8.171:9052/1001/live.m3u8
 #EXTINF:-1 group-title=\"Детям\" tvg-name=\"<iptv>detsky\",Уникум +2
@@ -67,45 +57,23 @@ http://83.217.8.171:9055/1001/live.m3u8
 http://83.217.8.171:9057/1001/live.m3u8
 #EXTINF:-1 group-title=\"Детям\" tvg-name=\"<iptv>ani\",Ani ТВ +2
 http://83.217.8.171:9051/1001/live.m3u8
-#EXTINF:-1 group-title=\"Детям\" tvg-name=\"955\",Da Vinci Kids +2
-udp://239.1.1.63:5063
-#EXTINF:-1 group-title=\"Детям\" tvg-name=\"<iptv>ducktv\",DuckTv +2
-http://83.217.12.202:8888/udp/239.72.6.226:1234
-#EXTINF:-1 group-title=\"Детям\" tvg-name=\"<iptv>solnce\",Солнце +2
-http://83.217.12.202:8888/udp/239.72.6.187:1234
-#EXTINF:-1 group-title=\"Детям\" tvg-name=\"<iptv>kluch\",Ключ +2
-http://83.217.12.202:8888/udp/239.72.6.190:1234
 #EXTINF:-1 group-title=\"Детям\" tvg-name=\"<iptv>baby-time\",BabyTime +2
 http://83.217.8.171:9143/1001/live.m3u8
-#EXTINF:-1 group-title=\"Детям\" tvg-name=\"2006\",Рыжий +2
-http://83.217.12.202:8888/udp/239.72.4.177:1234
 #EXTINF:-1 group-title=\"Детям\" tvg-name=\"<iptv>o_\",О!
 http://83.217.8.171:9140/1001/live.m3u8
-#EXTINF:-1 group-title=\"Детям\" tvg-name=\"<iptv>mm-supergeroi\",СуперГерои
-http://83.217.12.202:8888/udp/239.72.4.90:1234
-#EXTINF:-1 group-title=\"Детям\" tvg-name=\"5476\",Солнце+
+#EXTINF:-1 group-title=\"Детям\" tvg-name=\"5476\",Солнце
 http://83.217.8.171:9060/1001/live.m3u8
-#EXTINF:-1 group-title=\"Детям\" tvg-name=\"<iptv>multimuzyka\",Мультимузыка
-udp://239.1.1.59:5059
 #EXTINF:-1 group-title=\"Детям\" tvg-name=\"2011\",Капитан фантастика
 http://83.217.8.171:9078/1001/live.m3u8
 #EXTINF:-1 group-title=\"Детям\" tvg-name=\"<iptv>2na2\",2x2
 http://83.217.8.171:9111/1001/live.m3u8
 #EXTINF:-1 group-title=\"Детям\" tvg-name=\"<iptv>sts-kids-hd\",СТС Kids
 http://83.217.8.171:9088/1001/live.m3u8
-#EXTINF:-1 group-title=\"Спорт\" tvg-name=\"<iptv>football-ru\",Футбол
-udp://239.1.1.70:1234
-#EXTINF:-1 group-title=\"Спорт\" tvg-name=\"<iptv>kxl-hd\",КХЛ HD
-udp://239.1.1.153:1234
-#EXTINF:-1 group-title=\"Спорт\" tvg-name=\"100088\",Хокейный
-http://83.217.12.202:8888/udp/239.72.4.241:1234
-#EXTINF:-1 group-title=\"Спорт\" tvg-name=\"<iptv>match-igra\",МАТЧ! Игра
+#EXTINF:-1 group-title=\"Спорт\" tvg-name=\"<iptv>match-igra\",Матч! Игра
 http://83.217.8.171:9024/1001/live.m3u8
-#EXTINF:-1 group-title=\"Спорт\" tvg-name=\"<iptv>match-tv\",Матч ТВ HD
-udp://239.1.1.73:1234
-#EXTINF:-1 group-title=\"Спорт\" tvg-name=\"<iptv>match-arena\",Матч арена HD
+#EXTINF:-1 group-title=\"Спорт\" tvg-name=\"<iptv>match-arena\",Матч арена 
 http://83.217.8.171:9071/1001/live.m3u8
-#EXTINF:-1 group-title=\"Спорт\" tvg-name=\"<iptv>match-boets\",МАТЧ! Боец
+#EXTINF:-1 group-title=\"Спорт\" tvg-name=\"<iptv>match-boets\",Матч! Боец
 http://83.217.8.171:9072/1001/live.m3u8
 #EXTINF:-1 group-title=\"Спорт\" tvg-name=\"2470\",Матч! Страна
 http://83.217.8.171:9086/1001/live.m3u8
@@ -113,28 +81,20 @@ http://83.217.8.171:9086/1001/live.m3u8
 http://83.217.8.171:9074/1001/live.m3u8
 #EXTINF:-1 group-title=\"Спорт\" tvg-name=\"<iptv>viasat-sport\",Viasat Sport
 http://10.0.9.111:9999/udp/239.72.6.67:1234
-#EXTINF:-1 group-title=\"Кино\" tvg-name=\"<iptv>tv1000\",TV1000
+#EXTINF:-1 group-title=\"Кино\" tvg-name=\"<iptv>tv1000\",viju TV1000
 http://83.217.8.171:9202/1001/live.m3u8
-#EXTINF:-1 group-title=\"Кино\" tvg-name=\"<iptv>tv1000-russkoe-kino\",TV1000 Русское кино
+#EXTINF:-1 group-title=\"Кино\" tvg-name=\"<iptv>tv1000-russkoe-kino\",viju TV1000 Русское
 http://83.217.8.171:9106/1001/live.m3u8
-#EXTINF:-1 group-title=\"Кино\" tvg-name=\"<iptv>tv1000-action\",TV1000 Action
+#EXTINF:-1 group-title=\"Кино\" tvg-name=\"<iptv>tv1000-action\",viju TV1000 Action
 http://83.217.8.171:9198/1001/live.m3u8
-#EXTINF:-1 group-title=\"Кино\" tvg-name=\"2930\",КИНОПОКАЗ
-udp://239.1.1.35:5035
-#EXTINF:-1 group-title=\"Кино\" tvg-name=\"<iptv>hit-tv\",ХИТ
-udp://239.1.1.56:5056
 #EXTINF:-1 group-title=\"Кино\" tvg-name=\"3161\",Золотая Коллекция
 http://83.217.8.171:9216/1245/live.m3u8
-#EXTINF:-1 group-title=\"Кино\" tvg-name=\"<iptv>kino-tv\",Кино ТВ
+#EXTINF:-1 group-title=\"Кино\" tvg-name=\"<iptv>kino-tv\",КиноТВ
 http://83.217.8.171:9333/1001/live.m3u8
 #EXTINF:-1 group-title=\"Кино\" tvg-name=\"<iptv>kinosvidanie\",Киносвидание
 http://83.217.8.171:9190/1001/live.m3u8
 #EXTINF:-1 group-title=\"Кино\" tvg-name=\"<iptv>kinopremiera-hd\",Кинопремьера HD
 http://83.217.8.171:9190/1001/live.m3u8
-#EXTINF:-1 group-title=\"Кино\" tvg-name=\"3178\",Кино Джем 2
-udp://239.1.1.136:5136
-#EXTINF:-1 group-title=\"Кино\" tvg-name=\"3177\",Кино Джем 1
-udp://239.1.1.145:5145
 #EXTINF:-1 group-title=\"Кино\" tvg-name=\"<iptv>plan-b\",plan_B
 http://83.217.8.171:9092/1001/live.m3u8
 #EXTINF:-1 group-title=\"Кино\" tvg-name=\"<iptv>kinomiks\",Киномикс
@@ -149,8 +109,6 @@ http://83.217.8.171:9189/1001/live.m3u8
 http://83.217.8.171:9093/1001/live.m3u8
 #EXTINF:-1 group-title=\"Кино\" tvg-name=\"<iptv>kinoseria\",КИНОСЕРИЯ
 http://83.217.8.171:9081/1001/live.m3u8
-#EXTINF:-1 group-title=\"Кино\" tvg-name=\"<iptv>kamedi\",Камеди
-udp://239.1.1.165:5165
 #EXTINF:-1 group-title=\"Кино\" tvg-name=\"<iptv>kinokomedia\",Кинокомедия
 http://83.217.8.171:9079/1001/live.m3u8
 #EXTINF:-1 group-title=\"Кино\" tvg-name=\"<iptv>cinema-ru\",Cinema
