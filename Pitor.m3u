@@ -1,4 +1,51 @@
 #EXTM3U
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", Первый канал 
+http://95.47.155.244:8001/play/a001
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", Россия 1
+http://95.47.155.244:8001/play/a002
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", Россия К
+http://95.47.155.244:8001/play/a006
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", Россия 24
+http://95.47.155.244:8001/play/a007
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", ТНТ
+http://95.47.155.244:8001/play/a019
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", РЕН ТВ
+http://95.47.155.244:8001/play/a011
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", НТВ
+http://95.47.155.244:8001/play/a004
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", ПЯТЫЙ КАНАЛ
+http://95.47.155.244:8001/play/a005
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", ОТР
+http://95.47.155.244:8001/play/a009
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", ТВЦ
+http://95.47.155.244:8001/play/a010
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", Спас
+http://95.47.155.244:8001/play/a012
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", СТС
+http://95.47.155.244:8001/play/a013
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", Домашний
+http://95.47.155.244:8001/play/a014
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", ТВ3
+http://95.47.155.244:8001/play/a015
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", Пятница
+http://95.47.155.244:8001/play/a016
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)" ,Звезда
+http://95.47.155.244:8001/play/a017
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", МИР
+http://95.47.155.244:8001/play/a018
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", Сибирь 24
+http://95.47.155.244:8001/play/a021
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", РТС - Абакан
+http://95.47.155.244:8001/play/a022
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)",7 ТВ HD
+http://95.47.155.244:8001/play/a023
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", КАРУСЕЛЬ
+http://95.47.155.244:8001/play/a008
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", МузТВ
+http://95.47.155.244:8001/play/a020
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", МАТЧ
+http://95.47.155.244:8001/play/a003
+
 #EXTINF:-1 group-title="Turon Media (VPN)",Первый канал HD
 https://stream3.cinerama.uz/1214/mono.m3u8
 #EXTINF:-1 group-title="Turon Media (VPN)",Первый канал
