@@ -107,29 +107,29 @@ http://83.217.8.171:9105/1001/live.m3u8
 http://83.217.8.171:9189/1001/live.m3u8
 #EXTINF:-1 group-title=\"Кино\" tvg-name=\"<iptv>nashe-novoe-kino\",Наше новое кино
 http://83.217.8.171:9093/1001/live.m3u8
-#EXTINF:-1 group-title=\"Кино\" tvg-name=\"<iptv>kinoseria\",КИНОСЕРИЯ
+#EXTINF:-1 group-title=\"Кино\" tvg-name=\"<iptv>kinoseria\",Киносерия
 http://83.217.8.171:9081/1001/live.m3u8
 #EXTINF:-1 group-title=\"Кино\" tvg-name=\"<iptv>kinokomedia\",Кинокомедия
 http://83.217.8.171:9079/1001/live.m3u8
 #EXTINF:-1 group-title=\"Кино\" tvg-name=\"<iptv>cinema-ru\",Cinema
 http://83.217.8.171:9097/1001/live.m3u8
-#EXTINF:-1 group-title=\"Кино\" tvg-name=\"<iptv>feniks-plus-kino\",Феникс плюс кино
+#EXTINF:-1 group-title=\"Кино\" tvg-name=\"<iptv>feniks-plus-kino\",Феникс 
 http://83.217.8.171:9103/1001/live.m3u8
 #EXTINF:-1 group-title=\"Кино\" tvg-name=\"3360\",Любимое кино
 http://83.217.8.171:9099/1001/live.m3u8
-#EXTINF:-1 group-title=\"Кино\" tvg-name=\"<iptv>mm-komedia\",Комедия
+#EXTINF:-1 group-title=\"Кино\" tvg-name=\"<iptv>mm-komedia\",Кинокомедия
 http://83.217.8.171:9087/1001/live.m3u8
 #EXTINF:-1 group-title=\"Кино\" tvg-name=\"<iptv>domkino\",Дом кино
 http://83.217.8.171:9091/1001/live.m3u8
-#EXTINF:-1 group-title=\"Кино\" tvg-name=\"<iptv>domkino-premium\",Дом Кино Премиум HD
+#EXTINF:-1 group-title=\"Кино\" tvg-name=\"<iptv>domkino-premium\",Дом Кино 
 http://83.217.8.171:9090/1001/live.m3u8
-#EXTINF:-1 group-title=\"Кино\" tvg-name=\"<iptv>star-cinema\",StarCinema
+#EXTINF:-1 group-title=\"Кино\" tvg-name=\"<iptv>star-cinema\",Star Cinema
 http://83.217.8.171:9067/1001/live.m3u8
 #EXTINF:-1 group-title=\"Кино\" tvg-name=\"<iptv>fanhd\",FAN HD
 http://83.217.8.171:9155/1001/live.m3u8
 #EXTINF:-1 group-title=\"Кино\" tvg-name=\"evrokino\",Еврокино
 http://83.217.8.171:9187/1001/live.m3u8
-#EXTINF:-1 group-title=\"Кино\" tvg-name=\"5740\",Суббота!
+#EXTINF:-1 group-title=\"Кино\" tvg-name=\"5740\",Суббота
 http://83.217.8.171:9210/1001/live.m3u8
 #EXTINF:-1 group-title=\"Познавательный\" tvg-name=\"<iptv>hd-life\",HD Life
 http://83.217.12.202:8888/udp/239.72.6.83:1234
