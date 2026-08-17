@@ -3,7 +3,7 @@
 http://83.217.8.171:9001/1001/live.m3u8
 #EXTINF:-1 group-title=\"Эфирный\" tvg-name=\"2\",Россия 1 +2
 http://83.217.8.171:9002/1001/live.m3u8
-#EXTINF:-1 group-title=\"Эфирный\" tvg-name=\"<iptv>match-tv\",Матч ТВ 
+#EXTINF:-1 group-title=\"Эфирный\" tvg-name=\"<iptv>match-tv\",Матч!ТВ 
 http://83.217.8.171:9003/1001/live.m3u8
 #EXTINF:-1 group-title=\"Эфирный\" tvg-name=\"24\",НТВ +2
 http://83.217.8.171:9004/1001/live.m3u8
@@ -37,15 +37,15 @@ http://83.217.8.171:9017/1001/live.m3u8
 http://83.217.8.171:9018/1001/live.m3u8
 #EXTINF:-1 group-title=\"Эфирный\" tvg-name=\"101\",ТНТ +2
 http://83.217.8.171:9019/1001/live.m3u8
-#EXTINF:-1 group-title=\"Эфирный\" tvg-name=\"<iptv>muztv-pl2\",Муз ТВ 
+#EXTINF:-1 group-title=\"Эфирный\" tvg-name=\"<iptv>muztv-pl2\",Муз 
 http://83.217.8.171:9020/1001/live.m3u8
-#EXTINF:-1 group-title=\"Региональные\" tvg-name=\"410\",4 Канал 
+#EXTINF:-1 group-title=\"Региональные\" tvg-name=\"410\",4 канал 
 http://83.217.8.171:9138/1001/live.m3u8
 #EXTINF:-1 group-title=\"Региональные\" tvg-name=\"4480\",ОТВ 
 http://83.217.8.171:9021/1001/live.m3u8
-#EXTINF:-1 group-title=\"Познавательный\" tvg-name=\"\",Cоловьев Live 
+#EXTINF:-1 group-title=\"Познавательный\" tvg-name=\"\",Cоловьев live 
 http://83.217.8.171:9173/1001/live.m3u8
-#EXTINF:-1 group-title=\"Детям\" tvg-name=\"<iptv>detsky-mir\",Детский Мир 
+#EXTINF:-1 group-title=\"Детям\" tvg-name=\"<iptv>detsky-mir\",Детский мир 
 http://83.217.8.171:9052/1001/live.m3u8
 #EXTINF:-1 group-title=\"Детям\" tvg-name=\"<iptv>detsky\",Уникум 
 http://83.217.8.171:9053/1001/live.m3u8
