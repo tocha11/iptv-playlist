@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", Первый канал 
 http://95.47.155.244:8001/play/a001
-#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", Россия 1
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", Россия 
 http://95.47.155.244:8001/play/a002
 #EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", Россия К
 http://95.47.155.244:8001/play/a006
@@ -17,7 +17,7 @@ http://95.47.155.244:8001/play/a004
 http://95.47.155.244:8001/play/a005
 #EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", ОТР
 http://95.47.155.244:8001/play/a009
-#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", ТВЦ
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", ТВ Центр
 http://95.47.155.244:8001/play/a010
 #EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", Спас
 http://95.47.155.244:8001/play/a012
@@ -31,7 +31,7 @@ http://95.47.155.244:8001/play/a015
 http://95.47.155.244:8001/play/a016
 #EXTINF:-1 group-title="Виктория (VPN 🇷🇺)" ,Звезда
 http://95.47.155.244:8001/play/a017
-#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", МИР
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", Мир
 http://95.47.155.244:8001/play/a018
 #EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", Сибирь 24
 http://95.47.155.244:8001/play/a021
