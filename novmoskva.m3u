@@ -1,362 +1,5 @@
 #EXTM3U
 #EXTINF:-1 ,Первый канал
-http://185.229.235.30:8005/udp/225.15.3.160:2345
-#EXTINF:-1 ,Россия 
-http://185.229.235.30:8005/udp/225.15.3.198:2345
-#EXTINF:-1 ,Россия 24
-http://185.229.235.30:8005/udp/225.15.3.199:2345
-#EXTINF:-1 ,НТВ
-http://185.229.235.30:8005/udp/225.15.3.152:2345
-#EXTINF:-1 ,Звезда
-http://185.229.235.30:8005/udp/225.15.3.109:2345
-#EXTINF:-1 ,РБК
-http://185.229.235.30:8005/udp/225.15.3.196:2345
-#EXTINF:-1 ,Рен ТВ
-http://185.229.235.30:8005/udp/225.15.3.197:2345
-#EXTINF:-1 ,СТС
-http://185.229.235.30:8005/udp/225.15.3.214:2345
-#EXTINF:-1 ,ТНТ
-http://185.229.235.30:8005/udp/225.15.3.222:2345
-#EXTINF:-1 ,Мульт
-http://185.229.235.30:8005/udp/225.15.3.144:2345
-#EXTINF:-1 ,Русский Детектив
-http://185.229.235.30:8005/udp/225.15.3.205:2345
-#EXTINF:-1 ,КиноТВ 
-http://185.229.235.30:8005/udp/225.15.4.28:2345
-#EXTINF:-1 ,Новороссия ТВ 
-http://185.229.235.30:8005/udp/225.15.3.149:2345
-#EXTINF:-1 ,1 Республиканский 
-http://185.229.235.30:8005/udp/225.15.3.237:2345
-#EXTINF:-1 ,Оплот ТВ 
-http://185.229.235.30:8005/udp/225.15.4.40:2345
-#EXTINF:-1 ,Футбол 1
-http://185.229.235.30:8005/udp/225.15.3.130:2345
-#EXTINF:-1 ,365
-http://185.229.235.30:8005/udp/225.15.3.224:2345
-
-
-#EXTINF:-1 group-title="КИНО",.black
-http://158.101.222.193:88/georgia_play.php?id=black
-#EXTINF:-1 group-title="КИНО",.Black
-http://158.101.222.193:88/georgia_play.php?id=black
-#EXTINF:-1 group-title="КИНО",.RED FHD
-http://158.101.222.193:88/georgia_play.php?id=red
-#EXTINF:-1 group-title="КИНО",Иллюзион + HD
-http://158.101.222.193:88/georgia_play.php?id=illuzionplus
-#EXTINF:-1 group-title="КИНО",Индия
-http://158.101.222.193:88/georgia_play.php?id=zeetv
-#EXTINF:-1 group-title="КИНО",Индия
-http://158.101.222.193:88/georgia_play.php?id=zeetv
-#EXTINF:-1 group-title="КИНО",Кинокомедия
-http://158.101.222.193:88/georgia_play.php?id=kinokomediya
-#EXTINF:-1 group-title="КИНО",Кинокомедия
-http://158.101.222.193:88/georgia_play.php?id=kinokomediya
-#EXTINF:-1 group-title="КИНО",Киномикс
-http://158.101.222.193:88/georgia_play.php?id=kinomiks
-#EXTINF:-1 group-title="КИНО",Киномикс
-http://158.101.222.193:88/georgia_play.php?id=kinomiks
-#EXTINF:-1 group-title="КИНО",Киносвидание [R]
-http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
-#EXTINF:-1 group-title="КИНО",Киносемья
-http://158.101.222.193:88/georgia_play.php?id=kinosemya
-#EXTINF:-1 group-title="КИНО",Киносемья
-http://158.101.222.193:88/georgia_play.php?id=kinosemya
-#EXTINF:-1 group-title="КИНО",Киносерия
-http://158.101.222.193:88/georgia_play.php?id=kinoseria
-#EXTINF:-1 group-title="КИНО",Киносерия
-http://158.101.222.193:88/georgia_play.php?id=kinoseria
-#EXTINF:-1 group-title="КИНО",Киноужас
-http://158.101.222.193:88/georgia_play.php?id=kinoujas
-#EXTINF:-1 group-title="КИНО",Киноужас
-http://158.101.222.193:88/georgia_play.php?id=kinoujas
-#EXTINF:-1 group-title="КИНО",Кинохит
-http://158.101.222.193:88/georgia_play.php?id=kinohit
-#EXTINF:-1 group-title="КИНО",Кинохит
-http://158.101.222.193:88/georgia_play.php?id=kinohit
-#EXTINF:-1 group-title="КИНО",Мужское кино
-http://158.101.222.193:88/georgia_play.php?id=interesnoetv
-#EXTINF:-1 group-title="КИНО",Мужское кино
-http://158.101.222.193:88/georgia_play.php?id=interesnoetv
-#EXTINF:-1 group-title="КИНО",Ностальгия
-http://158.101.222.193:88/georgia_play.php?id=nostalgy
-#EXTINF:-1 group-title="КИНО",Феникс Плюс Кино
-http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
-#EXTINF:-1 group-title="КИНО",Amedia 1
-http://158.101.222.193:88/georgia_play.php?id=amedia
-#EXTINF:-1 group-title="КИНО",Amedia 1
-http://158.101.222.193:88/georgia_play.php?id=amedia
-#EXTINF:-1 group-title="КИНО",Amedia 2
-http://158.101.222.193:88/georgia_play.php?id=amedia2
-#EXTINF:-1 group-title="КИНО",Amedia 2
-http://158.101.222.193:88/georgia_play.php?id=amedia2
-#EXTINF:-1 group-title="КИНО",Amedia Hit
-http://158.101.222.193:88/georgia_play.php?id=amediahit
-#EXTINF:-1 group-title="КИНО",viju TV1000 русское
-http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
-#EXTINF:-1 group-title="КИНО",viju TV1000 русское
-http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
-#EXTINF:-1 group-title="МУЗЫКА",М1
-http://158.101.222.193:88/georgia_play.php?id=m1
-#EXTINF:-1 group-title="МУЗЫКА",М2
-http://158.101.222.193:88/georgia_play.php?id=m2
-#EXTINF:-1 group-title="МУЗЫКА",M-1 HD
-http://158.101.222.193:88/georgia_play.php?id=m1
-#EXTINF:-1 group-title="МУЗЫКА",Mezzo
-http://158.101.222.193:88/georgia_play.php?id=mezzo
-#EXTINF:-1 group-title="РАЗВЛЕЧЕНИЕ",365 дней
-http://158.101.222.193:88/georgia_play.php?id=365day
-#EXTINF:-1 group-title="РАЗВЛЕЧЕНИЕ",365 дней
-http://158.101.222.193:88/georgia_play.php?id=365day
-#EXTINF:-1 group-title="РАЗВЛЕЧЕНИЕ",Авто Плюс
-http://158.101.222.193:88/georgia_play.php?id=autoplus
-#EXTINF:-1 group-title="РАЗВЛЕЧЕНИЕ",Авто Плюс
-http://158.101.222.193:88/georgia_play.php?id=autoplus
-#EXTINF:-1 group-title="РАЗВЛЕЧЕНИЕ",Детский мир
-http://158.101.222.193:88/georgia_play.php?id=detskymir
-#EXTINF:-1 group-title="РАЗВЛЕЧЕНИЕ",Детский мир
-http://158.101.222.193:88/georgia_play.php?id=detskymir
-#EXTINF:-1 group-title="РАЗВЛЕЧЕНИЕ",Живи!
-http://158.101.222.193:88/georgia_play.php?id=jivi
-#EXTINF:-1 group-title="РАЗВЛЕЧЕНИЕ",Живи!
-http://158.101.222.193:88/georgia_play.php?id=jivi
-#EXTINF:-1 group-title="РАЗВЛЕЧЕНИЕ",КВН ТВ
-http://158.101.222.193:88/georgia_play.php?id=kvntv
-#EXTINF:-1 group-title="РАЗВЛЕЧЕНИЕ",КВН ТВ
-http://158.101.222.193:88/georgia_play.php?id=kvntv
-#EXTINF:-1 group-title="РАЗВЛЕЧЕНИЕ",Кто есть кто
-http://158.101.222.193:88/georgia_play.php?id=ktoestkto
-#EXTINF:-1 group-title="РАЗВЛЕЧЕНИЕ",Кто есть кто
-http://158.101.222.193:88/georgia_play.php?id=ktoestkto
-#EXTINF:-1 group-title="РАЗВЛЕЧЕНИЕ",Мужской
-http://158.101.222.193:88/georgia_play.php?id=muzhskoy
-#EXTINF:-1 group-title="РАЗВЛЕЧЕНИЕ",Мужской
-http://158.101.222.193:88/georgia_play.php?id=muzhskoy
-#EXTINF:-1 group-title="РАЗВЛЕЧЕНИЕ",Оружие
-http://158.101.222.193:88/georgia_play.php?id=oruzhie
-#EXTINF:-1 group-title="РАЗВЛЕЧЕНИЕ",Оружие
-http://158.101.222.193:88/georgia_play.php?id=oruzhie
-#EXTINF:-1 group-title="РАЗВЛЕЧЕНИЕ",Перец Int.
-http://158.101.222.193:88/georgia_play.php?id=perec
-#EXTINF:-1 group-title="РАЗВЛЕЧЕНИЕ",Перец Int.
-http://158.101.222.193:88/georgia_play.php?id=perec
-#EXTINF:-1 group-title="РАЗВЛЕЧЕНИЕ",Пятница! Int.
-http://158.101.222.193:88/georgia_play.php?id=friday
-#EXTINF:-1 group-title="РАЗВЛЕЧЕНИЕ",Пятница! Int.
-http://158.101.222.193:88/georgia_play.php?id=friday
-#EXTINF:-1 group-title="РАЗВЛЕЧЕНИЕ",СТС Int.
-http://158.101.222.193:88/georgia_play.php?id=ctctv
-#EXTINF:-1 group-title="РАЗВЛЕЧЕНИЕ",Т24
-http://158.101.222.193:88/georgia_play.php?id=24techno
-#EXTINF:-1 group-title="РАЗВЛЕЧЕНИЕ",Т24
-http://158.101.222.193:88/georgia_play.php?id=24techno
-#EXTINF:-1 group-title="РАЗВЛЕЧЕНИЕ",Уникум
-http://158.101.222.193:88/georgia_play.php?id=unikum
-#EXTINF:-1 group-title="РАЗВЛЕЧЕНИЕ",Уникум
-http://158.101.222.193:88/georgia_play.php?id=unikum
-#EXTINF:-1 group-title="РАЗВЛЕЧЕНИЕ",Da Vinci
-http://158.101.222.193:88/georgia_play.php?id=davinci
-#EXTINF:-1 group-title="РАЗВЛЕЧЕНИЕ",Da Vinci
-http://158.101.222.193:88/georgia_play.php?id=davinci
-#EXTINF:-1 group-title="РАЗВЛЕЧЕНИЕ",Viasat History
-http://158.101.222.193:88/georgia_play.php?id=viasathist
-#EXTINF:-1 group-title="РАЗВЛЕЧЕНИЕ",viju Explore
-http://158.101.222.193:88/georgia_play.php?id=viasatexp
-#EXTINF:-1 group-title="РАЗВЛЕЧЕНИЕ",viju Explore
-http://158.101.222.193:88/georgia_play.php?id=viasatexp
-#EXTINF:-1 group-title="РАЗВЛЕЧЕНИЕ",viju History
-http://158.101.222.193:88/georgia_play.php?id=viasathist
-#EXTINF:-1 group-title="РАЗВЛЕЧЕНИЕ",viju Nature
-http://158.101.222.193:88/georgia_play.php?id=viasatnat
-#EXTINF:-1 group-title="РАЗВЛЕЧЕНИЕ",viju Nature
-http://158.101.222.193:88/georgia_play.php?id=viasatnat
-#EXTINF:-1 group-title="СПОРТ",Бокс ТВ
-http://158.101.222.193:88/georgia_play.php?id=boxtv
-#EXTINF:-1 group-title="СПОРТ",Матч! Планета
-http://158.101.222.193:88/georgia_play.php?id=matchplaneta
-#EXTINF:-1 group-title="СПОРТ",Матч! Планета
-http://158.101.222.193:88/georgia_play.php?id=matchplaneta
-
-
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Рен ТВ International
-https://s70378.cdn.ngenix.net/ren_tv/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",НТВ Право
-https://s70378.cdn.ngenix.net/ntv_pravo/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",НТВ Сериал
-https://s70378.cdn.ngenix.net/ntv_serial/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",National geographic
-https://s70378.cdn.ngenix.net/national_geographic/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Terra
-https://s70378.cdn.ngenix.net/terra/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Ocean TV
-https://s70378.cdn.ngenix.net/ocean_tv/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Точка РФ
-https://s70378.cdn.ngenix.net/hd_life/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",History
-https://s70378.cdn.ngenix.net/history/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",H2
-https://s70378.cdn.ngenix.net/history_2/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Дикий
-https://s70378.cdn.ngenix.net/dikiy/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",RTG HD
-https://s70378.cdn.ngenix.net/rtg_hd/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",DocuBox
-https://s70378.cdn.ngenix.net/docubox/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Galaxy TV
-https://s70378.cdn.ngenix.net/galaxy/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Глазами туриста
-https://s70378.cdn.ngenix.net/glazami_turista/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Travel+Adventure
-https://s70378.cdn.ngenix.net/travel_and_adventure/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",The explorers
-https://s70378.cdn.ngenix.net/the_explorers/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Viasat Explore
-https://s70378.cdn.ngenix.net/viasat_explore/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Viasat History
-https://s70378.cdn.ngenix.net/viasat_history/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Viasat Nature
-https://s70378.cdn.ngenix.net/viasat_nature/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",365 дней
-https://s70378.cdn.ngenix.net/365_dney_tv/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Hollywood HD
-https://s70378.cdn.ngenix.net/amc/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Amedia 1
-https://s70378.cdn.ngenix.net/amedia_1/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Amedia 2
-https://s70378.cdn.ngenix.net/amedia_2/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Amedia Hit
-https://s70378.cdn.ngenix.net/amedia_hit/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Amedia Premium HD
-https://s70378.cdn.ngenix.net/amedia_premium_hd/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Bloomberg
-https://s70378.cdn.ngenix.net/bloomberg/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Shoghakat
-https://s70378.cdn.ngenix.net/shoghakat/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",.sci-fi
-https://s70378.cdn.ngenix.net/sony_sci_fi/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",.Black
-https://s70378.cdn.ngenix.net/sony_turbo/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Телекафе
-https://s70378.cdn.ngenix.net/telecafe/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Индийское кино
-https://s70378.cdn.ngenix.net/india_tv/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Индия
-https://s70378.cdn.ngenix.net/zee_tv/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Наше новое кино
-https://s70378.cdn.ngenix.net/nashe_novoe_kino/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Киноужас
-https://s70378.cdn.ngenix.net/kinouzhas/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Киносерия
-https://s70378.cdn.ngenix.net/mnogo_tv/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Киносвидание
-https://s70378.cdn.ngenix.net/kinoklub/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Дом Кино Премиум
-https://s70378.cdn.ngenix.net/dom_kino_premium_hd/3/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",ТВ3
-https://s70378.cdn.ngenix.net/tv_3/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",TV XXI
-https://s70378.cdn.ngenix.net/tv_xxi/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",VIP Comedy
-https://s70378.cdn.ngenix.net/vip_comedy/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",VIP Megahit
-https://s70378.cdn.ngenix.net/vip_megahit/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",VIP Premiere
-https://s70378.cdn.ngenix.net/vip_premiere/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",VIP Serial
-https://s70378.cdn.ngenix.net/vip_serial/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Время
-https://s70378.cdn.ngenix.net/vremia/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Дом Кино
-https://s70378.cdn.ngenix.net/dom_kino/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Euronews
-https://s70378.cdn.ngenix.net/euronews/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Еврокино
-https://s70378.cdn.ngenix.net/evrokino/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Мир сериала
-https://s70378.cdn.ngenix.net/mir_seriala/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",FashionBox
-https://s70378.cdn.ngenix.net/fashion_box/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Filmbox
-https://s70378.cdn.ngenix.net/filmbox/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Filmbox Arthouse
-https://s70378.cdn.ngenix.net/filmbox_arthouse/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Flixsnip
-https://s70378.cdn.ngenix.net/flixsnip/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Fox life
-https://s70378.cdn.ngenix.net/fox_life/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Иллюзион+
-https://s70378.cdn.ngenix.net/illusion_plus/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Зоопарк
-https://s70378.cdn.ngenix.net/zoopark/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Armenia 1
-https://s70378.cdn.ngenix.net/h1/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Armenia 2
-https://s70378.cdn.ngenix.net/h2/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Известия
-https://s70378.cdn.ngenix.net/izvestiya/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Живи
-https://s70378.cdn.ngenix.net/jivi/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",ATV Kinoman HD AM
-https://s70378.cdn.ngenix.net/kinoman/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",КВН ТВ
-https://s70378.cdn.ngenix.net/kvn_tv/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Мир 24
-https://s70378.cdn.ngenix.net/mir_24/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Мир
-https://s70378.cdn.ngenix.net/mir/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Ностальгия
-https://s70378.cdn.ngenix.net/nostalgia/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",РБК
-https://s70378.cdn.ngenix.net/rbc/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",RTVI
-https://s70378.cdn.ngenix.net/rtvi/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",shant
-https://s70378.cdn.ngenix.net/shant/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",shant serial
-https://s70378.cdn.ngenix.net/shant_serial/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",shant premium
-https://s70378.cdn.ngenix.net/shant_premium/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Shant music
-https://s70378.cdn.ngenix.net/shant_music/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",21TV AM
-https://s70378.cdn.ngenix.net/dar21/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Mezzo
-https://s70378.cdn.ngenix.net/mezzo/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Muzzone
-https://s70378.cdn.ngenix.net/muzzone/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Baby TV
-https://s70378.cdn.ngenix.net/baby_tv/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Tiji
-https://s70378.cdn.ngenix.net/tiji/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",СТС Kids
-https://s70378.cdn.ngenix.net/ctc_kids/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Nickelodeon
-https://s70378.cdn.ngenix.net/nickelodeon/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Nicktoons
-https://s70378.cdn.ngenix.net/nicktoons/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Малыш
-https://s70378.cdn.ngenix.net/malish/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Gulli Girl
-https://s70378.cdn.ngenix.net/gulli/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Карусель
-https://s70378.cdn.ngenix.net/karusel/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Da Vinci
-https://s70378.cdn.ngenix.net/da_vinci/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Детский мир
-https://s70378.cdn.ngenix.net/detskij_mir/1/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",UFC
-https://s70378.cdn.ngenix.net/ufc/2/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Viasat sport
-https://s70378.cdn.ngenix.net/viasat_sport/2/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Бокс ТВ
-https://s70378.cdn.ngenix.net/boks_tv/1/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Планета
-https://s70378.cdn.ngenix.net/match_planeta/1/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",KHL
-https://s70378.cdn.ngenix.net/kxl/1/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",MMA-TV.com
-https://s70378.cdn.ngenix.net/m1_global/1/index.m3u8
-
-#EXTINF:-1 ,Первый канал
 http://31.131.141.195:8000/play/1010/index.m3u8
 #EXTINF:-1 ,Россия 
 http://31.131.141.195:8000/play/1020/index.m3u8
@@ -431,9 +74,1009 @@ http://213.91.179.28:8000/play/a0bx
 #EXTINF:-1 group-title="Vivacom BG",СТС Kids
 http://213.91.179.28:8000/play/a07g
 
+#EXTINF:-1 ,Первый канал
+http://185.229.235.30:8005/udp/225.15.3.160:2345
+#EXTINF:-1 ,Россия 
+http://185.229.235.30:8005/udp/225.15.3.198:2345
+#EXTINF:-1 ,Россия 24
+http://185.229.235.30:8005/udp/225.15.3.199:2345
+#EXTINF:-1 ,НТВ
+http://185.229.235.30:8005/udp/225.15.3.152:2345
+#EXTINF:-1 ,Звезда
+http://185.229.235.30:8005/udp/225.15.3.109:2345
+#EXTINF:-1 ,РБК
+http://185.229.235.30:8005/udp/225.15.3.196:2345
+#EXTINF:-1 ,Рен ТВ
+http://185.229.235.30:8005/udp/225.15.3.197:2345
+#EXTINF:-1 ,СТС
+http://185.229.235.30:8005/udp/225.15.3.214:2345
+#EXTINF:-1 ,ТНТ
+http://185.229.235.30:8005/udp/225.15.3.222:2345
+#EXTINF:-1 ,Мульт
+http://185.229.235.30:8005/udp/225.15.3.144:2345
+#EXTINF:-1 ,Русский Детектив
+http://185.229.235.30:8005/udp/225.15.3.205:2345
+#EXTINF:-1 ,КиноТВ 
+http://185.229.235.30:8005/udp/225.15.4.28:2345
+#EXTINF:-1 ,Новороссия ТВ 
+http://185.229.235.30:8005/udp/225.15.3.149:2345
+#EXTINF:-1 ,1 Республиканский 
+http://185.229.235.30:8005/udp/225.15.3.237:2345
+#EXTINF:-1 ,Оплот ТВ 
+http://185.229.235.30:8005/udp/225.15.4.40:2345
+#EXTINF:-1 ,Футбол 1
+http://185.229.235.30:8005/udp/225.15.3.130:2345
+#EXTINF:-1 ,365
+http://185.229.235.30:8005/udp/225.15.3.224:2345
+
+
+#EXTINF:-1 group-title="Ott Club+Реклама",Приключения HD
+http://stream.mcquack.net/198/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",National Geographic HD
+http://stream.mcquack.net/116/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Nat Geo Wild HD
+http://stream.mcquack.net/149/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Discovery Channel HD
+http://stream.mcquack.net/177/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Investigation Discovery HD
+http://stream.mcquack.net/205/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Travel Channel HD
+http://stream.mcquack.net/231/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Travel XP HD
+http://stream.mcquack.net/451/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",The Explorers
+http://stream.mcquack.net/450/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Insight TV HD
+http://stream.mcquack.net/361/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Масон ТВ
+http://stream.mcquack.net/346/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Наука
+http://stream.mcquack.net/403/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Фауна
+http://stream.mcquack.net/401/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Соль
+http://stream.mcquack.net/398/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",One Planet HD
+http://stream.mcquack.net/448/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Animal Planet HD
+http://stream.mcquack.net/114/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Моя стихия
+http://stream.mcquack.net/141/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Трофей
+http://stream.mcquack.net/357/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",В мире животных
+http://stream.mcquack.net/241/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Світ навиворіт+ HD
+http://stream.mcquack.net/49/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Загублений світ+ HD
+http://stream.mcquack.net/223/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",36.6 HD
+http://stream.mcquack.net/331/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Дім HD
+http://stream.mcquack.net/383/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Зоосвіт
+http://stream.mcquack.net/460/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Nature Relaxation 
+http://stream.mcquack.net/459/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",TLC
+http://stream.mcquack.net/168/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Cinema 
+http://stream.mcquack.net/62/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Кинопоказ
+http://stream.mcquack.net/64/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Комедийное HD
+http://stream.mcquack.net/74/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Хит HD
+http://stream.mcquack.net/363/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Блокбастер HD
+http://stream.mcquack.net/364/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Дорама HD
+http://stream.mcquack.net/412/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Kinosweet
+http://stream.mcquack.net/447/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Kinowood HD
+http://stream.mcquack.net/446/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Enter-фильм
+http://stream.mcquack.net/322/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",ATR HD
+http://stream.mcquack.net/244/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Film.Ua Drama HD
+http://stream.mcquack.net/273/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",4ever Drama HD
+http://stream.mcquack.net/260/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",4ever Theater HD
+http://stream.mcquack.net/259/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",4ever Cinema HD
+http://stream.mcquack.net/258/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",4ever Music HD
+http://stream.mcquack.net/257/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",KinoLiving HD
+http://stream.mcquack.net/445/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",2x2
+http://stream.mcquack.net/187/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Hollywood HD
+http://stream.mcquack.net/268/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Fan HD
+http://stream.mcquack.net/420/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Кино ТВ
+http://stream.mcquack.net/221/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Amedia 1
+http://stream.mcquack.net/117/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Amedia Premium 
+http://stream.mcquack.net/151/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Amedia Hit
+http://stream.mcquack.net/162/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Капитан фантастика 
+http://stream.mcquack.net/144/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",.red
+http://stream.mcquack.net/69/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",.Black 
+http://stream.mcquack.net/263/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",.Sci-Fi
+http://stream.mcquack.net/180/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",KINOGRANDE HD
+http://stream.mcquack.net/456/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Шокирующее HD
+http://stream.mcquack.net/75/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Fresh Thriller
+http://stream.mcquack.net/434/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Fresh Romantic
+http://stream.mcquack.net/433/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Fresh Adventure
+http://stream.mcquack.net/432/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Fresh Horror
+http://stream.mcquack.net/431/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Fresh Series
+http://stream.mcquack.net/430/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Fresh Fantastic
+http://stream.mcquack.net/429/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Fresh VHS
+http://stream.mcquack.net/428/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Fresh Family
+http://stream.mcquack.net/427/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Fresh Comedy
+http://stream.mcquack.net/426/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Fresh Kids
+http://stream.mcquack.net/425/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Fresh Premiere
+http://stream.mcquack.net/424/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Fresh Cinema
+http://stream.mcquack.net/423/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Fresh Rating
+http://stream.mcquack.net/422/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",CineMan HD
+http://stream.mcquack.net/349/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Cineman Premium HD
+http://stream.mcquack.net/470/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Cineman Катастрофы HD
+http://stream.mcquack.net/471/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",CineMan Top HD
+http://stream.mcquack.net/350/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Cineman Мелодрама HD
+http://stream.mcquack.net/472/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",CineMan Action HD
+http://stream.mcquack.net/351/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",CineMan Thriller HD
+http://stream.mcquack.net/352/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",CineMan Marvel HD
+http://stream.mcquack.net/354/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",CineMan Ужасы HD
+http://stream.mcquack.net/355/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",CineMan Комедия
+http://stream.mcquack.net/356/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Cineman VHS HD
+http://stream.mcquack.net/474/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Cineman Скорая помощь HD
+http://stream.mcquack.net/475/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",CineMan Сваты HD
+http://stream.mcquack.net/359/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Gags Network
+http://stream.mcquack.net/458/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",RAZ 1
+http://stream.mcquack.net/463/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",RAZ 2
+http://stream.mcquack.net/464/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Kino 2
+http://stream.mcquack.net/465/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Iнтер
+http://stream.mcquack.net/174/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Iнтер+
+http://stream.mcquack.net/345/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",ТЕТ HD
+http://stream.mcquack.net/338/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Бiгудi
+http://stream.mcquack.net/340/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",ПлюсПлюс
+http://stream.mcquack.net/339/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",НТН HD
+http://stream.mcquack.net/326/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Мега
+http://stream.mcquack.net/325/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",К1 HD
+http://stream.mcquack.net/270/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",К2 HD
+http://stream.mcquack.net/324/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Zoom Украина
+http://stream.mcquack.net/327/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",2+2
+http://stream.mcquack.net/173/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",ICTV
+http://stream.mcquack.net/158/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",ICTV2
+http://stream.mcquack.net/368/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",СТБ HD
+http://stream.mcquack.net/156/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Новий канал HD
+http://stream.mcquack.net/157/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",1+1 Марафон HD
+http://stream.mcquack.net/172/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Еспресо HD
+http://stream.mcquack.net/84/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Закон ТВ
+http://stream.mcquack.net/406/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Kino 1 HD
+http://stream.mcquack.net/395/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Машина часу HD
+http://stream.mcquack.net/140/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",ЖВЛ+
+http://stream.mcquack.net/139/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Сімейні мелодрами+ HD
+http://stream.mcquack.net/137/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Панянка-селянка+ HD
+http://stream.mcquack.net/134/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Опер за викликом+
+http://stream.mcquack.net/50/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Твiй серiал
+http://stream.mcquack.net/466/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Фронт
+http://stream.mcquack.net/489/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",МузТВ
+http://stream.mcquack.net/86/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Музвар
+http://stream.mcquack.net/467/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",М1
+http://stream.mcquack.net/218/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Bridge HD
+http://stream.mcquack.net/92/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Bridge TV
+http://stream.mcquack.net/318/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Bridge TV Classic
+http://stream.mcquack.net/272/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Европа плюс тв
+http://stream.mcquack.net/184/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",InRating
+http://stream.mcquack.net/147/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",В гостях у сказки 
+http://stream.mcquack.net/93/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Tiji
+http://stream.mcquack.net/111/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",JimJam
+http://stream.mcquack.net/150/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Солнце 
+http://stream.mcquack.net/118/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Da Vinci
+http://stream.mcquack.net/238/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Nick Jr
+http://stream.mcquack.net/220/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Nickelodeon 
+http://stream.mcquack.net/443/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",KinoKazka
+http://stream.mcquack.net/167/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Bolt
+http://stream.mcquack.net/73/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Equalympic HD
+http://stream.mcquack.net/485/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Go3 Sport 1
+http://stream.mcquack.net/416/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",IVI Sport
+http://stream.mcquack.net/457/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Extreme Sports HD
+http://stream.mcquack.net/148/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Trace Sport Stars
+http://stream.mcquack.net/256/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Maincast Кіберспорт
+http://stream.mcquack.net/487/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Maincast Sport
+http://stream.mcquack.net/490/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Qazsport
+http://stream.mcquack.net/72/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Dynamo Kyiv TV HD
+http://stream.mcquack.net/396/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Спорт 1 Украина
+http://stream.mcquack.net/461/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Спорт 3 Украина
+http://stream.mcquack.net/393/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Спорт 4 Украина
+http://stream.mcquack.net/394/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Спорт 5
+http://stream.mcquack.net/212/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Setanta Sports 1
+http://stream.mcquack.net/234/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Setanta Sports 2
+http://stream.mcquack.net/235/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Eurosport 1
+http://stream.mcquack.net/176/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Eurosport 2
+http://stream.mcquack.net/192/tracks-v1a1/mono.ts.m3u8
 
 
 
 
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Агронет",Первый Канал
+http://195.26.83.96:7013/play/12/index.m3u8
+#EXTINF:-1 group-title="Агронет",Россия 1
+http://195.26.83.96:7013/play/13/index.m3u8
+#EXTINF:-1 group-title="Агронет",Москва 24
+http://195.26.83.96:7007/play/a008/index.m3u8
+#EXTINF:-1 group-title="Агронет",Viasat Nature
+http://195.26.83.96:7013/play/37/index.m3u8
+#EXTINF:-1 group-title="Агронет",Тайны Галактики
+http://195.26.83.96:7007/play/a00j/index.m3u8
+#EXTINF:-1 group-title="Агронет",Доктор
+http://195.26.83.96:7009/play/a00k/index.m3u8
+#EXTINF:-1 group-title="Агронет",RTG TV
+http://195.26.83.96:7007/play/a00n/index.m3u8
+#EXTINF:-1 group-title="Агронет",Детский мир
+http://195.26.83.96:7007/play/14/index.m3u8
+#EXTINF:-1 group-title="Агронет",Загородная жизнь
+http://195.26.83.96:7007/play/10/index.m3u8
+#EXTINF:-1 group-title="Агронет",Мужской
+http://195.26.83.96:7007/play/11/index.m3u8
+#EXTINF:-1 group-title="Агронет",Известия
+http://195.26.83.96:7009/play/a00j/index.m3u8
+#EXTINF:-1 group-title="Агронет",Че
+http://195.26.83.96:7009/play/89/index.m3u8
+#EXTINF:-1 group-title="Агронет",RT DOC HD
+http://195.26.83.96:7017/play/a00t/index.m3u8
+#EXTINF:-1 group-title="Агронет",Суббота
+http://195.26.83.96:7013/play/a00e/index.m3u8
+#EXTINF:-1 group-title="Агронет",о2тв
+http://195.26.83.96:7006/play/1/index.m3u8
+#EXTINF:-1 group-title="Агронет",Русский Иллюзион
+http://195.26.83.96:7006/play/a00y/index.m3u8
+#EXTINF:-1 group-title="Агронет",Дом кино
+http://195.26.83.96:7005/play/a00o/index.m3u8
+#EXTINF:-1 group-title="Агронет",Кинохит HD
+http://195.26.83.96:7005/play/a00m/index.m3u8
+#EXTINF:-1 group-title="Агронет",Русский Роман
+http://195.26.83.96:7005/play/a00n/index.m3u8
+#EXTINF:-1 group-title="Агронет",Театр
+http://195.26.83.96:7005/play/16/index.m3u8
+#EXTINF:-1 group-title="Агронет",СТС Kids
+http://195.26.83.96:7006/play/a00z/index.m3u8
+#EXTINF:-1 group-title="Агронет",Бобёр
+http://195.26.83.96:7005/play/a00p/index.m3u8
+#EXTINF:-1 group-title="Агронет",BRIDGE TV
+http://195.26.83.96:7007/play/a00m/index.m3u8
+#EXTINF:-1 group-title="Агронет",Шансон ТВ
+http://195.26.83.96:7005/play/a00l/index.m3u8
+#EXTINF:-1 group-title="Агронет",КХЛ ТВ
+http://195.26.83.96:7007/play/4/index.m3u8
+#EXTINF:-1 group-title="Агронет",Viasat Sport
+http://195.26.83.96:7013/play/a00f/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Велком",Ultra 4K Extreme
+http://46.53.200.153:7777/play/test_krask1/index.m3u8
+#EXTINF:-1 group-title="Велком",viju Explore
+http://46.53.200.153:7777/play/a01i/index.m3u8
+#EXTINF:-1 group-title="Велком",viju History
+http://46.53.200.153:7777/play/a01j/index.m3u8
+#EXTINF:-1 group-title="Велком",viju Nature
+http://46.53.200.153:7777/play/a01k/index.m3u8
+#EXTINF:-1 group-title="Велком",TV XXI
+http://46.53.200.153:7777/play/TV-21M/index.m3u8
+#EXTINF:-1 group-title="Велком",Сапфир HD
+http://46.53.200.153:7777/play/Sapfir_HD/index.m3u8
+#EXTINF:-1 group-title="Велком",Витебск
+http://46.53.200.153:7777/play/a00h/index.m3u8
+#EXTINF:-1 group-title="Велком",Буг ТВ HD
+http://46.53.200.153:7777/play/Bug_TV_HD/index.m3u8
+#EXTINF:-1 group-title="Велком",Светлое ТВ
+http://46.53.200.153:7777/play/svetloetv/index.m3u8
+#EXTINF:-1 group-title="Велком",Наш Кинопоказ
+http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
+#EXTINF:-1 group-title="Велком",RTG HD
+http://46.53.200.153:7777/play/a00u/index.m3u8
+#EXTINF:-1 group-title="Велком",Viju TV1000 Новелла HD
+http://46.53.200.153:7777/play/VIJU_TV_1000_novella/index.m3u8
+#EXTINF:-1 group-title="Велком",Viju TV1000 Romantica HD
+http://46.53.200.153:7777/play/Viju_Drama/index.m3u8
+#EXTINF:-1 group-title="Велком",TV1000
+http://46.53.200.153:7777/play/TV_1000/index.m3
+#EXTINF:-1 group-title="Велком",TV1000 Action
+http://46.53.200.153:7777/play/a01h/index.m3u8
+#EXTINF:-1 group-title="Велком",TV1000 Русское Кино
+http://46.53.200.153:7777/play/a01g/index.m3u8
+#EXTINF:-1 group-title="Велком",VIP Comedy HD
+http://46.53.200.153:7777/play/Viju_Comedy_HD/index.m3u8
+#EXTINF:-1 group-title="Велком",VIP Megahit HD
+http://46.53.200.153:7777/play/Viju_Megahit_HD/index.m3u8
+#EXTINF:-1 group-title="Велком",VIP Premiere HD
+http://46.53.200.153:7777/play/Viju_Premiere/index.m3u8
+#EXTINF:-1 group-title="Велком",VIP Serial HD
+http://46.53.200.153:7777/play/Viju_Serial_HD/index.m3u8
+#EXTINF:-1 group-title="Велком",Шансон ТВ
+http://46.53.200.153:7777/play/Shanson_TV/index.m3u8
+#EXTINF:-1 group-title="Велком",Европа плюс ТВ
+http://46.53.200.153:7777/play/EuropaPlus/index.m3u8
+#EXTINF:-1 group-title="Велком",Live music channel
+http://46.53.200.153:7777/play/Live_music_channel/index.m3u8
+#EXTINF:-1 group-title="Велком",Viasat Sport HD
+http://46.53.200.153:7777/play/a01l/index.m3u8
+#EXTINF:-1 group-title="Велком",Viasat Sport
+http://46.53.200.153:7777/play/Viasat_Sport/index.m3u8u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Линкинтел",Рен ТВ
+http://194.152.35.17/ren_tv/index.m3u8
+#EXTINF:-1 group-title="Линкинтел",Россия 1
+http://194.152.35.17/rossiya_1/index.m3u8
+#EXTINF:-1 group-title="Линкинтел",НТВ
+http://194.152.35.17/ntv/index.m3u8
+#EXTINF:-1 group-title="Линкинтел",ТНТ
+http://194.152.35.17/tnt/index.m3u8
+#EXTINF:-1 group-title="Линкинтел",ТНТ4
+http://194.152.35.17/tnt4/index.m3u8
+#EXTINF:-1 group-title="Линкинтел",2x2
+http://194.152.35.17/2x2/index.m3u8
+#EXTINF:-1 group-title="Линкинтел",Пятый канал
+http://194.152.35.17/5-kanal/index.m3u8
+#EXTINF:-1 group-title="Линкинтел",Amedia Hit
+http://194.152.35.17/amedia-hit/index.m3u8
+#EXTINF:-1 group-title="Линкинтел",Че
+http://194.152.35.17/che/index.m3u8
+#EXTINF:-1 group-title="Линкинтел",Cinema
+http://194.152.35.17/cinema/index.m3u8
+#EXTINF:-1 group-title="Линкинтел",Дом Кино Премиум HD
+http://194.152.35.17/dom-kino-premium-hd/index.m3u8
+#EXTINF:-1 group-title="Линкинтел",Кино ТВ
+http://194.152.35.17/kino-tv/index.m3u8
+#EXTINF:-1 group-title="Линкинтел",ОТР
+http://194.152.35.17/otr/index.m3u8
+#EXTINF:-1 group-title="Линкинтел",Пятница
+http://194.152.35.17/Pyatnica/index.m3u8
+#EXTINF:-1 group-title="Линкинтел",СТС
+http://194.152.35.17/sts/index.m3u8
+#EXTINF:-1 group-title="Линкинтел",ТВЦ
+http://194.152.35.17/tvc/index.m3u8
+#EXTINF:-1 group-title="Линкинтел",Ю
+http://194.152.35.17/yu/index.m3u8
+#EXTINF:-1 group-title="Линкинтел",Звезда 
+http://194.152.35.17/zvezda/index.m3u8
+#EXTINF:-1 group-title="Линкинтел",Мама
+http://194.152.35.17/mama/index.m3u8
+#EXTINF:-1 group-title="Линкинтел",Мульт
+http://194.152.35.17/Mult/index.m3u8
+#EXTINF:-1 group-title="Линкинтел",Ani
+http://194.152.35.17/ani/index.m3u8
+#EXTINF:-1 group-title="Линкинтел",Карусель 
+http://194.152.35.17/Karusel/index.m3u8
+#EXTINF:-1 group-title="Линкинтел",Матч ТВ
+http://194.152.35.17/match/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="LLC G&G-Telecom",Первый канал
+http://195.64.140.147:10001/991
+#EXTINF:-1 group-title="LLC G&G-Telecom",Россия 1
+http://195.64.140.147:10002/992
+#EXTINF:-1 group-title="LLC G&G-Telecom",Россия К
+http://195.64.140.147:10006/996
+#EXTINF:-1 group-title="LLC G&G-Telecom",Россия 24
+http://195.64.140.147:10007/997
+#EXTINF:-1 group-title="LLC G&G-Telecom",НТВ
+http://195.64.140.147:10004/994
+#EXTINF:-1 group-title="LLC G&G-Telecom",ТНТ
+http://195.64.140.147:10020/9920
+#EXTINF:-1 group-title="LLC G&G-Telecom",ТНТ4
+http://195.64.140.147:10034/34
+#EXTINF:-1 group-title="LLC G&G-Telecom",НТВ Сериал
+http://195.64.140.147:10073/73
+#EXTINF:-1 group-title="LLC G&G-Telecom",НТВ Хит
+http://195.64.140.147:10074/74
+#EXTINF:-1 group-title="LLC G&G-Telecom",НТВ Стиль
+http://195.64.140.147:10173/173
+#EXTINF:-1 group-title="LLC G&G-Telecom",НТВ Право
+http://195.64.140.147:10181/181
+#EXTINF:-1 group-title="LLC G&G-Telecom",Пятый Канал
+http://195.64.140.147:10005/995
+#EXTINF:-1 group-title="LLC G&G-Telecom",РЕН ТВ
+http://195.64.140.147:10011/9911
+#EXTINF:-1 group-title="LLC G&G-Telecom",Animal Planet HD
+http://195.64.140.147:10032/32
+#EXTINF:-1 group-title="LLC G&G-Telecom",Охота и Рыбалка
+http://195.64.140.147:10039/39
+#EXTINF:-1 group-title="LLC G&G-Telecom",Viasat Explore
+http://195.64.140.147:10144/144
+#EXTINF:-1 group-title="LLC G&G-Telecom",Viasat History
+http://195.64.140.147:10145/145
+#EXTINF:-1 group-title="LLC G&G-Telecom",Viasat Nature
+http://195.64.140.147:10146/146
+#EXTINF:-1 group-title="LLC G&G-Telecom",Viju+ Planet
+http://195.64.140.147:10147/147
+#EXTINF:-1 group-title="LLC G&G-Telecom",National Geographic Wild HD
+http://195.64.140.147:10149/149
+#EXTINF:-1 group-title="LLC G&G-Telecom",Terra
+http://195.64.140.147:10150/150
+#EXTINF:-1 group-title="LLC G&G-Telecom",Discovery
+http://195.64.140.147:10151/151
+#EXTINF:-1 group-title="LLC G&G-Telecom",Investigation Discovery
+http://195.64.140.147:10152/152
+#EXTINF:-1 group-title="LLC G&G-Telecom",National Geographic
+http://195.64.140.147:10153/153
+#EXTINF:-1 group-title="LLC G&G-Telecom",История
+http://195.64.140.147:10156/156
+#EXTINF:-1 group-title="LLC G&G-Telecom",Travel Channel
+http://195.64.140.147:10158/158
+#EXTINF:-1 group-title="LLC G&G-Telecom",RTG HD
+http://195.64.140.147:10159/159
+#EXTINF:-1 group-title="LLC G&G-Telecom",Оружие
+http://195.64.140.147:10160/160
+#EXTINF:-1 group-title="LLC G&G-Telecom",Моя Планета
+http://195.64.140.147:10161/161
+#EXTINF:-1 group-title="LLC G&G-Telecom",Охотник и Рыболов
+http://195.64.140.147:10162/162
+#EXTINF:-1 group-title="LLC G&G-Telecom",Большая Азия
+http://195.64.140.147:10175/175
+#EXTINF:-1 group-title="LLC G&G-Telecom",Наука
+http://195.64.140.147:10176/176
+#EXTINF:-1 group-title="LLC G&G-Telecom",Доктор
+http://195.64.140.147:10177/177
+#EXTINF:-1 group-title="LLC G&G-Telecom",Живи
+http://195.64.140.147:10178/178
+#EXTINF:-1 group-title="LLC G&G-Telecom",Дикий
+http://195.64.140.147:10139/139
+#EXTINF:-1 group-title="LLC G&G-Telecom",Загородная Жизнь
+http://195.64.140.147:10180/180
+#EXTINF:-1 group-title="LLC G&G-Telecom",CGTN Русский
+http://195.64.140.147:10182/182
+#EXTINF:-1 group-title="LLC G&G-Telecom",Love Nature
+http://195.64.140.147:10214/214
+#EXTINF:-1 group-title="LLC G&G-Telecom",Диалоги о Рыбалке
+http://195.64.140.147:10117/117
+#EXTINF:-1 group-title="LLC G&G-Telecom",Поехали!
+http://195.64.140.147:10168/168
+#EXTINF:-1 group-title="LLC G&G-Telecom",Galaxy
+http://195.64.140.147:10169/169
+#EXTINF:-1 group-title="LLC G&G-Telecom",Зоопарк
+http://195.64.140.147:10170/170
+#EXTINF:-1 group-title="LLC G&G-Telecom",Здоровое ТВ
+http://195.64.140.147:10171/171
+#EXTINF:-1 group-title="LLC G&G-Telecom",ОТР
+http://195.64.140.147:10009/999
+#EXTINF:-1 group-title="LLC G&G-Telecom",ТВ Центр
+http://195.64.140.147:10010/9910
+#EXTINF:-1 group-title="LLC G&G-Telecom",СПАС
+http://195.64.140.147:10012/12
+#EXTINF:-1 group-title="LLC G&G-Telecom",СТС
+http://195.64.140.147:10013/9913
+#EXTINF:-1 group-title="LLC G&G-Telecom",ТВ3
+http://195.64.140.147:10014/9914
+#EXTINF:-1 group-title="LLC G&G-Telecom",Пятница
+http://195.64.140.147:10015/9915
+#EXTINF:-1 group-title="LLC G&G-Telecom",Звезда
+http://195.64.140.147:10016/9916
+#EXTINF:-1 group-title="LLC G&G-Telecom",Домашний
+http://195.64.140.147:10018/18
+#EXTINF:-1 group-title="LLC G&G-Telecom",Мир
+http://195.64.140.147:10019/19
+#EXTINF:-1 group-title="LLC G&G-Telecom",Ю
+http://195.64.140.147:10021/9921
+#EXTINF:-1 group-title="LLC G&G-Telecom",Че!
+http://195.64.140.147:10022/22
+#EXTINF:-1 group-title="LLC G&G-Telecom",2x2
+http://195.64.140.147:10023/23
+#EXTINF:-1 group-title="LLC G&G-Telecom",360
+http://195.64.140.147:10024/24
+#EXTINF:-1 group-title="LLC G&G-Telecom",Москва 24
+http://195.64.140.147:10025/25
+#EXTINF:-1 group-title="LLC G&G-Telecom",Телекафе
+http://195.64.140.147:10026/26
+#EXTINF:-1 group-title="LLC G&G-Telecom",Усадьба
+http://195.64.140.147:10028/28
+#EXTINF:-1 group-title="LLC G&G-Telecom",Авто плюс
+http://195.64.140.147:10029/29
+#EXTINF:-1 group-title="LLC G&G-Telecom",Домашние Животные
+http://195.64.140.147:10030/30
+#EXTINF:-1 group-title="LLC G&G-Telecom",Точка Отрыва
+http://195.64.140.147:10031/31
+#EXTINF:-1 group-title="LLC G&G-Telecom",Channel 9 FHD IL
+http://195.64.140.147:10033/33
+#EXTINF:-1 group-title="LLC G&G-Telecom",Кухня ТВ
+http://195.64.140.147:10037/37
+#EXTINF:-1 group-title="LLC G&G-Telecom",78 HD
+http://195.64.140.147:10038/38
+#EXTINF:-1 group-title="LLC G&G-Telecom",Суббота
+http://195.64.140.147:10041/41
+#EXTINF:-1 group-title="LLC G&G-Telecom",Киносемья
+http://195.64.140.147:10042/42
+#EXTINF:-1 group-title="LLC G&G-Telecom",Киноужас
+http://195.64.140.147:10043/43
+#EXTINF:-1 group-title="LLC G&G-Telecom",Киномикс
+http://195.64.140.147:10044/44
+#EXTINF:-1 group-title="LLC G&G-Telecom",Киносвидание
+http://195.64.140.147:10045/45
+#EXTINF:-1 group-title="LLC G&G-Telecom",Кинохит
+http://195.64.140.147:10046/46
+#EXTINF:-1 group-title="LLC G&G-Telecom",Кинокомедия
+http://195.64.140.147:10047/47
+#EXTINF:-1 group-title="LLC G&G-Telecom",Киносерия
+http://195.64.140.147:10048/48
+#EXTINF:-1 group-title="LLC G&G-Telecom",Индийское Кино
+http://195.64.140.147:10049/49
+#EXTINF:-1 group-title="LLC G&G-Telecom",Кино ТВ
+http://195.64.140.147:10050/50
+#EXTINF:-1 group-title="LLC G&G-Telecom",Мужское Кино
+http://195.64.140.147:10051/51
+#EXTINF:-1 group-title="LLC G&G-Telecom",Родное Кино
+http://195.64.140.147:10052/52
+#EXTINF:-1 group-title="LLC G&G-Telecom",Наше Новое Кино
+http://195.64.140.147:10053/53
+#EXTINF:-1 group-title="LLC G&G-Telecom",Настоящее Страшное ТВ
+http://195.64.140.147:10054/54
+#EXTINF:-1 group-title="LLC G&G-Telecom",Синема HD
+http://195.64.140.147:10055/55
+#EXTINF:-1 group-title="LLC G&G-Telecom",Сапфир
+http://195.64.140.147:10056/56
+#EXTINF:-1 group-title="LLC G&G-Telecom",Дом Кино
+http://195.64.140.147:10057/57
+#EXTINF:-1 group-title="LLC G&G-Telecom",Киносат
+http://195.64.140.147:10058/58
+#EXTINF:-1 group-title="LLC G&G-Telecom",Amedia 1
+http://195.64.140.147:10059/59
+#EXTINF:-1 group-title="LLC G&G-Telecom",Amedia 2
+http://195.64.140.147:10060/60
+#EXTINF:-1 group-title="LLC G&G-Telecom",Классика Кино
+http://195.64.140.147:10061/61
+#EXTINF:-1 group-title="LLC G&G-Telecom",Amedia Premium
+http://195.64.140.147:10062/62
+#EXTINF:-1 group-title="LLC G&G-Telecom",Start Air
+http://195.64.140.147:10063/63
+#EXTINF:-1 group-title="LLC G&G-Telecom",Kinojam 1
+http://195.64.140.147:10064/64
+#EXTINF:-1 group-title="LLC G&G-Telecom",Paramount Comedy
+http://195.64.140.147:10065/65
+#EXTINF:-1 group-title="LLC G&G-Telecom",FAN
+http://195.64.140.147:10066/66
+#EXTINF:-1 group-title="LLC G&G-Telecom",TV1000
+http://195.64.140.147:10067/67
+#EXTINF:-1 group-title="LLC G&G-Telecom",TV1000 Русское Кино
+http://195.64.140.147:10069/69
+#EXTINF:-1 group-title="LLC G&G-Telecom",VIP Comedy HD
+http://195.64.140.147:10070/70
+#EXTINF:-1 group-title="LLC G&G-Telecom",VIP Megahit HD
+http://195.64.140.147:10071/71
+#EXTINF:-1 group-title="LLC G&G-Telecom",VIP Premiere HD
+http://195.64.140.147:10072/72
+#EXTINF:-1 group-title="LLC G&G-Telecom",Русский Бестселлер
+http://195.64.140.147:10075/75
+#EXTINF:-1 group-title="LLC G&G-Telecom",Русский Роман
+http://195.64.140.147:10076/9976
+#EXTINF:-1 group-title="LLC G&G-Telecom",Русский Детектив
+http://195.64.140.147:10077/77
+#EXTINF:-1 group-title="LLC G&G-Telecom",Мосфильм. Золотая коллекция
+http://195.64.140.147:10078/78
+#EXTINF:-1 group-title="LLC G&G-Telecom",HollyWood HD
+http://195.64.140.147:10079/79
+#EXTINF:-1 group-title="LLC G&G-Telecom",Кинеко
+http://195.64.140.147:10080/80
+#EXTINF:-1 group-title="LLC G&G-Telecom",Дом Кино Премиум
+http://195.64.140.147:10081/81
+#EXTINF:-1 group-title="LLC G&G-Telecom",Plan B
+http://195.64.140.147:10082/82
+#EXTINF:-1 group-title="LLC G&G-Telecom",Bollywood HD
+http://195.64.140.147:10083/83
+#EXTINF:-1 group-title="LLC G&G-Telecom",Кинопремьера HD
+http://195.64.140.147:10084/84
+#EXTINF:-1 group-title="LLC G&G-Telecom",.RED
+http://195.64.140.147:10085/85
+#EXTINF:-1 group-title="LLC G&G-Telecom",.Sci-Fi
+http://195.64.140.147:10086/86
+#EXTINF:-1 group-title="LLC G&G-Telecom",.Black
+http://195.64.140.147:10087/87
+#EXTINF:-1 group-title="LLC G&G-Telecom",ЕвроКино
+http://195.64.140.147:10088/88
+#EXTINF:-1 group-title="LLC G&G-Telecom",Мир Сериала
+http://195.64.140.147:10089/89
+#EXTINF:-1 group-title="LLC G&G-Telecom",Иллюзион+
+http://195.64.140.147:10090/90
+#EXTINF:-1 group-title="LLC G&G-Telecom",Любимое Кино
+http://195.64.140.147:10091/91
+#EXTINF:-1 group-title="LLC G&G-Telecom",Комедия
+http://195.64.140.147:10092/92
+#EXTINF:-1 group-title="LLC G&G-Telecom",Русский Иллюзион
+http://195.64.140.147:10093/93
+#EXTINF:-1 group-title="LLC G&G-Telecom",365 Дней
+http://195.64.140.147:10095/95
+#EXTINF:-1 group-title="LLC G&G-Telecom",Авто 24
+http://195.64.140.147:10118/118
+#EXTINF:-1 group-title="LLC G&G-Telecom",Вопросы и ответы
+http://195.64.140.147:10120/120
+#EXTINF:-1 group-title="LLC G&G-Telecom",TLC
+http://195.64.140.147:10137/137
+#EXTINF:-1 group-title="LLC G&G-Telecom",КВН ТВ
+http://195.64.140.147:10138/138
+#EXTINF:-1 group-title="LLC G&G-Telecom",СТС Love
+http://195.64.140.147:10140/140
+#EXTINF:-1 group-title="LLC G&G-Telecom",Победа
+http://195.64.140.147:10141/141
+#EXTINF:-1 group-title="LLC G&G-Telecom",Продвижение
+http://195.64.140.147:10142/142
+#EXTINF:-1 group-title="LLC G&G-Telecom",Пёс и Ко
+http://195.64.140.147:10143/143
+#EXTINF:-1 group-title="LLC G&G-Telecom",Звезда+
+http://195.64.140.147:10155/155
+#EXTINF:-1 group-title="LLC G&G-Telecom",Арсенал HD
+http://195.64.140.147:10157/157
+#EXTINF:-1 group-title="LLC G&G-Telecom",Союзный
+http://195.64.140.147:10164/164
+#EXTINF:-1 group-title="LLC G&G-Telecom",Кто есть Кто
+http://195.64.140.147:10165/165
+#EXTINF:-1 group-title="LLC G&G-Telecom",Время
+http://195.64.140.147:10166/166
+#EXTINF:-1 group-title="LLC G&G-Telecom",Ностальгия
+http://195.64.140.147:10167/167
+#EXTINF:-1 group-title="LLC G&G-Telecom",Психология 21
+http://195.64.140.147:10174/174
+#EXTINF:-1 group-title="LLC G&G-Telecom",Наша Тема
+http://195.64.140.147:10172/172
+#EXTINF:-1 group-title="LLC G&G-Telecom",Euronews
+http://195.64.140.147:10183/183
+#EXTINF:-1 group-title="LLC G&G-Telecom",Ключ
+http://195.64.140.147:10184/184
+#EXTINF:-1 group-title="LLC G&G-Telecom",Известия
+http://195.64.140.147:10185/185
+#EXTINF:-1 group-title="LLC G&G-Telecom",Санкт-Петербург
+http://195.64.140.147:10186/186
+#EXTINF:-1 group-title="LLC G&G-Telecom",МИР 24
+http://195.64.140.147:10187/187
+#EXTINF:-1 group-title="LLC G&G-Telecom",Открытый Мир
+http://195.64.140.147:10188/188
+#EXTINF:-1 group-title="LLC G&G-Telecom",Жара
+http://195.64.140.147:10202/202
+#EXTINF:-1 group-title="LLC G&G-Telecom",Сарафан
+http://195.64.140.147:10203/203
+#EXTINF:-1 group-title="LLC G&G-Telecom",Москва Доверие
+http://195.64.140.147:10189/189
+#EXTINF:-1 group-title="LLC G&G-Telecom",MTV 00s
+http://195.64.140.147:10190/190
+#EXTINF:-1 group-title="LLC G&G-Telecom",MTV 80s
+http://195.64.140.147:10191/191
+#EXTINF:-1 group-title="LLC G&G-Telecom",MTV 90s
+http://195.64.140.147:10192/192
+#EXTINF:-1 group-title="LLC G&G-Telecom",MTV rus
+http://195.64.140.147:10193/193
+#EXTINF:-1 group-title="LLC G&G-Telecom",МузТВ
+http://195.64.140.147:10017/17
+#EXTINF:-1 group-title="LLC G&G-Telecom",RU.TV
+http://195.64.140.147:10035/35
+#EXTINF:-1 group-title="LLC G&G-Telecom",Европа плюс ТВ
+http://195.64.140.147:10036/36
+#EXTINF:-1 group-title="LLC G&G-Telecom",Шансон ТВ
+http://195.64.140.147:10195/195
+#EXTINF:-1 group-title="LLC G&G-Telecom",Музыка Первого
+http://195.64.140.147:10196/196
+#EXTINF:-1 group-title="LLC G&G-Telecom",Bridge TV Шлягер
+http://195.64.140.147:10197/197
+#EXTINF:-1 group-title="LLC G&G-Telecom",Bridge TV Classic
+http://195.64.140.147:10040/40
+#EXTINF:-1 group-title="LLC G&G-Telecom",Bridge TV Русский Хит
+http://195.64.140.147:10194/194
+#EXTINF:-1 group-title="LLC G&G-Telecom",Bridge TV Fresh
+http://195.64.140.147:10198/198
+#EXTINF:-1 group-title="LLC G&G-Telecom",Bridge TV HITS
+http://195.64.140.147:10199/199
+#EXTINF:-1 group-title="LLC G&G-Telecom",Bridge TV Deluxe
+http://195.64.140.147:10200/200
+#EXTINF:-1 group-title="LLC G&G-Telecom",ТНТ Music
+http://195.64.140.147:10201/201
+#EXTINF:-1 group-title="LLC G&G-Telecom",Da Vinci
+http://195.64.140.147:10154/154
+#EXTINF:-1 group-title="LLC G&G-Telecom",Nickelodeon HD
+http://195.64.140.147:10121/121
+#EXTINF:-1 group-title="LLC G&G-Telecom",Детский Мир
+http://195.64.140.147:10119/119
+#EXTINF:-1 group-title="LLC G&G-Telecom",Солнце
+http://195.64.140.147:10027/27
+#EXTINF:-1 group-title="LLC G&G-Telecom",Карусель
+http://195.64.140.147:10008/998
+#EXTINF:-1 group-title="LLC G&G-Telecom",Gulli Girl
+http://195.64.140.147:10122/122
+#EXTINF:-1 group-title="LLC G&G-Telecom",Лёва HD
+http://195.64.140.147:10123/123
+#EXTINF:-1 group-title="LLC G&G-Telecom",О!
+http://195.64.140.147:10124/124
+#EXTINF:-1 group-title="LLC G&G-Telecom",Nick JR
+http://195.64.140.147:10125/125
+#EXTINF:-1 group-title="LLC G&G-Telecom",Наше Детство
+http://195.64.140.147:10126/126
+#EXTINF:-1 group-title="LLC G&G-Telecom",МАМА
+http://195.64.140.147:10127/127
+#EXTINF:-1 group-title="LLC G&G-Telecom",Tiji
+http://195.64.140.147:10128/128
+#EXTINF:-1 group-title="LLC G&G-Telecom",СТС Kids
+http://195.64.140.147:10129/129
+#EXTINF:-1 group-title="LLC G&G-Telecom",Супергерои
+http://195.64.140.147:10130/130
+#EXTINF:-1 group-title="LLC G&G-Telecom",Уникум
+http://195.64.140.147:10131/131
+#EXTINF:-1 group-title="LLC G&G-Telecom",Мульт
+http://195.64.140.147:10132/132
+#EXTINF:-1 group-title="LLC G&G-Telecom",Бобёр
+http://195.64.140.147:10163/163
+#EXTINF:-1 group-title="LLC G&G-Telecom",ANI
+http://195.64.140.147:10133/133
+#EXTINF:-1 group-title="LLC G&G-Telecom",Мультимузыка
+http://195.64.140.147:10134/134
+#EXTINF:-1 group-title="LLC G&G-Telecom",Мультиландия
+http://195.64.140.147:10135/135
+#EXTINF:-1 group-title="LLC G&G-Telecom",В Гостях у Сказки
+http://195.64.140.147:10136/136
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ
+http://195.64.140.147:10003/993
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Арена
+http://195.64.140.147:10096/96
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Боец
+http://195.64.140.147:10097/97
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Sport 5
+http://195.64.140.147:10098/98
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Страна
+http://195.64.140.147:10099/99
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 1 HD
+http://195.64.140.147:10100/100
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 2 HD
+http://195.64.140.147:10101/101
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 3 HD
+http://195.64.140.147:10102/102
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Премьер HD
+http://195.64.140.147:10103/99103
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Планета
+http://195.64.140.147:10104/104
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч HD
+http://195.64.140.147:10105/105
+#EXTINF:-1 group-title="Спорткомплекс 🏆",TRT Sport
+http://195.64.140.147:10106/106
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Футбол
+http://195.64.140.147:10107/107
+#EXTINF:-1 group-title="Спорткомплекс 🏆",КХЛ ТВ
+http://195.64.140.147:10108/108
+#EXTINF:-1 group-title="Спорткомплекс 🏆",КХЛ ТВ HD
+http://195.64.140.147:10109/109
+#EXTINF:-1 group-title="Спорткомплекс 🏆",MMA-TV
+http://195.64.140.147:10110/110
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Мир Баскетболла
+http://195.64.140.147:10111/111
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Extreme Sort Channel
+http://195.64.140.147:10112/112
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Viasat Sort
+http://195.64.140.147:10113/113
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 1 HD
+http://195.64.140.147:10114/114
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 2 HD
+http://195.64.140.147:10115/115
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Ziggo Golf
+http://195.64.140.147:10116/116
+
+
+
+
+
+
+#EXTINF:-1 group-title="Сириус",ПЕРВЫЙ КАНАЛ
+http://31.131.141.195:8000/play/1010/index.m3u8
+#EXTINF:-1 group-title="Сириус",Рен ТВ
+http://31.131.141.195:8000/play/2010/index.m3u8
+#EXTINF:-1 group-title="Сириус",Россия 1
+http://31.131.141.195:8000/play/1020/index.m3u8
+#EXTINF:-1 group-title="Сириус",НТВ
+http://31.131.141.195:8000/play/1040/index.m3u8
+#EXTINF:-1 group-title="Сириус",ТНТ
+http://31.131.141.195:8000/play/2090/index.m3u8
+#EXTINF:-1 group-title="Сириус",Россия К
+http://31.131.141.195:8000/play/1060/index.m3u8
+#EXTINF:-1 group-title="Сириус",РОССИЯ 24
+http://31.131.141.195:8000/play/1070/index.m3u8
+#EXTINF:-1 group-title="Сириус",Пятый канал
+http://31.131.141.195:8000/play/1050/index.m3u8
+#EXTINF:-1 group-title="Сириус",ОТР
+http://31.131.141.195:8000/play/1090/index.m3u8
+#EXTINF:-1 group-title="Сириус",ТВЦ
+http://31.131.141.195:8000/play/1100/index.m3u8
+#EXTINF:-1 group-title="Сириус",Спас
+http://31.131.141.195:8000/play/2020/index.m3u8
+#EXTINF:-1 group-title="Сириус",СТС
+http://31.131.141.195:8000/play/2030/index.m3u8
+#EXTINF:-1 group-title="Сириус",Пятница
+http://31.131.141.195:8000/play/2060/index.m3u8
+#EXTINF:-1 group-title="Сириус",Домашний
+http://31.131.141.195:8000/play/a001/index.m3u8
+#EXTINF:-1 group-title="Сириус",ТВ3
+http://31.131.141.195:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="Сириус",Мир
+http://31.131.141.195:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="Сириус",Оплот 2
+http://31.131.141.195:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="Сириус",Звезда
+http://31.131.141.195:8000/play/2070/index.m3u8
+#EXTINF:-1 group-title="Сириус",МузТВ
+http://31.131.141.195:8000/play/2100/index.m3u8
+#EXTINF:-1 group-title="Сириус",Карусель
+http://31.131.141.195:8000/play/1080/index.m3u8
+#EXTINF:-1 group-title="Сириус",Матч ТВ
+http://31.131.141.195:8000/play/1030/index.m3u8
+
+#EXTINF:-1 group-title="Internet42 LLC", Россия 24
+http://176.118.197.101/Rossiya24/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", ТНТ
+http://176.118.197.101/THT/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", НТВ
+http://176.118.197.101/NTV/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", ТНТ4
+http://176.118.197.101/TNT4/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", Bollywood HD
+http://176.118.197.101/Bollywood_HD/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", Cinema
+http://176.118.197.101/Cinema/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", Еврокино
+http://176.118.197.101/Evrokino/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", Иллюзион+
+http://176.118.197.101/Illuzion+/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", Кинокомедия
+http://176.118.197.101/Kinokomediya/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", Киномикс
+http://176.118.197.101/Kinomix/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", НСТ
+http://176.118.197.101/HCT/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", Родное кино
+http://176.118.197.101/RodnoeKino/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", Кинопоказ
+http://176.118.197.101/Kinopokaz/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", Киносерия
+http://176.118.197.101/Kinoseria/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", Любимое кино
+http://176.118.197.101/LubimoeKino/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", Мир сериала
+http://176.118.197.101/MirSeriala/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", 2x2
+http://176.118.197.101/2x2/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", СТС
+http://176.118.197.101/CTC/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", Че
+http://176.118.197.101/Che/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", Ностальгия
+http://176.118.197.101/Nostalgiya/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", РБК
+http://176.118.197.101/RBK/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", Ретро
+http://176.118.197.101/Retro/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", Театр
+http://176.118.197.101/Teatr/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", Телекафе
+http://176.118.197.101/Telekafe/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", 1HD
+http://176.118.197.101/1HD/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", Cartoon Network
+http://176.118.197.101/Cartoon_Network/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", KHL
+http://176.118.197.101/KHL/index.m3u8
 
 
