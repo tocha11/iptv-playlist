@@ -1,5 +1,40 @@
 #EXTM3U
 #EXTINF:-1 ,Первый канал
+http://185.229.235.30:8005/udp/225.15.3.160:2345
+#EXTINF:-1 ,Россия 
+http://185.229.235.30:8005/udp/225.15.3.198:2345
+#EXTINF:-1 ,Россия 24
+http://185.229.235.30:8005/udp/225.15.3.199:2345
+#EXTINF:-1 ,НТВ
+http://185.229.235.30:8005/udp/225.15.3.152:2345
+#EXTINF:-1 ,Звезда
+http://185.229.235.30:8005/udp/225.15.3.109:2345
+#EXTINF:-1 ,РБК
+http://185.229.235.30:8005/udp/225.15.3.196:2345
+#EXTINF:-1 ,Рен ТВ
+http://185.229.235.30:8005/udp/225.15.3.197:2345
+#EXTINF:-1 ,СТС
+http://185.229.235.30:8005/udp/225.15.3.214:2345
+#EXTINF:-1 ,ТНТ
+http://185.229.235.30:8005/udp/225.15.3.222:2345
+#EXTINF:-1 ,Мульт
+http://185.229.235.30:8005/udp/225.15.3.144:2345
+#EXTINF:-1 ,Русский Детектив
+http://185.229.235.30:8005/udp/225.15.3.205:2345
+#EXTINF:-1 ,КиноТВ 
+http://185.229.235.30:8005/udp/225.15.4.28:2345
+#EXTINF:-1 ,Новороссия ТВ 
+http://185.229.235.30:8005/udp/225.15.3.149:2345
+#EXTINF:-1 ,1 Республиканский 
+http://185.229.235.30:8005/udp/225.15.3.237:2345
+#EXTINF:-1 ,Оплот ТВ 
+http://185.229.235.30:8005/udp/225.15.4.40:2345
+#EXTINF:-1 ,Футбол 1
+http://185.229.235.30:8005/udp/225.15.3.130:2345
+#EXTINF:-1 ,365
+http://185.229.235.30:8005/udp/225.15.3.224:2345
+
+#EXTINF:-1 ,Первый канал
 http://31.131.141.195:8000/play/1010/index.m3u8
 #EXTINF:-1 ,Россия 
 http://31.131.141.195:8000/play/1020/index.m3u8
@@ -74,6 +109,7 @@ http://213.91.179.28:8000/play/a0bx
 #EXTINF:-1 group-title="Vivacom BG",СТС Kids
 http://213.91.179.28:8000/play/a07g
 
+
 #EXTINF:-1 ,Первый канал
 http://185.229.235.30:8005/udp/225.15.3.160:2345
 #EXTINF:-1 ,Россия 
@@ -108,187 +144,6 @@ http://185.229.235.30:8005/udp/225.15.4.40:2345
 http://185.229.235.30:8005/udp/225.15.3.130:2345
 #EXTINF:-1 ,365
 http://185.229.235.30:8005/udp/225.15.3.224:2345
-
-#EXTINF:-1,.Black
-http://stream.mcquack.net/263/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,.red
-http://stream.mcquack.net/69/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,.Sci-Fi
-http://stream.mcquack.net/180/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,31 КАНАЛ KZ
-http://stream.mcquack.net/388/index.m3u8
-#EXTINF:-1,4ever Cinema HD
-http://stream.mcquack.net/258/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,4ever Drama HD
-http://stream.mcquack.net/260/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,4ever Theater HD
-http://stream.mcquack.net/259/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Action Hollywood Movies
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,Amedia 1
-http://stream.mcquack.net/117/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Amedia Hit
-http://stream.mcquack.net/162/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,ATV CineMan
-http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,ATV CineMan
-http://185.57.68.33:80/255/playlist.m3u8
-#EXTINF:-1,Bolt
-http://stream.mcquack.net/73/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Cinema
-http://stream.mcquack.net/62/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,CineMan Action HD
-http://stream.mcquack.net/351/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,CineMan HD
-http://stream.mcquack.net/349/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,CineMan Marvel HD
-http://stream.mcquack.net/354/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Cineman Premium HD
-http://stream.mcquack.net/470/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,CineMan Thriller HD
-http://stream.mcquack.net/352/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,CineMan Top HD
-http://stream.mcquack.net/350/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Cineman VHS HD
-http://stream.mcquack.net/474/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Cineman Катастрофы HD
-http://stream.mcquack.net/471/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,CineMan Комедия
-http://stream.mcquack.net/356/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Cineman Мелодрама HD
-http://stream.mcquack.net/472/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,CineMan Сваты HD
-http://stream.mcquack.net/359/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Cineman Скорая помощь HD
-http://stream.mcquack.net/475/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,CineMan Ужасы HD
-http://stream.mcquack.net/355/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Enter-фильм
-http://stream.mcquack.net/322/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Epic Drama
-http://195.189.60.253/118/index.m3u8
-#EXTINF:-1,Fan HD
-http://stream.mcquack.net/420/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Film.Ua Drama HD
-http://stream.mcquack.net/273/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Fresh Adventure
-http://stream.mcquack.net/432/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Fresh Cinema
-http://stream.mcquack.net/423/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Fresh Comedy
-http://stream.mcquack.net/426/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Fresh Family
-http://stream.mcquack.net/427/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Fresh Fantastic
-http://stream.mcquack.net/429/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Fresh Horror
-http://stream.mcquack.net/431/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Fresh Kids
-http://stream.mcquack.net/425/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Fresh Premiere
-http://stream.mcquack.net/424/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Fresh Rating
-http://stream.mcquack.net/422/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Fresh Romantic
-http://stream.mcquack.net/433/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Fresh Series
-http://stream.mcquack.net/430/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Fresh Thriller
-http://stream.mcquack.net/434/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Fresh VHS
-http://stream.mcquack.net/428/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Hollywood
-http://stream8.cinerama.uz/1443/index.m3u8
-#EXTINF:-1,Hollywood HD
-http://stream.mcquack.net/268/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Kino 1 HD
-http://stream.mcquack.net/395/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Kino 2
-http://stream.mcquack.net/465/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,KINOGRANDE HD
-http://stream.mcquack.net/456/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,KinoKazka
-http://stream.mcquack.net/167/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,KinoLiving HD
-http://stream.mcquack.net/445/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Kinosweet
-http://stream.mcquack.net/447/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Kinowood HD
-http://stream.mcquack.net/446/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,SuzuS TV Cinema
-https://fl1003.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SuzuS TV Kinozakaz
-http://timeshift.arpinet.am/237/index.m3u8
-#EXTINF:-1,SuzuS TV Survival
-https://stream.ushba.tv/akamaiushba/ushba82/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TvBoom.ViP
-https://kb.catcast.tv/content/49702/index.m3u8
-#EXTINF:-1,TvBoom.ViP
-https://kb.catcast.tv/content/49702/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3ODM1MzgwNDEsImV4cCI6MTc4MzYyNDQ0MSwic3ViIjoiQWRtaW4ifQ.RrtIuw_hnB8lCjjgZfUf__9Q8vMvT4CLQigW6q60aBQ
-#EXTINF:-1,Tviksel Кино 1 International
-https://kino-1.catcast.tv/content/38617/index.m3u8?token=0ee1b810cb70fabf816a92c7fbac144a
-#EXTINF:-1,Tviksel Кино 1 International
-https://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1,Tviksel Музыка 1 International
-https://kino-1.catcast.tv/content/37745/index.m3u8
-#EXTINF:-1,Tviksel Музыка 2 International
-https://kino-1.catcast.tv/content/37742/index.m3u8
-#EXTINF:-1,viju TV1000 Action
-http://178.134.1.158:8081/tv1000action/index.m3u8?token=tva.in.ua
-#EXTINF:-1,Блокбастер HD
-http://stream.mcquack.net/364/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,В гостях у сказки
-http://stream.mcquack.net/93/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Время
-http://45.11.139.43:8555/vremya/index.m3u8
-#EXTINF:-1,Дорама
-https://fs.uplink.kz/dorama/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1,Дорама
-http://stream1.cinerama.uz/1273/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Дорама HD
-http://stream.mcquack.net/412/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Индийское кино
-https://s03.watcher.uz/52/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
-#EXTINF:-1,Капитан фантастика
-http://stream.mcquack.net/144/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Кино и Жизнь
-https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=8zEp8CoHlUujIbs_ac3I5g&e=2070281160&scheme=https
-#EXTINF:-1,КиноТВ
-http://stream.mcquack.net/221/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Киномикс HD
-http://stream1.cinerama.uz/1233/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинопоказ
-https://s03.watcher.uz/49/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
-#EXTINF:-1,Кинопоказ
-http://stream.mcquack.net/64/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Кинопремьера HD
-https://s04.watcher.uz/5/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
-#EXTINF:-1,Кинохит
-https://s03.watcher.uz/47/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
-#EXTINF:-1,Классика кино
-https://dvrfl07.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Колобок ТВ - VHS Melodrama
-https://stream.ushba.tv/akamaiushba/ushba64/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Комедийное HD
-http://stream.mcquack.net/74/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Манас ТВ
-http://212.42.111.152:8080/hls/manas.m3u8
-#EXTINF:-1,Ош Пирим KG
-http://212.42.117.34:8080/hls/OshTV.m3u8
-#EXTINF:-1,Родное кино
-https://s05.watcher.uz/45/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
-#EXTINF:-1,Солнечный ТВ
-https://fl.biztv.media/stv_720_bizstvvietfujeyrah/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Сімейні мелодрами+ HD
-http://stream.mcquack.net/137/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Твiй серiал
-http://stream.mcquack.net/466/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Телеканал ЛТВ
-https://bl.rutube.ru/livestream/067561b5754d0b7844762fa92939716b/index.m3u8?s=VkhybvzsPeFenOTeffdd4g&e=2075539823&scheme=https
-#EXTINF:-1,Хит HD
-http://stream.mcquack.net/363/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Шокирующее HD
-http://stream.mcquack.net/75/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Ott Club+Реклама",Приключения HD
 http://stream.mcquack.net/198/tracks-v1a1/mono.ts.m3u8
